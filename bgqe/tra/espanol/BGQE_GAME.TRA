@@ -1,19 +1,19 @@
-/* °Todos los n˙meros no utilizados se usan en setup.tra! */
+/* Todos os n√∫meros n√£o utilizados s√£o usados ‚Äã‚Äãem setup.tra! */
 
-@3    = ~Botella VacÌa~
-@4    = ~Esta es la botella vacÌa que Alanna encontrÛ en la casa del transformado Eltolth. La escritura en la etiqueta dice:
-"MagnÌfica sorpresa:
-Tiempo de efecto: 5 segundos hasta 1 minuto. 
-DuraciÛn por dosificaciÛn correcta: hasta 1 hora.
-°Ten cuidado de no sufrir una sobredosis, ya que pueden producirse efectos secundarios inesperados!
-°No hay garantÌa en caso de fallo!"
-Est· firmado por una firma ilegible que comienza con una "T".~
+@3    = ~Garrafa vazia~
+@4    = ~Esta √© a garrafa vazia que Alanna encontrou na casa transformada de Eltolth. A escrita no r√≥tulo diz:
+"Magn√≠fica surpresa:
+Tempo de efeito: 5 segundos a 1 minuto.
+Dura√ß√£o por dosagem correta: at√© 1 hora.
+Tenha cuidado para n√£o overdose, pois podem ocorrer efeitos colaterais inesperados!
+N√£o h√° garantia em caso de falha!"
+√â assinado por uma assinatura ileg√≠vel que come√ßa com ‚ÄúT‚Äù.~
 @5    = ~Notas de Eltolth.~
-@6    = ~Esto parece ser una especie de diario perteneciente al vecino de Alanna, Eltolth. Al navegar por las p·ginas, encuentras algunas entradas que pueden arrojar algo de luz sobre lo que sucediÛ antes de su transformaciÛn:
-"...HablÈ de nuevo con Tulbor. Lo encontrÈ en el lugar de siempre. Como siempre, querÌa sentarse lejos de la barra, y tuve que invitarle a un trago (...) Dice que sus pociones son igual de buenas que las de Juoma, pero mucho m·s baratas. (...) Me volviÛ a ofrecer la especial. Cuesta una fortuna, °pero creo que vale la pena! Esta vez la probarÈ".
-Las notas terminan aquÌ.~
-@7    = ~Elixir de TransformaciÛn~
-@8    = ~Este es el elixir que deberÌa devolver al pobre Eltolth a su verdadera forma. Si se toma en sobredosis, deberÌa dar una buena bonificaciÛn de fuerza. Beber toda la botella deberÌa producir este efecto.~
+@6    = ~Este parece ser algum tipo de di√°rio pertencente ao vizinho de Alanna, Eltolth. Navegando pelas p√°ginas, voc√™ encontra alguns registros que podem esclarecer o que aconteceu antes de sua transforma√ß√£o:
+"...Falei com o Tulbor novamente. Encontrei-o no lugar de sempre. Como sempre, ele queria sentar longe do bar, e eu tive que pagar uma bebida para ele (...) Ele diz que as po√ß√µes dele s√£o apenas t√£o bons quanto os da Juoma, mas bem mais baratos. (...) Ele me ofereceu o especial de novo. Custa uma fortuna, mas acho que vale a pena! Dessa vez vou tentar."
+As notas terminam aqui.~
+@7    = ~Elixir de Transforma√ß√£o~
+@8    = ~Este √© o elixir que deve devolver o pobre Eltolth √† sua verdadeira forma. Se tomado em overdose, deve dar um belo b√¥nus de for√ßa. Beber a garrafa inteira deve produzir esse efeito.~
 
 @10   = ~Alanna~
 @11   = ~Eltolth~
@@ -22,27 +22,27 @@ Las notas terminan aquÌ.~
 @14   = ~Sra. Dudley~
 @15   = ~Sr. Dudley~
 @16   = ~Annie Dudley~
-@17   = ~El collar de la familia Dudley~
-@18   = ~Este collar de perlas es la reliquia m·s codiciada de los Dudley.~
+@17   = ~O Colar da Fam√≠lia Dudley~
+@18   = ~Este colar de p√©rolas √© a heran√ßa mais cobi√ßada dos Dudleys.~
 
 @20   = ~Sra. Blackwood~
 @21   = ~Sarah~
 @22   = ~Tom~
 @23   = ~Tina~
-@24   = ~La muÒeca de Sarah~
-@25   = ~Esta es la muÒeca de Sarah. Los colores de su rostro se est·n desvaneciendo, pero est· vestida con un vestido y unos zapatos h·bilmente tejidos.~
-@26   = ~Osito de Tom~
-@27   = ~Este es el osito de peluche de Tom. Se ve viejo, usado, pegajoso y sucio, exactamente como deberÌa verse un osito de peluche muy querido por un niÒo pequeÒo.~
-@28   = ~El biberÛn de Sarah~
-@29   = ~Este es el biberÛn de Sarah que te dio la Sra. Blackwood. Est· cubierto con restos de un lÌquido pegajoso, combinado con la arena y la suciedad obligatorias. Est·s seguro de que no quieres beber de Èl.~
-@30   = ~El biberÛn de Tom~
-@31   = ~Esta es el biberÛn de Tom que te dio la Sra. Blackwood. Est· cubierto con restos de un lÌquido pegajoso, combinado con la arena y tierra obligatorias, adem·s de algunas hojas, semillas y una hormiga muerta. Est·s seguro de que no quieres beber de Èl.~
-@32   = ~Caramelos~
-@33   = ~Estos son algunos de los dulces que la Sra. Blackwood le dio a los niÒos. Son una especie de caramelos de colores, dulces y pegajosos.~
-@34   = ~Dulces~
-@35   = ~Estos son algunos de los dulces que la Sra. Blackwood le dio a los niÒos. Parece una especie de almendras confitadas.~
+@24   = ~A boneca da Sara~
+@25   = ~Esta √© a boneca da Sarah. As cores est√£o desaparecendo de seu rosto, mas ela est√° vestida com um vestido e sapatos habilmente tecidos.~
+@26   = ~Urso Tom~
+@27   = ~Este √© o ursinho de pel√∫cia do Tom. Parece velho, usado, pegajoso e sujo, exatamente como deveria ser um ursinho de pel√∫cia muito querido por uma crian√ßa pequena.~
+@28   = ~A garrafa de Sarah~
+@29   = ~Esta √© a garrafa de Sarah sobre a qual a Sra. Blackwood lhe falou. Est√° coberto por vest√≠gios de um l√≠quido pegajoso, combinado com areia e sujeira obrigat√≥ria. Voc√™ tem certeza de que n√£o quer beber √°lcool.~
+@30   = ~A garrafa do Tom~
+@31   = ~Esta es el biber√≥n de Tom que te dio la Sra. Blackwood. Est√° cubierto con restos de un l√≠quido pegajoso, combinado con la arena y tierra obligatorias, adem√°s de algunas hojas, semillas y una hormiga muerta. Est√°s seguro de que no quieres beber de √©l.~
+@32   = ~Bombons~
+@33   = ~Estes s√£o alguns dos doces que a Sra. Blackwood deu √†s crian√ßas. S√£o uma esp√©cie de Bombons colorido, doce pegajoso.~
+@34   = ~Doces~
+@35   = ~Estes s√£o alguns dos doces que a Sra. Blackwood deu √†s crian√ßas. Parece uma esp√©cie de am√™ndoa cristalizada.~
 @36   = ~Abrigo de Sara~
-@37   = ~Este es el abrigo de Sarah.~
+@37   = ~Este √© o abrigo de Sarah.~
 
 @40   = ~Arnim~
 @41   = ~Lady von Undenzieht~
@@ -63,8 +63,8 @@ Las notas terminan aquÌ.~
 
 @57   = ~Sir Trun~
 @58   = ~Linda~
-@59   = ~AntÌdoto Alternativo~
-@60   = ~Esta es la pociÛn alternativa barata. DeberÌa transformar a Eltolth en su antiguo yo...~
+@59   = ~Ant√≠doto Alternativo~
+@60   = ~Esta √© a po√ß√£o alternativa barata. Ele deveria transformar Eltolth no que era antes...~
 
 
 
@@ -75,8 +75,8 @@ Las notas terminan aquÌ.~
 
 
 @62   = ~Hamster~
-@63   = ~Este es el h·mster del vendedor de mascotas que se "quedÛ" con Minsc, o mejor dicho con Boo... Tienes la fuerte sospecha de que es del sexo opuesto al de Boo, y por lo que recuerdas sobre la poca frecuencia de reproducciÛn de los roedores, tenerlos a ambos juntos podrÌa traer consecuencias muy pronto.~ 
-@64   = ~Este es uno de los pequeÒos h·msters que surgieron de la relaciÛn de Boo con aquel h·mster sin nombre.~
+@63   = ~Este √© o hamster do vendedor de animais que "ficou" com Minsc, ou melhor, com Boo... Voc√™ suspeita fortemente que ele seja do sexo oposto ao Boo, e pelo que voc√™ lembra sobre a raridade de reprodu√ß√£o de roedores, ter os dois juntos poderia ter√° consequ√™ncias muito em breve.~ 
+@64   = ~Este √© um dos pequenos hamsters que surgiram do relacionamento de Boo com aquele hamster sem nome.~
 @65   = ~Edward~
 
 
@@ -85,15 +85,15 @@ Las notas terminan aquÌ.~
 @99   = ~Mago~
 @100  = ~Teodor~
 @101  = ~Huevo~
-@102  = ~Este es un tipo de huevo que el repartidor te dio para su rescate. Se puede usar como una piedra ioun y seguro que serÌa poderoso. Sin embargo, tienes la impresiÛn de que algo se mueve dentro.~
-@103  = ~Huevo de la AraÒa Congelada~
-@104  = ~Este es un huevo preservado de una AraÒa Espectral. Usado como una piedra ioun, sin duda es asqueroso, pero protege a quien lo lleva de ser retenido m·gicamente.
+@102  = ~Este √© um tipo de ovo que o entregador lhe deu como resgate. Pode ser usada como uma pedra ioun e seria poderosa com certeza. Por√©m, voc√™ tem a impress√£o de que algo est√° se movendo por dentro.~
+@103  = ~Ovo de aranha congelado~
+@104  = ~Este √© um ovo preservado de uma Aranha Espectral. Usado como uma pedra ioun, √© certamente nojento, mas protege o usu√°rio de ser contido magicamente.
 
-ESTADÕSTICAS:
+ESTAD√çSTICAS:
  
 
-Especial: El portador es inmune a Retener criatura.
-Carisma: Reducido en 3 puntos mientras estÈ equipado
+Especial: O portador est√° imune a Hold Creature.
+Carisma: Reduzido em 3 pontos enquanto equipado
 
 Peso: 2~
 
@@ -101,154 +101,154 @@ Peso: 2~
 /* nuevos contenidos v10 */
 
 
-@106  = ~Vieja Madre~
+@106  = ~Velha m√£e~
 
 
 /* nuevos contenidos v15 */
 
-@107   = ~Casa del vecino de Alanna~
-@108   = ~Vendedor de mascotas~
+@107   = ~Casa da vizinha da Alanna~
+@108   = ~vendedor de animais de estima√ß√£o~
 
 
 /* nuevos contenidos v16 */
 @110  = ~Espada de Brage~
-@111  = ~Espada a dos manos de Brage +1~
-/* descripciÛn sin identificar bg1:totsc */
-@112  = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar la espada larga, se alargÛ la hoja. Eventualmente, el mango tuvo que extenderse y se necesitaron dos manos para balancear correctamente la espada. La funciÛn principal de las espadas a dos manos es dividir a los caballeros montados y romper las formaciones de picas.
+@111  = ~Espada de duas m√£os de Brage +1~
+/* descripci√≥n sin identificar bg1:totsc */
+@112  = ~A espada de duas m√£os √© um derivado da espada longa. Os armeiros sempre procuraram maneiras de melhorar as armas existentes. Num esfor√ßo para melhorar a espada longa, a l√¢mina foi alongada. Eventualmente, o cabo teve que ser estendido e duas m√£os foram necess√°rias para balan√ßar a espada corretamente. A principal fun√ß√£o das espadas de duas m√£os √© dividir os cavaleiros montados e desmembrar as forma√ß√µes de lan√ßas.
 
-Esta es la espada que Brage encargÛ en Aguas Profundas.
+Esta √© a espada que Brage encomendou em √Åguas Profundas.
 
-ESTADÕSTICAS:
+ESTAD√çSTICAS:
 
-DaÒo: 1D10
-Tipo de daÒo: cortante
+Dano: 1D10
+Tipo de dano: cortante
 peso: 15
+fator de velocidade: 10
+Tipo de competencia: Espad√≥n
+Tipo: 2 m√£os
+N√£o utiliz√°vel por:
+  Druida
+  Cl√©rigo
+  Mago
+  Ladr√£o~
+/* descripci√≥n identificada bg1:totsc */
+@113  = ~A espada de duas m√£os √© um derivado da espada longa. Os armeiros sempre procuraram maneiras de melhorar as armas existentes. Num esfor√ßo para melhorar a espada longa, a l√¢mina foi alongada. Eventualmente, o cabo teve que ser estendido e duas m√£os foram necess√°rias para balan√ßar a espada corretamente. A principal fun√ß√£o das espadas de duas m√£os √© dividir os cavaleiros montados e desmembrar as forma√ß√µes de lan√ßas. Este √© particularmente bom porque foi encantado com algumas propriedades m√°gicas.
+
+Esta √© a espada que Brage encomendou em √Åguas Profundas.
+
+ESTAD√çSTICAS:
+
+Dano: 1D10 +1
+TACO:b√¥nus +1
+Tipo de dano: cortante
+Peso: 12
+Fator de velocidade: 9
+Tipo de competencia: Espada larga
+Tipo: 2 m√£os
+N√£o utiliz√°vel por:
+  Druida
+  Cl√©rigo
+  Mago
+  Ladr√£o~
+/* descripci√≥n sin identificar tutu / bgt */
+@114  = ~A espada de duas m√£os √© um derivado da espada longa. Os armeiros sempre procuraram maneiras de melhorar as armas existentes. Num esfor√ßo para melhorar a espada longa, a l√¢mina foi alongada. Eventualmente, o cabo teve que ser estendido e duas m√£os foram necess√°rias para balan√ßar a espada corretamente. A principal fun√ß√£o das espadas de duas m√£os √© dividir os cavaleiros montados e desmembrar as forma√ß√µes de lan√ßas.
+
+Esta √© a espada que Brage encomendou em √Åguas Profundas.
+
+ESTAD√çSTICAS:
+
+Da√±o: 1D10
+Tipo de dano: cortante
+Peso: 12
 Factor de velocidad: 10
-Tipo de competencia: EspadÛn
-Tipo: 2 manos
-No utilizable por:
+Tipo de competencia: espada de duas m√£os
+Tipo: 2 m√£os
+Requer: 14 de For√ßa
+N√£o utiliz√°vel por:
   Druida
-  ClÈrigo
+  Cl√©rigo
   Mago
-  LadrÛn~
-/* descripciÛn identificada bg1:totsc */
-@113  = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar la espada larga, se alargÛ la hoja. Eventualmente, el mango tuvo que extenderse y se necesitaron dos manos para balancear correctamente la espada. La funciÛn principal de las espadas a dos manos es dividir a los caballeros montados y romper las formaciones de picas. Esta es particularmente buena ya que ha sido encantada con algunas propiedades m·gicas.
+  Ladr√£o~
+/* descripci√≥n indentificada tutu / bgt */
+@115  = ~A espada de duas m√£os √© um derivado da espada longa. Os armeiros sempre procuraram maneiras de melhorar as armas existentes. Num esfor√ßo para melhorar a espada longa, a l√¢mina foi alongada. Eventualmente, o cabo teve que ser estendido e duas m√£os foram necess√°rias para balan√ßar a espada corretamente. A principal fun√ß√£o das espadas de duas m√£os √© dividir os cavaleiros montados e desmembrar as forma√ß√µes de lan√ßas. Este √© particularmente bom porque foi encantado com algumas propriedades m√°gicas.
 
-Esta es la espada que Brage encargÛ en Aguas Profundas.
+Esta √© a espada que Brage encomendou em √Åguas Profundas.
 
-ESTADÕSTICAS:
+ESTATISTICAS:
 
-DaÒo: 1D10 +1
-TACO: bonificaciÛn +1
-Tipo de daÒo: cortante
+Dano: 1D10 +1
+TACO: b√¥nus +1
+Tipo de dano: cortante
 Peso: 12
-Factor de velocidad: 9
-Tipo de competencia: EspadÛn
-Tipo: 2 manos
-No utilizable por:
-  Druida
-  ClÈrigo
-  Mago
-  LadrÛn~
-/* descripciÛn sin identificar tutu / bgt */
-@114  = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar la espada larga, se alargÛ la hoja. Eventualmente, el mango tuvo que extenderse y se necesitaron dos manos para balancear correctamente la espada. La funciÛn principal de las espadas a dos manos es dividir a los caballeros montados y romper las formaciones de picas.
+Fator de velocidade: 9
+Tipo de competencia: Espada de duas m√£os
+Tipo: 2 m√£os
+Requer: 14 de For√ßa
+N√£o utiliz√°vel por:
+   druida
+   Cl√©rigo
+   M√°gico
+   Ladr√£o~
+/* descripci√≥n identificada bgee / eet */
+@116  = ~A espada longa √© um derivado da espada longa. Os armeiros sempre procurar√£o maneiras de melhorar as armas existentes. Nenhum esfor√ßo foi feito para melhorar a espada longa, a l√¢mina foi alongada. Eventualmente, a ponta deve ser estendida e as duas ferramentas mais necess√°rias para balan√ßar a espada corretamente. A principal fun√ß√£o das espadas duplas √© dividir os cavaleiros montados e desmembrar as forma√ß√µes de lan√ßas. Este √© particularmente legal porque foi encantado com algumas propriedades m√°gicas.
 
-Esta es la espada que Brage encargÛ en Aguas Profundas.
+Esta √© a espada que Brage confiou a √Åguas Profundas.
 
-ESTADÕSTICAS:
-
-DaÒo: 1D10
-Tipo de daÒo: cortante
-Peso: 12
-Factor de velocidad: 10
-Tipo de competencia: Espada a dos manos
-Tipo: 2 manos
-Requiere: 14 Fuerza
-No utilizable por:
-  Druida
-  ClÈrigo
-  Mago
-  LadrÛn~
-/* descripciÛn indentificada tutu / bgt */
-@115  = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar la espada larga, se alargÛ la hoja. Eventualmente, el mango tuvo que extenderse y se necesitaron dos manos para balancear correctamente la espada. La funciÛn principal de las espadas a dos manos es dividir a los caballeros montados y romper las formaciones de picas. Esta es particularmente buena ya que ha sido encantada con algunas propiedades m·gicas.
-
-Esta es la espada que Brage encargÛ en Aguas Profundas.
-
-ESTADÕSTICAS:
-
-DaÒo: 1D10 +1
-TACO: bonificaciÛn +1
-Tipo de daÒo: cortante
-Peso: 12
-Factor de velocidad: 9
-Tipo de competencia: Espada a dos manos
-Tipo: 2 manos
-Requiere: 14 Fuerza
-No utilizable por:
-  Druida
-  ClÈrigo
-  Mago
-  LadrÛn~
-/* descripciÛn identificada bgee / eet */
-@116  = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar la espada larga, se alargÛ la hoja. Eventualmente, el mango tuvo que extenderse y se necesitaron dos manos para balancear correctamente la espada. La funciÛn principal de las espadas a dos manos es dividir a los caballeros montados y romper las formaciones de picas. Esta es particularmente buena ya que ha sido encantada con algunas propiedades m·gicas.
-
-Esta es la espada que Brage encargÛ en Aguas Profundas.
-
-ESTADÕSTICAS:
+ESTATISTICAS:
 
 GAC0: +1
-DaÒo: 1d10+1 (cortante)
-Factor de velocidad: 9
-Tipo de competencia: Espada a dos manos
-Tipo: A dos manos
-Requiere:
-  14 fuerza
+Dano: 1d10+1 (cortante)
+Fator de velocidade: 9
+Tipo de competencia: Espada de duas m√£os
+Tipo: Duas m√£os
+Requer:
+   14 for√ßa
 
 Peso: 12~
-@117  = ~Paleto~
-@118  = ~Mi siervo Mulahey,
+@117  = ~Caipira~
+@118  = ~Meu servo Mulahey,
 
-tu est˙pido descuido ha hecho que D. interfiera. EnviÛ una agradable sorpresa al Comandante de Nashkel, quien descubriÛ que su nueva espada era m·s especial de lo que esperaba. Las fuerzas de Amn est·n debilitadas por ahora y no entrar·n en los niveles m·s profundos de la mina. Sin embargo, prep·rate para los intrusos, ya que numerosas fuerzas se sienten obligadas a investigar los avistamientos de tus est˙pidos kobolds. No me vuelvas a fallar. 
+tu est√∫pido descobriu que D. interfiera. Enviou uma agrad√°vel surpresa ao Comandante de Nashkel, que descobriu que sua nova espada era mais especial do que ele esperava. As for√ßas de Amn est√£o debilitadas por agora e n√£o entrar√£o nos n√≠veis mais profundos da mina. No entanto, prepare-se para os intrusos, pois in√∫meras for√ßas se sentem obrigadas a investigar as observa√ß√µes de seus kobolds est√∫pidos. N√£o, eu vou cair.
 
 TAZOK~
 @119  = ~Borda,
 
-no nos importa si pones todo tu esfuerzo en la tarea que te ordenamos hacer. No es nuestra culpa que el Comandante fuera solo en su investigaciÛn y por lo tanto encontrara la nueva espada mientras estaba solo en el camino en lugar de estar dentro del cuartel. Es tu descuido y casi lo hecha todo a perder. Tienes suerte de que ese tonto haya regresado a Nashkel, por lo que el oro que gastamos en esa hoja con su maldiciÛn especial no se perder· por completo. No, no recibir·s el segundo importe del pago. TodavÌa puedes conservar la espada original que se suponÌa que recibirÌa Brage. Eso ser· suficiente compensaciÛn. AlÈgrate de que no te persigamos.
+n√£o nos importa se voc√™ colocar todo o seu esfor√ßo na tarefa que ordenamos fazer. N√£o √© nossa culpa que o Comandante tenha fugido sozinho em sua investiga√ß√£o e por isso encontrou a nova espada enquanto estava sozinho no caminho, em vez de estar dentro do quarto. Voc√™ foi descoberto e pode fazer tudo a perder. Voc√™ tem certeza de que isso foi totalmente revertido para Nashkel, porque o ouro que gastamos naquela noite com sua maldi√ß√£o especial n√£o ser√° perdido por completo. N√£o, voc√™ n√£o receber√° a segunda importa√ß√£o do pagamento. Todavia voc√™ pode conservar a espada original que foi usada para receber Brage. Isso ser√° compensa√ß√£o suficiente. Alegra-te que n√£o te persigamos.
 TAZOK~
 @120  = ~Tazok,
 
-Exijo que me pague la segunda mitad de lo que acordamos: el Comandante matÛ a su propia familia y no a la mitad de la guarniciÛn, no es culpa mÌa. °Las fuerzas de Nashkel est·n debilitadas y ese fue el trato! Puede enviar cualquier carta para mÌ a mi contacto en el Carnaval de Nashkel. EncontrÈ a un mercader lo suficientemente desesperado como para comprar algunas de mis pociones especiales, tambiÈn me entregar· cualquier carta.
+Exijo que eu pague a segunda metade do que acordamos: o Comandante matou a sua pr√≥pria fam√≠lia e n√£o a metade da garantia, n√£o √© minha culpa. As for√ßas de Nashkel est√£o debilitadas e foram o trato! Voc√™ pode enviar qualquer carta para mim para meu contato no Carnaval de Nashkel. Se encontrar um comerciante suficientemente desesperado para comprar algumas de minhas po√ß√µes especiais, tamb√©m me entregar√° qualquer carta.
 
 Borda~
-@121  = ~Carta al Captain Tollar Kieres~
-@122  = ~Esta carta lleva el sello oficial de la Liga Mercantil de Puerta de Baldur. Te lo entregÛ Aldeth Sashenstar y est· dirigida al Capit·n Kieres, que actualmente reside en la TesorerÌa de la Liga Mercantil en la parte noreste de la ciudad.~ 
+@121  = ~Carta ao Capit√£o Tollar Kieres~
+@122  = ~Esta carta leva o vendedor oficial da Liga Mercantil de Puerta de Baldur. Ele foi contratado por Aldeth Sashenstar e dirigido pelo Capit√£o Kieres, que atualmente reside na Tesorer√≠a da Liga Mercantil na parte norte da cidade.~ 
 
-@123  =  ~Anillo con el sello de la Liga Mercantil~
-@124  =  ~Estos anillos solo se entregan a personas que gozan de la plena confianza de la Liga Mercantil. Sirven como identificaciÛn y deberÌan otorgarle acceso libre y completo a la TesorerÌa de la Liga Mercantil normalmente restringida.
-Los rumores dicen que estos anillos son una de las razones del Èxito de la Liga, aparentemente est·n encantados de alguna manera.
+@123  =  ~Anel com o Selo da Liga Mercantil~
+@124  =  ~Esses an√©is s√≥ ser√£o entregues a pessoas que gozam da plena confian√ßa da Liga Mercantil. Sirven como identifica√ß√£o e dever√° otorgarle acesso gratuito e completo √† Tesorer√≠a da Liga Mercantil normalmente restrita.
+Os rumores dizem que esses an√©is s√£o uma das raz√µes do sucesso da Liga, aparentemente est√£o encantados de alguma forma.
 
-ESTADÕSTICAS:
+ESTAD√çSTICAS:
 
-Suerte 3 veces al dÌa
-Encantar persona 3 veces al dÌa~
-@125  = ~La espada a dos manos es un derivado de la espada larga. Los armeros siempre han buscado formas de mejorar las armas existentes. En un esfuerzo por mejorar la espada larga, se alargÛ la hoja. Eventualmente, el mango tuvo que extenderse y se necesitaron dos manos para balancear correctamente la espada. La funciÛn principal de las espadas a dos manos es dividir a los caballeros montados y romper las formaciones de picas. Esta es particularmente buena ya que ha sido encantada con algunas propiedades m·gicas.
+Sorte 3 vezes ao dia
+Encante uma pessoa 3 vezes ao dia~
+@125  = ~A espada de duas m√£os √© um derivado da espada longa. Os armeiros sempre procuraram maneiras de melhorar as armas existentes. Num esfor√ßo para melhorar a espada longa, a l√¢mina foi alongada. Eventualmente, o cabo teve que ser estendido e duas m√£os foram necess√°rias para balan√ßar a espada corretamente. A principal fun√ß√£o das espadas de duas m√£os √© dividir os cavaleiros montados e desmembrar as forma√ß√µes de lan√ßas. Este √© particularmente bom porque foi encantado com algumas propriedades m√°gicas.
 
-Esta es la espada que Brage encargÛ en Aguas Profundas.
+Esta √© a espada que Brage encomendou em √Åguas Profundas.
 
-ESTADÕSTICAS:
+ESTAD√çSTICAS:
 
 GAC0: +1
-DaÒo: 1d10+1 (cortante)
+Da√±o: 1d10+1 (cortante)
 Factor de velocidad: 9
-Tipo de competencia: Espada a dos manos
-Tipo: A dos manos
+Tipo de competencia: Espada de duas m√£os
+Tipo: Com as duas m√£os
 Requiere:
-  14 fuerza
+  14 for√ßa
 
 Peso: 12~
 
 
-@126  = ~Casa de un granjero preocupado~
+@126  = ~Casa de um fazendeiro preocupado~
 
 
 
@@ -256,90 +256,90 @@ Peso: 12~
 
 
 @2002    = ~Ghoul~
-@2003    = ~Granjero~
-@2004	   = ~Un granjero preocuapdo
+@2003    = ~Fazendeiro~
+@2004	   = ~Um fazendeiro preocupado
 
-Un granjero me pidiÛ que fuera a su casa, por si querÌamos ocuparnos de un asunto que lo ha estado molestando.~
-@2005	 = ~Un granjero preocuapdo
+Um fazendeiro me pediu para ir at√© sua casa, caso quis√©ssemos resolver algum problema que o incomodava.~
+@2005	 = ~Um fazendeiro preocupado
 	
-El granjero de Beregost ya no necesita preocuparse, el ghoul que lo perseguÌa todas las noches ahora est· realmente muerto.~
-@2006	 = ~Un granjero preocuapdo
+O fazendeiro Beregost n√£o precisa mais se preocupar, o ghoul que o perseguia todas as noites agora est√° realmente morto.~
+@2006	 = ~~Um fazendeiro preocupado
 
-Un granjero nos dijo que habÌa visto algo moverse cerca de su casa. Aunque no sabe lo que era.~
+Um fazendeiro nos contou que viu algo se movendo perto de sua casa. Embora ele n√£o saiba o que era.~
 
-@2007	   = ~Un granjero preocuapdo~
+@2007	   = ~Um fazendeiro preocupado~
 
 @9002   = ~Sylar~
-@9003	  = ~Cuerpos por una buena causa
+@9003	  = ~Corpos por uma boa causa
 
-En La Tienda del Silencio conocÌ a un nigromante Èlfico llamado Sylar. Aparentemente ha descubierto un nuevo mÈtodo que utiliza la nigromancia para resucitar criaturas como un clÈrigo. Si lo hace, puede mejorar la imagen de las artes nigrom·nticas, o eso dice. Para su investigaciÛn, sin embargo, necesita cad·veres que deberÌa sacar de las alcantarillas para Èl.
-Est· dispuesto a pagar 150 piezas de oro por cada cad·ver entregado. 
+Na Tenda do Sil√™ncio conheci um necromante √©lfico chamado Sylar. Aparentemente, ele descobriu um novo m√©todo que usa necromancia para ressuscitar criaturas como um cl√©rigo. Fazer isso pode melhorar a imagem das artes necrom√¢nticas, ou pelo menos √© o que ele diz. Para sua investiga√ß√£o, por√©m, ele precisa de cad√°veres que dever√° desenterrar dos esgotos para ele.
+Ele est√° disposto a pagar 150 moedas de ouro por cada cad√°ver entregue.
 
-°Puedo matar tres p·jaros de un tiro: ayudar a la ciencia, obtener algo de oro y hacer algo por el medio ambiente!~
+Posso matar tr√™s coelhos com uma cajadada s√≥: ajudar a ci√™ncia, conseguir algum ouro e fazer algo pelo meio ambiente!~
 
-@9004	= ~Cuerpos por una buena causa
+@9004	= ~Corpos por uma boa causa
 
-En La Tienda del Silencio conocÌ a un nigromante Èlfico llamado Sylar. Aparentemente ha descubierto un nuevo mÈtodo que utiliza la nigromancia para resucitar criaturas como un clÈrigo. Si lo hace, puede mejorar la imagen de las artes nigrom·nticas, o eso dice. Para su investigaciÛn, sin embargo, necesita cad·veres que deberÌa sacar de las alcantarillas para Èl.
-Est· dispuesto a pagar 150 piezas de oro por cada cad·ver entregado. 
+Na Tenda do Sil√™ncio conheci um necromante √©lfico chamado Sylar. Aparentemente, ele descobriu um novo m√©todo que usa necromancia para ressuscitar criaturas como um cl√©rigo. Fazer isso pode melhorar a imagem das artes necrom√¢nticas, ou pelo menos √© o que ele diz. Para sua investiga√ß√£o, por√©m, ele precisa de cad√°veres que dever√° desenterrar dos esgotos para ele.
+Ele est√° disposto a pagar 150 moedas de ouro por cada cad√°ver entregue.
 
-Sin embargo, no estaba interesado en ayudarlo. Si cambio de opiniÛn, sÈ dÛnde puedo encontrarlo.~
+No entanto, ele n√£o estava interessado em ajud√°-lo. Se eu mudar de ideia, sei onde posso encontr√°-lo.~
 
-@9005	= ~Cuerpos por una buena causa~
+@9005	= ~Corpos por uma boa causa~
 
 
 //////////////////////////////////////////////////////////////////////////////
-//Entradas del diario...
+//Registros do di√°rio...
 //////////////////////////////////////////////////////////////////////////////
 
-//La misiÛn del Lodo
+//A miss√£o da Lama
 
-@10000  = ~Beregost: El vecino de Alanna en problemas~
+@10000  = ~Beregost: vizinho de Alanna em apuros~
 
 //@63 (c#q01001.tra)
-@10001  = ~Beregost: El vecino de Alanna en problemas
+@10001  = ~Beregost: vizinho de Alanna em apuros
 
-Una mujer desesperada llamada Alanna se me acercÛ en Beregost. Algo no va bien con su vecino. DeberÌa ir y echar un vistazo.~
+Uma mulher desesperada chamada Alanna me abordou em Beregost. Algo est√° errado com seu vizinho. Eu deveria ir dar uma olhada.~
 
 //@64 (c#q01001.tra)
-@10002  = ~Beregost: El vecino de Alanna en problemas
+@10002  = ~Beregost: vizinho de Alanna em apuros
 
-Una mujer desesperada llamada Alanna se me acercÛ en Beregost. Algo no va bien con su vecino.~
+Uma mulher desesperada chamada Alanna me abordou em Beregost. Algo est√° errado com seu vizinho.~
 
 //@65 (c#q01001.tra)
-@10003  = ~Beregost: El vecino de Alanna en problemas
+@10003  = Beregost: vizinho de Alanna em apuros
 
-Eltolth me dio 200 mo por nuestra ayuda. SalÌ de su casa sabiendo que hacÌa felices a dos personas.~
+Eltolth me deu 200 Ouro pela nossa ajuda. Sa√≠ da casa dele sabendo que fiz duas pessoas felizes.~
 
 
 //@66 (c#q01001.tra)
-@10004  = ~Beregost: El vecino de Alanna en problemas
+@10004  = ~Beregost: vizinho de Alanna em apuros
 
-EncontrÈ al vendedor de elixir de la pociÛn de transformaciÛn de Eltolth, pero necesito pruebas de su culpabilidad.~
+Encontrei o vendedor do elixir da po√ß√£o de transforma√ß√£o de Eltolth, mas preciso de uma prova de sua culpa.~
 
 //@67 (c#q01001.tra)
-@10005  = ~Beregost: El vecino de Alanna en problemas
+@10005  = ~Beregost: vizinho de Alanna em apuros
 
-°El elixir de transformaciÛn para Eltolth costar· 100 piezas de oro!~
+O elixir de transforma√ß√£o para Eltolth custar√° 100 pe√ßas de ouro!~
 
 //@96 (c#q01001.tra)
-@10006  = ~Beregost: El vecino de Alanna en problemas
+@10006  = ~Beregost: vizinho de Alanna em apuros
 
-La pociÛn alternativa no funcionÛ. Bueno, supongo que encontrar·n ayuda en otra parte.~
+A po√ß√£o alternativa n√£o funcionou. Bem, acho que eles encontrar√£o ajuda em outro lugar.~
 
 //@103 (c#q01001.tra)
-@10064   = ~Beregost: El vecino de Alanna en problemas
+@10064   = ~Beregost: vizinho de Alanna em apuros
 
-La pociÛn alternativa no funcionÛ. °Pero valiÛ la pena ver a la mujer besando a un lodo!~
+A po√ß√£o alternativa n√£o funcionou. Mas valeu a pena ver a mulher beijando uma lama!~
 
 //@110 (c#q01001.tra)
-@10007  = ~Beregost: El vecino de Alanna en problemas
+@10007  = ~Beregost: vizinho de Alanna em apuros
 
-Ups. Parece que Alanna y su vecino est·n pacÌficamente unidos... como lodos (muertos). Tulbor no mintiÛ cuando advirtiÛ sobre los posibles efectos secundarios no deseados de esa pociÛn barata.~
+Ops. Parece que Alanna e seu vizinho est√£o unidos pacificamente... como lama (morta). Tulbor n√£o estava mentindo quando alertou sobre os poss√≠veis efeitos colaterais indesejados daquela po√ß√£o barata.~
 
 //@7 (c#q01003.tra)
-@10008  = ~Beregost: El vecino de Alanna en problemas
+@10008  = ~Beregost: vizinho de Alanna em apuros
 
-Parece que Eltolth no puede aceptar una broma. Tuve que matar... a eso.~
+Parece que Eltolth n√£o aguenta piadas. Eu tive que matar... aquilo.~
 
 
 //tesoro familiar: c#q02005.tra
@@ -350,91 +350,91 @@ Parece que Eltolth no puede aceptar una broma. Tuve que matar... a eso.~
 //@4 
 @10010  = ~La Familia Quarrel en Beregost
 
-ConocÌ a una extraÒa pareja en una de las casas de Beregost. Aparentemente, el esposo y la esposa ya no se hablan. Tal vez deberÌa averiguar quÈ sucede.~
+Conoc√≠ a una extra√±a pareja en una de las casas de Beregost. Aparentemente, el esposo y la esposa ya no se hablan. Tal vez deber√≠a averiguar qu√© sucede.~
 
 //@25
 @10011  = ~La Familia Quarrel en Beregost
 
-ComprÈ el collar de la familia Dudley por las 500 po prometidas. Su problema de dinero deberÌa haber quedado resuelto.~
+Compr√© el collar de la familia Dudley por las 500 po prometidas. Su problema de dinero deber√≠a haber quedado resuelto.~
 
 //@27
 @10012  = ~La Familia Quarrel en Beregost
 
-ComprÈ el collar de la familia Dudley. En lugar de dar sÛlo las 500 mo prometidas, logrÈ "pasar de estranjis" otras 50 po a la bolsa de dinero del Sr. Dudley. Espero que la familia estÈ bien ahora.~
+Compr√© el collar de la familia Dudley. En lugar de dar s√≥lo las 500 mo prometidas, logr√© "pasar de estranjis" otras 50 po a la bolsa de dinero del Sr. Dudley. Espero que la familia est√© bien ahora.~
 
 //@29
 @10013  = ~La Familia Quarrel en Beregost
 
-ComprÈ el collar de la familia Dudley. En lugar de dar sÛlo las 500 mo prometidas, logrÈ "pasar de estranjis" otras 100 po a la bolsa de dinero del Sr. Dudley. Espero que la familia estÈ bien ahora.~
+Compr√© el collar de la familia Dudley. En lugar de dar s√≥lo las 500 mo prometidas, logr√© "pasar de estranjis" otras 100 po a la bolsa de dinero del Sr. Dudley. Espero que la familia est√© bien ahora.~
 
 //@110
 @10014  = ~La Familia Quarrel en Beregost
 
-PrometÌ a los Dudley de Beregost comprar su collar de perlas por 500 po.~
+Promet√≠ a los Dudley de Beregost comprar su collar de perlas por 500 po.~
 
 //@114
 @10015  = ~La Familia Quarrel en Beregost
 
-El problema esta resuelto. La hija se llevÛ el collar para que sus padres no lo vendieran... Ahora lo devolver·.~
+El problema esta resuelto. La hija se llev√≥ el collar para que sus padres no lo vendieran... Ahora lo devolver√°.~
 
 //@145
 @10016  = ~La Familia Quarrel en Beregost
 
-El Sr. Dudley trajo el oro extra... Los Dudley son gente honesta y orgullosa. Bueno, su problema de dinero deberÌa resolverse de todos modos.~
+El Sr. Dudley trajo el oro extra... Los Dudley son gente honesta y orgullosa. Bueno, su problema de dinero deber√≠a resolverse de todos modos.~
 
 //@146
 @10017  = ~La Familia Quarrel en Beregost
 
-El Sr. Dudley querÌa traer el oro extra... Los Dudley son gente honesta y orgullosa. Sin embargo, podrÌa convencerlo de que lo aceptara. Su problema de dinero deberÌa resolverse ahora.~
+El Sr. Dudley quer√≠a traer el oro extra... Los Dudley son gente honesta y orgullosa. Sin embargo, podr√≠a convencerlo de que lo aceptara. Su problema de dinero deber√≠a resolverse ahora.~
 
 //@155
 @10018  = ~La Familia Quarrel en Beregost
 
-De alg˙n modo, resolvÌ el problema.~
+De alg√∫n modo, resolv√≠ el problema.~
 
 //@160
 @10019  = ~La Familia Quarrel en Beregost
 
-El problema esta resuelto. La hija cogiÛ el collar para que no se pudiera vender... Yo se lo devolvÌ.~
+El problema esta resuelto. La hija cogi√≥ el collar para que no se pudiera vender... Yo se lo devolv√≠.~
 
 
-/* NiÒera en Nashkel: c#q03008_9_10_11.tra */
+/* Ni√±era en Nashkel: c#q03008_9_10_11.tra */
 
 
-@10020  = ~NiÒera en Nashkel~
+@10020  = ~Ni√±era en Nashkel~
 
 //@10
-@10021  = ~NiÒera en Nashkel
+@10021  = ~Ni√±era en Nashkel
 
-La madre vino a recoger a sus dos hijos. Creo que todo saliÛ bien.~
+La madre vino a recoger a sus dos hijos. Creo que todo sali√≥ bien.~
 
 //@49
-@10022  = ~NiÒera en Nashkel
+@10022  = ~Ni√±era en Nashkel
 
-Me ofrecÌ a cuidar a dos niÒos en Nashkel, pero la madre no aceptÛ. Parece que no parezco lo suficientemente confiable... todavÌa.~
+Me ofrec√≠ a cuidar a dos ni√±os en Nashkel, pero la madre no acept√≥. Parece que no parezco lo suficientemente confiable... todav√≠a.~
 
 //@54
-@10023  = ~NiÒera en Nashkel
+@10023  = ~Ni√±era en Nashkel
 
-AceptÈ cuidar a dos niÒos en Nashkel. La madre estar· esperando con los niÒos hasta que tenga tiempo de cumplir con mi oferta.~
+Acept√© cuidar a dos ni√±os en Nashkel. La madre estar√° esperando con los ni√±os hasta que tenga tiempo de cumplir con mi oferta.~
  
 //@56
-@10024  = ~NiÒera en Nashkel
+@10024  = ~Ni√±era en Nashkel
 
-Me ofrecÌ a cuidar a dos niÒos en Nashkel, pero retirÈ mi oferta. Sin embargo, la madre parece lo suficientemente desesperada como para aceptar si se lo ofreciese de nuevo.~
+Me ofrec√≠ a cuidar a dos ni√±os en Nashkel, pero retir√© mi oferta. Sin embargo, la madre parece lo suficientemente desesperada como para aceptar si se lo ofreciese de nuevo.~
 
 //@66
-@10025  = ~NiÒera en Nashkel
+@10025  = ~Ni√±era en Nashkel
 
-AceptÈ cuidar a dos niÒos en Nashkel. La madre deberÌa estar de regreso en media hora. Espera que nos encontremos en la misma ·rea. No deberÌa salir de la zona para evitar malentendidos.~
+Acept√© cuidar a dos ni√±os en Nashkel. La madre deber√≠a estar de regreso en media hora. Espera que nos encontremos en la misma √°rea. No deber√≠a salir de la zona para evitar malentendidos.~
 
-@10065  = ~NiÒera en Nashkel
+@10065  = ~Ni√±era en Nashkel
 
-HabÌa una madre con dos... mocosos en Nashkel. Los ahuyentÈ. °No soporto los lamentos de los niÒos!~
+Hab√≠a una madre con dos... mocosos en Nashkel. Los ahuyent√©. ¬°No soporto los lamentos de los ni√±os!~
 
-@10066  = ~NiÒera en Nashkel
+@10066  = ~Ni√±era en Nashkel
 
-Huh, parece que la madre de Nashkel conociÛ a un par de corpulentos berserkers de buen corazÛn que pensaron que tenÌan que darme una lecciÛn. Supongo que no vivieron lo suficiente para aprender esa lecciÛn...~
+Huh, parece que la madre de Nashkel conoci√≥ a un par de corpulentos berserkers de buen coraz√≥n que pensaron que ten√≠an que darme una lecci√≥n. Supongo que no vivieron lo suficiente para aprender esa lecci√≥n...~
 
 /* El Monstruo de Nashkel: c#q04001_3_4_5.tra */
 
@@ -442,116 +442,116 @@ Huh, parece que la madre de Nashkel conociÛ a un par de corpulentos berserkers d
 //@1 (c#q04001_3_4_5.tra)
 @10026  = ~Nashkel Monster
 
-MatÈ a un bebÈ wyvern en Nashkel que estaba persiguiendo a un niÒo...~
+Mat√© a un beb√© wyvern en Nashkel que estaba persiguiendo a un ni√±o...~
 
 @10027  = ~El Monstruo de Nashkel~
 
 //@16 (c#q04001_3_4_5.tra)
 @10028  = ~El Monstruo de Nashkel
 
-La familia del niÒo querÌa que los soldados me arrestaran. El chico obviamente mintiÛ sobre nuestro primer encuentro. DecidÌ luchar contra las autoridades de la ciudad.~
+La familia del ni√±o quer√≠a que los soldados me arrestaran. El chico obviamente minti√≥ sobre nuestro primer encuentro. Decid√≠ luchar contra las autoridades de la ciudad.~
 
 //@49 (c#q04001_3_4_5.tra)
 @10029  = ~El Monstruo de Nashkel
 
-La familia del niÒo querÌa que los soldados me arrestaran. El niÒo obviamente mintiÛ sobre nuestro primer encuentro porque estaba asustado por la ira de su padre por la "mascota exÛtica" perdida. Afortunadamente, pude convencerme de no hacerlo.~
+La familia del ni√±o quer√≠a que los soldados me arrestaran. El ni√±o obviamente minti√≥ sobre nuestro primer encuentro porque estaba asustado por la ira de su padre por la "mascota ex√≥tica" perdida. Afortunadamente, pude convencerme de no hacerlo.~
 
 @10030   = ~El Huevo Desconocido~
 
 @10031   = ~El Huevo Desconocido
 
-Conocimos al mago que supuestamente debÌa obtener la "Piedra" de huevo. Dijo algunas cosas raras, algo sobre una desagradable sorpresa que recibirÌa si no le mostraba el huevo a un mago poderoso...~
+Conocimos al mago que supuestamente deb√≠a obtener la "Piedra" de huevo. Dijo algunas cosas raras, algo sobre una desagradable sorpresa que recibir√≠a si no le mostraba el huevo a un mago poderoso...~
 
 @10032   = ~El Huevo Desconocido
 
-El huevo se conserva permanentemente ahora. TodavÌa es un objeto m·gico y podrÌa ser de alguna utilidad. °Era el huevo de una AraÒa Espectral, listo para eclosionar! El peligro ya pasÛ.~
+El huevo se conserva permanentemente ahora. Todav√≠a es un objeto m√°gico y podr√≠a ser de alguna utilidad. ¬°Era el huevo de una Ara√±a Espectral, listo para eclosionar! El peligro ya pas√≥.~
 
 @10033   = ~El Huevo Desconocido
 
-°LiberÈ a un repartidor que estaba cautivo en una cueva por un bandido que entrenaba wyverns! Me dio una extraÒa piedra parecida a un huevo. Dijo que el mago que se suponÌa que debÌa conseguirlo podrÌa estar todavÌa de camino a Puerta de Baldur. Tal vez deberÌa devolvÈrselo.~
+¬°Liber√© a un repartidor que estaba cautivo en una cueva por un bandido que entrenaba wyverns! Me dio una extra√±a piedra parecida a un huevo. Dijo que el mago que se supon√≠a que deb√≠a conseguirlo podr√≠a estar todav√≠a de camino a Puerta de Baldur. Tal vez deber√≠a devolv√©rselo.~
 
 @10034   = ~El Huevo Desconocido
 
-El huevo est· destruido. °Era el huevo de una AraÒa Espectral, listo para eclosionar! El peligro ya pasÛ.~
+El huevo est√° destruido. ¬°Era el huevo de una Ara√±a Espectral, listo para eclosionar! El peligro ya pas√≥.~
 
 @10035   = ~El Huevo Desconocido
 
-°El huevo era de una AraÒa Espectral y saliÛ del cascarÛn en mi mochila!~
+¬°El huevo era de una Ara√±a Espectral y sali√≥ del cascar√≥n en mi mochila!~
 
 @10067   = ~El Huevo Desconocido
 
-°LiberÈ a un repartidor que estaba cautivo en una cueva por un bandido que entrenaba wyverns! °Me dio un huevo preparado pero a˙n vivo de una AraÒa Espectral! Dijo que el mago que se suponÌa que debÌa conseguirlo podrÌa estar todavÌa de camino a Baldur's Gate. Tal vez deberÌa devolvÈrselo.~
+¬°Liber√© a un repartidor que estaba cautivo en una cueva por un bandido que entrenaba wyverns! ¬°Me dio un huevo preparado pero a√∫n vivo de una Ara√±a Espectral! Dijo que el mago que se supon√≠a que deb√≠a conseguirlo podr√≠a estar todav√≠a de camino a Baldur's Gate. Tal vez deber√≠a devolv√©rselo.~
 
 
-/* El Paladin CaÌdo: desde c#q05001.tra */
+/* El Paladin Ca√≠do: desde c#q05001.tra */
 
 
-@10036   = ~El Paladin CaÌdo en el Templo de Helm~
+@10036   = ~El Paladin Ca√≠do en el Templo de Helm~
 
 //@19
-@10037   = ~El Paladin CaÌdo en el Templo de Helm
+@10037   = ~El Paladin Ca√≠do en el Templo de Helm
 
-El paladÌn caÌdo dijo que fue engaÒado por un demonio que poseÌa a la niÒa. El poder del demonio era demasiado grande para que Èl viera la verdad antes de matarla.~
+El palad√≠n ca√≠do dijo que fue enga√±ado por un demonio que pose√≠a a la ni√±a. El poder del demonio era demasiado grande para que √©l viera la verdad antes de matarla.~
 
 //@33
-@10038      = ~El Paladin CaÌdo en el Templo de Helm
+@10038      = ~El Paladin Ca√≠do en el Templo de Helm
 
-ConocÌ a una mujer que hablaba de una niÒa que de repente desarrollÛ grandes poderes m·gicos, °lo suficientemente poderosos como para teletransportarla de Luskan a Puerta de Baldur! Esa historia se parece mucho a la del niÒo que matÛ el paladÌn. Tal vez deberÌa hablar con Èl al respecto, si quiero ayudarlo.~
+Conoc√≠ a una mujer que hablaba de una ni√±a que de repente desarroll√≥ grandes poderes m√°gicos, ¬°lo suficientemente poderosos como para teletransportarla de Luskan a Puerta de Baldur! Esa historia se parece mucho a la del ni√±o que mat√≥ el palad√≠n. Tal vez deber√≠a hablar con √©l al respecto, si quiero ayudarlo.~
 
 //@34
-@10039   = ~El Paladin CaÌdo en el Templo de Helm
+@10039   = ~El Paladin Ca√≠do en el Templo de Helm
 
-La madre del niÒo asesinado confirmÛ la historia del paladÌn sobre la posesiÛn demonÌaca. Ella dijo que su hija de repente desarrollÛ fuertes poderes m·gicos. Esto me recuerda a la niÒera que conocÌ recientemente en la ciudad. øPodrÌa el niÒo en Luskan del que hablÛ mostrar los mismos "sÌntomas"? Tal vez deberÌa hablar con el paladÌn al respecto, si quiero ayudarlo.~
+La madre del ni√±o asesinado confirm√≥ la historia del palad√≠n sobre la posesi√≥n demon√≠aca. Ella dijo que su hija de repente desarroll√≥ fuertes poderes m√°gicos. Esto me recuerda a la ni√±era que conoc√≠ recientemente en la ciudad. ¬øPodr√≠a el ni√±o en Luskan del que habl√≥ mostrar los mismos "s√≠ntomas"? Tal vez deber√≠a hablar con el palad√≠n al respecto, si quiero ayudarlo.~
 
 //@35
-@10040   = ~El Paladin CaÌdo en el Templo de Helm
+@10040   = ~El Paladin Ca√≠do en el Templo de Helm
 
-La madre del niÒo asesinado confirmÛ la historia del paladÌn sobre la posesiÛn demonÌaca. Ella dijo que su hija de repente desarrollÛ fuertes poderes m·gicos. Me pidiÛ que no difundiera esa informaciÛn.~
+La madre del ni√±o asesinado confirm√≥ la historia del palad√≠n sobre la posesi√≥n demon√≠aca. Ella dijo que su hija de repente desarroll√≥ fuertes poderes m√°gicos. Me pidi√≥ que no difundiera esa informaci√≥n.~
 
 //@36
-@10041   = ~El Paladin CaÌdo en el Templo de Helm
+@10041   = ~El Paladin Ca√≠do en el Templo de Helm
 
-°En el templo de Helm en Puerta de Baldur se encuentra un paladÌn caÌdo acusado de matar a un niÒo pequeÒo!~
+¬°En el templo de Helm en Puerta de Baldur se encuentra un palad√≠n ca√≠do acusado de matar a un ni√±o peque√±o!~
 
 //@37
-@10042   = ~El Paladin CaÌdo en el Templo de Helm
+@10042   = ~El Paladin Ca√≠do en el Templo de Helm
 
-La chica que matÛ el paladÌn vivÌa en una casa adyacente a la entrada del palacio. Tal vez deberÌa ir allÌ, si quiero descubrir los detalles de lo que pasÛ.~
+La chica que mat√≥ el palad√≠n viv√≠a en una casa adyacente a la entrada del palacio. Tal vez deber√≠a ir all√≠, si quiero descubrir los detalles de lo que pas√≥.~
 
 //@38
-@10043   = ~El Paladin CaÌdo en el Templo de Helm
+@10043   = ~El Paladin Ca√≠do en el Templo de Helm
 
-El caÌdo Sir Dauron se fue en busca de la niÒera del niÒo de Luskan que conocÌ recientemente, con la esperanza de que ella pueda dirigirlo a otro niÒo que podrÌa ser objeto de posesiÛn demonÌaca. Tal vez tenga Èxito y derrote a este demonio en Luskan... Realmente serÌa un final feliz para esta triste historia.~
+El ca√≠do Sir Dauron se fue en busca de la ni√±era del ni√±o de Luskan que conoc√≠ recientemente, con la esperanza de que ella pueda dirigirlo a otro ni√±o que podr√≠a ser objeto de posesi√≥n demon√≠aca. Tal vez tenga √©xito y derrote a este demonio en Luskan... Realmente ser√≠a un final feliz para esta triste historia.~
 
 //@63
-@10044   = ~El Paladin CaÌdo en el Templo de Helm
+@10044   = ~El Paladin Ca√≠do en el Templo de Helm
 
-DecidÌ resolver el problema de una manera... muy definida.~
+Decid√≠ resolver el problema de una manera... muy definida.~
 
 
-////////////////////El Paladin CaÌdo en el Templo de Helm: c#q06001_2.tra */
+////////////////////El Paladin Ca√≠do en el Templo de Helm: c#q06001_2.tra */
 
 @10045   = ~Viuda asustada en un pueblo de pescadores~
 
 //@6
 @10046    = ~Viuda asustada en un pueblo de pescadores
 
-En un pueblo de pescadores, una mujer est· siendo amenazada por un monstruo que acecha detr·s de su casa. Quiere que me desaga de Èl.~
+En un pueblo de pescadores, una mujer est√° siendo amenazada por un monstruo que acecha detr√°s de su casa. Quiere que me desaga de √©l.~
 
 //@25
 @10047   = ~Viuda asustada en un pueblo de pescadores
 
-MatÈ al marido no-muerto de la mujer. Ahora deberÌa poder vivir en paz.~
+Mat√© al marido no-muerto de la mujer. Ahora deber√≠a poder vivir en paz.~
 
 //@36
 @10048   = ~Viuda asustada en un pueblo de pescadores
 
-MatÈ a la criatura no muerta que amenazaba a la mujer. Ahora deberÌa poder vivir en paz.~
+Mat√© a la criatura no muerta que amenazaba a la mujer. Ahora deber√≠a poder vivir en paz.~
 
 //@88
 @10049   = ~Viuda asustada en un pueblo de pescadores
 
-Le sugerÌ a la viuda que cumpliera el contrato y se fue del pueblo.~
+Le suger√≠ a la viuda que cumpliera el contrato y se fue del pueblo.~
 
 
 /* Amante de Orcos: c#q07001.tra */
@@ -561,12 +561,12 @@ Le sugerÌ a la viuda que cumpliera el contrato y se fue del pueblo.~
 //@56
 @10051   = ~Ataque orco en Puerta de Baldur
 
-El rumor sobre los ataques de orcos en una casa en Puerta de Baldur era exactamente eso... un rumor. Era solo el pobre semiorco, Uguth, cuya apariciÛn estaba causando que se hablara m·s. °Siempre es lo mismo con los rumores!~
+El rumor sobre los ataques de orcos en una casa en Puerta de Baldur era exactamente eso... un rumor. Era solo el pobre semiorco, Uguth, cuya aparici√≥n estaba causando que se hablara m√°s. ¬°Siempre es lo mismo con los rumores!~
 
 //@65
 @10052   = ~Ataque orco en Puerta de Baldur
 
-Hay un rumor de que una casa cerca de la taberna CanciÛn …lfica fue atacada por orcos y los habitantes necesitan ayuda.~
+Hay un rumor de que una casa cerca de la taberna Canci√≥n √âlfica fue atacada por orcos y los habitantes necesitan ayuda.~
 
 
 /////////////////////////////////////////
@@ -578,40 +578,40 @@ Hay un rumor de que una casa cerca de la taberna CanciÛn …lfica fue atacada por 
 //@57
 @10054   = ~Linda y Sir Trun
 
-AyudÈ a Sir Trun a superar su problema. …l entrenar· a Linda en el manejo de la espada. Ojal· puedan superar la horrible aventura que tuvieron.~
+Ayud√© a Sir Trun a superar su problema. √âl entrenar√° a Linda en el manejo de la espada. Ojal√° puedan superar la horrible aventura que tuvieron.~
 
 //@98
 @10055   = ~Linda y Sir Trun
 
-ConocÌ a Linda en  la posada de Candelero. Es la prometida de Sir Trun, quien se est· recuperando de sus heridas en la enfermerÌa de Candelero. Tuvieron un encuentro traum·tico y no han hablado desde entonces.~
+Conoc√≠ a Linda en  la posada de Candelero. Es la prometida de Sir Trun, quien se est√° recuperando de sus heridas en la enfermer√≠a de Candelero. Tuvieron un encuentro traum√°tico y no han hablado desde entonces.~
 
 
 ///////////////////////////////////////////////////////////
-/* Negocio de h·mster */
+/* Negocio de h√°mster */
 
-@10056   = ~Dilemma del H·mster~
+@10056   = ~Dilemma del H√°mster~
 
-@10057   = ~Dilemma del H·mster
+@10057   = ~Dilemma del H√°mster
 
-Nos deshicimos del segundo h·mster... Espero que Boo no estÈ muy desconsolado.~
+Nos deshicimos del segundo h√°mster... Espero que Boo no est√© muy desconsolado.~
 
-@10058   = ~Dilemma del H·mster
+@10058   = ~Dilemma del H√°mster
 
-De alguna manera Minsc logrÛ esconder un h·mster de ese vendedor de mascotas y se niega a deshacerse de Èl a no ser que sea para devolvÈrselo. Supongo que tendrÈ que buscar donde est· ese vendedor ahora.~
+De alguna manera Minsc logr√≥ esconder un h√°mster de ese vendedor de mascotas y se niega a deshacerse de √©l a no ser que sea para devolv√©rselo. Supongo que tendr√© que buscar donde est√° ese vendedor ahora.~
 
-@10059   = ~Dilemma del H·mster
+@10059   = ~Dilemma del H√°mster
 
-Nos deshicimos del segundo h·mster... Espero que Boo no estÈ muy desconsolado. Eso deja solo a los m·s pequeÒos. Tengo que deshacerme de ellos antes de que crezcan... øNo habÌa un chico en el Carnaval de Nashkel que querÌa un h·mster desesperadamente?~
+Nos deshicimos del segundo h√°mster... Espero que Boo no est√© muy desconsolado. Eso deja solo a los m√°s peque√±os. Tengo que deshacerme de ellos antes de que crezcan... ¬øNo hab√≠a un chico en el Carnaval de Nashkel que quer√≠a un h√°mster desesperadamente?~
 
-@10060   = ~Dilemma del H·mster
+@10060   = ~Dilemma del H√°mster
 
-Nos deshicimos del segundo h·mster... y de todos los pequeÒos.~
+Nos deshicimos del segundo h√°mster... y de todos los peque√±os.~
 
 /* nuevo para la v16 */
 
-@10069   = ~Dilemma del H·mster
+@10069   = ~Dilemma del H√°mster
 
-El chico del Carnaval de Nashkel se llevÛ a todos los h·msters pequeÒos. Tengo la sensaciÛn de que tendr· a˙n m·s de ellos si alguna vez le llega la posibilidad.~
+El chico del Carnaval de Nashkel se llev√≥ a todos los h√°msters peque√±os. Tengo la sensaci√≥n de que tendr√° a√∫n m√°s de ellos si alguna vez le llega la posibilidad.~
 
 
 /////////////////////////////////////////////////////////
@@ -621,16 +621,16 @@ El chico del Carnaval de Nashkel se llevÛ a todos los h·msters pequeÒos. Tengo l
 
 @10062   = ~Borracho cerca del Templo de Beregost
 
-ConocÌ a un borracho cerca del Templo Beregost. Estoy seguro de que no es capaz de defenderse si le ataca cualquier criatura salvaje, pero tampoco me deja ayudarlo. Tal vez podrÌa informar a alguien sobre su presencia aquÌ.~
+Conoc√≠ a un borracho cerca del Templo Beregost. Estoy seguro de que no es capaz de defenderse si le ataca cualquier criatura salvaje, pero tampoco me deja ayudarlo. Tal vez podr√≠a informar a alguien sobre su presencia aqu√≠.~
 
 @10063   = ~Borracho cerca del Templo de Beregost
 
-Los sacerdotes de Lathander velar·n por el borracho Polo. DeberÌa estar a salvo.~
+Los sacerdotes de Lathander velar√°n por el borracho Polo. Deber√≠a estar a salvo.~
 
 /* @10064 - @10067 usado arriba */ 
 
 @10068   = ~Borracho cerca del Templo de Beregost
 
-SalvÈ al borracho de m·s comodidades. Por asi decirlo.~
+Salv√© al borracho de m√°s comodidades. Por asi decirlo.~
 
 /* @10069 usado arriba */
