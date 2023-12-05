@@ -1,118 +1,118 @@
-@0 = ~*tos* ¡Croak! (Ack) *tos*~
-@1 = ~¿Qué le pasó a tu voz?~
-@2 = ~Pareces enfermo, amigo.~
-@3 = ~¡Ja, ja, ja, ja! ¡Noober sin voz! No tiene precio.~
-@4 = ~(señala y agita los brazos) ¡Croak! ¡Croak! (Ack) *tos* ¡¡Croak!!~
-@5 = ~¿El río? ... Arrojado a... Ah, ¿los jóvenes del pueblo te tiraron al río? Y seguramente se resfrió después.~
-@6 = ~No fuerces más la voz. Entiendo que tengas un fuerte resfriado.~
-@7 = ~Lo que sea. Estás enfermo, puedo verlo.~
-@8 = ~Déjame en paz, tonto. ¿Parece como si estuviera interesado en lo que te pasó?~
-@9 = ~¡Croak!... *tos tos*~
-@10 = ~Un lugar cálido para Noober
+@0 = ~*tosse* Coaxar! (Ack) *tosse*~
+@1 = ~O que aconteceu com sua voz?~
+@2 = ~VocÃª parece doente, amigo.~
+@3 = ~Ha ha ha ha! Noober sem voz! NÃ£o tem preÃ§o.~
+@4 = ~(aponta e agita os braÃ§os) Croak! Coaxar! (Ack) *tosse* Coaxar!!~
+@5 = ~O rio? ... Jogado em... Ah, a juventude da cidade jogou vocÃª no rio? E ele provavelmente pegou um resfriado depois.~
+@6 = ~NÃ£o force mais sua voz. Eu entendo que vocÃª estÃ¡ com um forte resfriado.~
+@7 = ~Tanto faz. VocÃª estÃ¡ doente, posso ver.~
+@8 = ~Me deixe em paz, idiota. Ele parece estar interessado no que aconteceu com vocÃª?~
+@9 = ~Croak!... *tosse*~
+@10 = ~Um lugar quente para Noober
 
-El tarado de Noober se resfrió después de que lo arrojaran al río. Necesita un lugar cálido para descansar y recuperarse e, idealmente, alguien que lo cuide, pero no parece existir un lugar así. Tal vez pueda calentar los corazones de la gente del pueblo a su favor.~
-@11 = ~Un lugar cálido para Noober
+Aquele idiota do Noober pegou um resfriado depois de ser jogado no rio. Ele precisa de um lugar quente para descansar e se recuperar e, idealmente, de alguÃ©m que cuide dele, mas tal lugar parece nÃ£o existir. Talvez ele possa aquecer os coraÃ§Ãµes das pessoas da cidade a seu favor.~
+@11 = ~Um lugar quente para Noober
 
-Ese tonto de Noober se resfrió después de que lo arrojaran al río. Ahora deambula por las calles, su voz es solo un graznido oxidado. Probablemente porque consiguió que lo echaran del calor que le proporcionaba todo el pueblo.~
-@12 = ~¿Graznar?~
-@13 = ~Buenas noticias, amigo. La esposa de Joseph te acogerá y cuidará de ti.~
-@14 = ~Ahorra tu voz, Noober, y asegúrate de descansar bien.~
-@15 = ~¡Jaja! *Croak* (otra vez). ¡Este sonido es *tan* divertido!~
-@16 = ~...? (suspiro de alivio) ¡Croak!~
-@17 = ~Un lugar cálido para Noober
+Aquele idiota do Noober pegou um resfriado depois de ser jogado no rio. Agora ele vagueia pelas ruas, sua voz apenas um grasnado enferrujado. Provavelmente porque ele foi expulso do calor que toda a cidade lhe proporcionou.~
+@12 = ~Grita?~
+@13 = ~Boas notÃ­cias, amigo. A esposa de Joseph irÃ¡ acolhÃª-lo e cuidar de vocÃª.~
+@14 = ~Salve sua voz, Noober, e descanse bem.~
+@15 = ~Haha! *Croak* (de novo). Esse som Ã© *tÃ£o* divertido!~
+@16 = ~...? (suspiro de alÃ­vio) Croak!~
+@17 = ~Um lugar quente para Noober
 
-La buena mujer de la casa del sureste de Nashkel se hará cargo de Noober. Debería decírselo lo antes posible.~
-@18 = ~Un lugar cálido para Noober
+A boa dona da casa no sudeste de Nashkel cuidarÃ¡ de Noober. Eu deveria contar a ele o mais rÃ¡pido possÃ­vel.~
+@18 = ~Um lugar quente para Noober
 
-Noober ys está de camino a un cálido hogar. Podría acercarme un momento para ver cómo les va.~
-@19 = ~... - ¡croak! *tos*~
-@20 = ~¡¿Croak?! ¡Croak! *tos* *tos*~
-@21 = ~¡Croak!~
-@22 = ~¡Hola!~
-@23 = ~¿Qué? Lo siento, no tengo tiempo para charlar. Estoy hablando con la anciana señora Joseph.~
-@24 = ~Noober tiene un fuerte resfriado. ¿Lo acogerías y te ocuparías de que teuviera una recuperación adecuada?~
-@25 = ~Mi dios me otorga poderes curativos, pero un simple resfriado tiene que curarse como siempre. Por desgracia, mis tareas me mantendrán aquí en el templo, y me temo que este no es el mejor lugar para curar un resfriado. Sigue preguntando a la gente del pueblo, estoy seguro de que hay un alma dispuesta con una cama caliente entre ellos. Pero regresa si no encuentras a nadie dispuesto a acogerlo.~
-@26 = ~No, no tengo ni el tiempo, ni la voluntad, ni siquiera una cama extra aunque quisiera. Estoy seguro de que encontrará un alma dispuesta junto a los granjeros, especialmente si ofrece alguna moneda junto con su demanda.~
-@27 = ~Hm, la esposa de Joseph sería un alma lo suficientemente amable como para acoger a alguien como Noober.~
-@28 = ~Hm, la viuda del pobre Joseph sería un alma lo suficientemente amable como para acoger a alguien como Noober.~
-@29 = ~Sin embargo suele cerrar la puerta con llave. Pero no tengas miedo de entrar de todos modos. Si te acercas a ella de manera amistosa, estará lista para escuchar.~
-@30 = ~¡Pero no tiene sentido que le preguntes, no después de cómo la trataste! Bueno, tal vez le pregunte cuando cierre la tienda esta noche.~
+Noober estÃ¡ localizado a poucos passos de uma casa acolchoada. Talvez pare por um momento para ver como eles estÃ£o.~
+@19 = ~... - coaxar! *tosse*~
+@20 = ~Croak?! Coaxar! *tosse* *tosse*~
+@21 = ~Coaxar!~
+@22 = ~OlÃ¡!~
+@23 = ~O quÃª? Desculpe, nÃ£o tenho tempo para conversar. Estou conversando com a velha Sra. Joseph.~
+@24 = ~Noober estÃ¡ com um forte resfriado. VocÃª poderia acolhÃª-lo e ver se ele teria uma recuperaÃ§Ã£o adequada?~
+@25 = ~Meu deus me concede poderes de cura, mas um simples resfriado tem que ser curado como sempre. Infelizmente, meus deveres me manterÃ£o aqui no templo, e temo que este nÃ£o seja o melhor lugar para curar um resfriado. Continue perguntando Ã s pessoas da cidade, tenho certeza de que hÃ¡ uma alma disposta e com uma cama quentinha entre eles. Mas volte se nÃ£o encontrar ninguÃ©m disposto a acolhÃª-lo.~
+@26 = ~NÃ£o, nÃ£o tenho tempo, nem vontade, nem cama extra mesmo que quisesse. Tenho certeza de que vocÃª encontrarÃ¡ uma alma disposta ao lado dos agricultores, especialmente se oferecer algumas moedas junto com sua demanda.~
+@27 = ~Hm, a esposa de Joseph seria uma alma gentil o suficiente para acolher alguÃ©m como Noober.~
+@28 = ~Hm, a viÃºva do pobre Joseph seria uma alma gentil o suficiente para acolher alguÃ©m como Noober.~
+@29 = ~No entanto, ele geralmente tranca a porta. Mas nÃ£o tenha medo de entrar de qualquer maneira. Se vocÃª abordÃ¡-la de maneira amigÃ¡vel, ela estarÃ¡ pronta para ouvir.~
+@30 = ~Mas nÃ£o adianta perguntar a ela, nÃ£o depois de como vocÃª a tratou! Bem, talvez eu pergunte a ele quando ele fechar a loja hoje Ã  noite.~
 /* @31 */
-@32 = ~Un lugar cálido para Noober
+@32 = ~Um lugar quente para Noober
 
-Según el dueño de la tienda, la mujer de la casa del sureste de Nashkel podría acoger a Noober. También dijo que no debería asustarme por una puerta cerrada y entrar de todos modos, si estoy dispuesto a explicar mi allanamiento de manera amistosa. ~
-@33 = ~Un lugar cálido para Noober
+Segundo o dono da loja, a mulher da casa no sudeste de Nashkel poderia acolher Noober. Ele tambÃ©m disse que eu nÃ£o deveria me assustar com uma porta fechada e entrar de qualquer maneira, se estivesse disposto a explicar minha invasÃ£o de forma amigÃ¡vel. ~
+@33 = ~Um lugar quente para Noober
 
-La mujer en la casa del sureste de Nashkel podría aceptar a Noober. El dueño de la tienda le preguntará, porque no tiene ningún sentido para mí jugar a ser el mensajero (y especialmente en la casa de esta mujer tonta). Supongo que queda resuelto, entonces. No hace falta que nadie me diga cómo terminó.~
-@34 = ~¿Qué? ¿Esto te parece una guardería? Puede tomarse una buena cerveza fuerte para calentar el estómago y la cabeza, si se lo puede permitir. Aparte de eso, deberías mantenerlo alejado antes de que asuste a los clientes. Otra vez.~
-@35 = ~Bueno, mis habitaciones son cálidas y acogedoras, pero eché a Noober más de una vez porque mis clientes se sintieron molestos por él, así que me alegro de que no tenga la cantidad de oro que se necesitaría para pagar una habitación. Ya me entiendes.~
-@36 = ~¿Noober? Sabes, podrías pensar que haría cualquier cosa para conseguir un poco suma de oro. Pero no aceptaría a Noober ni por todo el oro del mundo. ¡No puedes esperar que le haga eso a mi hermana, que tendría que escuchar sus interminables balbuceos!~
-@37 = ~¡Ese tonto! Aún nadie ha muerto de un resfriado. ¡Tengo cosas mucho más importantes que hacer que ayudar a alguien a recuperar su salud!~
-@38 = ~Los días son tan negros y aburridos... Desearía tener *algún* tipo de diversión. Excepto mamá, por supuesto...~
-@39 = ~ ¿Eh? ¿Dijiste algo?~
-@40 = ~Dije que eres mi única diversión, actualmente.~
-@41 = ~¿Eh?~
-@42 = ~¡Dije que eres mi única diversión!~
-@43 = ~¡Dije que ME MANTIENEN OCUPADO!~
-@44 = ~ ¿Eh? Quejándote de nuevo, ¿no?~
+A mulher da casa no sudeste de Nashkel pode aceitar Noober. O dono da loja vai perguntar, porque nÃ£o faz sentido eu brincar de mensageiro (e principalmente na casa dessa mulher boba). Acho que estÃ¡ resolvido entÃ£o. NinguÃ©m precisa me dizer como tudo terminou.~
+@34 = ~O quÃª? Isso parece uma creche para vocÃª? VocÃª pode tomar uma boa cerveja forte para aquecer o estÃ´mago e a cabeÃ§a, se tiver dinheiro para isso. Fora isso, vocÃª deve mantÃª-lo afastado antes que afaste os clientes. Novamente.~
+@35 = ~Bem, meus quartos sÃ£o quentes e aconchegantes, mas expulsei Noober mais de uma vez porque meus clientes se ressentiam dele, entÃ£o estou feliz que ele nÃ£o tenha a quantidade de ouro necessÃ¡ria para pagar por um quarto. VocÃª me entende.~
+@36 = ~Noober? VocÃª sabe, vocÃª pensaria que eu faria qualquer coisa para conseguir um pouco de ouro. Mas eu nÃ£o aceitaria Noober nem por todo o ouro do mundo. VocÃª nÃ£o pode esperar que eu faÃ§a isso com minha irmÃ£, que teria que ouvir seu balbucio interminÃ¡vel!~
+@37 = ~Aquele idiota! NinguÃ©m morreu de resfriado ainda. Tenho coisas muito mais importantes para fazer do que ajudar alguÃ©m a ficar saudÃ¡vel!~
+@38 = ~Os dias sÃ£o tÃ£o negros e chatos... Eu gostaria de ter *algum* tipo de diversÃ£o. Exceto mÃ£e, Ã© claro...~
+@39 = ~ Hein? VocÃª disse alguma coisa?~
+@40 = ~Eu disse que vocÃª Ã© minha Ãºnica diversÃ£o atualmente.~
+@41 = ~Huh?~
+@42 = ~Eu disse que vocÃª Ã© minha Ãºnica diversÃ£o!~
+@43 = ~Eu disse ELES ME MANTEM OCUPADO!~
+@44 = ~ Hein? Reclamando de novo, nÃ£o Ã©?~
 @45 = ~(suspiro)~
-@46 = ~Por favor, te pediría que te vayas ahora.~
-@47 = ~Mis disculpas por molestarla, buena mujer, pero uno de los compañeros de su ciudad necesitaría un lugar para recuperarse. Se trata Noober, y apenas puede hablar después de lo que le pasó hace poco.~
-@48 = ~Me marcharé, entonces.~
-@49 = ~(suspiro) Noober... Su conversación constante es lo *último* que necesito. Pero si el pobre hombre está enfermo... Tengo que cuidar a mamá de todos modos. Y con Joseph fuera... Cualquier cosa que me mantenga ocupada estará bien, en realidad...~
-@50 = ~(suspiro) Sí. Sí, dile que venga aquí. Tengo una pequeña cama extra, y mientras no hable tanto, lo cual no puede hacer, si te entendí bien. Me encargaré de que descanse bien. Con dolor de garganta, probablemente disfrutará de los pudines y caldos de mamá, así que no tendría que cocinar aparte...~
+@46 = ~Por favor, peÃ§o que vocÃª saia agora.~
+@47 = ~Minhas desculpas por incomodar vocÃª, boa mulher, mas um de seus colegas de cidade precisaria de um lugar para se recuperar. Este Ã© Noober, e ele mal consegue falar depois do que aconteceu com ele recentemente.~
+@48 = ~Vou embora entÃ£o.~
+@49 = ~(suspiro) Noober... Sua conversa constante Ã© a *Ãºltima* coisa que preciso. Mas se o pobre homem estiver doente... eu tenho que cuidar da mÃ£e de qualquer maneira. E sem Joseph... Qualquer coisa que me mantenha ocupado vai ficar bem, na verdade...~
+@50 = ~(suspiro) Sim. Sim, diga a ele para vir aqui. Tenho uma pequena cama extra, e desde que vocÃª nÃ£o fale tanto, o que nÃ£o pode fazer, se bem entendi. Vou garantir que ele descanse bem. Com dor de garganta, ele provavelmente vai gostar dos pudins e caldos da mamÃ£e, para nÃ£o ter que cozinhar Ã  parte...~
 /* @51 = @32 */
-@52 = ~Por favor, puedes marcharte, si no quieres nada más.~
-@53 = ~Buen día.~
-@54 = ~No eres bienvenido aquí. Agradezco tu ayuda para traer a Noober aquí, pero no eres bienvenido. ¡Vete! ~
-@55 = ~Sí, verás que Noober encontró el camino hasta aquí.~
-@56 = ~Sí, estamos hablando de ti, Noober. ¡Vuelve a la cama!~
-@57 = ~No, tú no - ¡está bien, madre!~
-@58 = ~(suspiro) Por favor, vete ahora.~
-@59 = ~Un lugar cálido para Noober
+@52 = ~Por favor, vocÃª pode ir embora, se nÃ£o quiser mais nada.~
+@53 = ~Bom dia.~
+@54 = ~VocÃª nÃ£o Ã© bem-vindo aqui. AgradeÃ§o sua ajuda em trazer Noober aqui, mas vocÃª nÃ£o Ã© bem-vindo. VÃ¡ embora! ~
+@55 = ~Sim, vocÃª verÃ¡ que Noober chegou atÃ© aqui.~
+@56 = ~Sim, estamos falando de vocÃª, Noober. Volte para a cama!~
+@57 = ~NÃ£o, vocÃª nÃ£o - estÃ¡ tudo bem, mÃ£e!~
+@58 = ~(suspiro) Por favor, saia agora.~
+@59 = ~Um lugar quente para Noober
 
-Noober encontró una buena lugar para que le cuiden con la viuda de Joseph. Sin embargo, me pregunto qué pasará una vez que recupere la voz. Tal vez debería comprobarlo cuando haya pasado de un poco más de tiempo.~
+Noober encontrou um bom lugar para cuidar da viÃºva de Joseph. No entanto, me pergunto o que acontecerÃ¡ quando eu recuperar minha voz. Talvez eu deva dar uma olhada depois de um pouco mais de tempo.~
 /* @60 = @55 */
-@61 = ~Ahora, ¡míralos! ¿Quién podría haber imaginado que esto funcionaría tan bien? Estoy muy agradecida por la ayuda con la madre. Él es muy paciente y ella lo suficientemente sorda como para hacer de ellos la pareja perfecta.~
-@62 = ~Y tengo la libertad que necesito para llorar a mi amado esposo...~
-@63 = ~Y tengo la libertad que necesito para hacer mi trabajo en silencio, esperando que mi amado esposo regrese...~
-@64 = ~Te lo agradezco, buen <MANWOMAN>. Pero también te pido que te vayas ahora.~
-@65 = ~Un lugar cálido para Noober
+@61 = ~Agora, olhe para eles! Quem poderia imaginar que isso funcionaria tÃ£o bem? Estou muito grato pela ajuda com a mÃ£e. Ele Ã© muito paciente e ela Ã© surda o suficiente para tornÃ¡-los o casal perfeito.~
+@62 = ~E eu tenho a liberdade que preciso para lamentar meu amado marido...~
+@63 = ~E eu tenho a liberdade que preciso para fazer meu trabalho em silÃªncio, esperando o retorno do meu amado marido...~
+@64 = ~Eu agradeÃ§o, boa <MANWOMAN>. Mas tambÃ©m peÃ§o que vocÃª saia agora.~
+@65 = ~Um lugar quente para Noober
 
-¡Noober encontró un nuevo hogar! Al menos por el momento, parece ser el animador perfecto para la anciana madre de la viuda de Joseph. Y de nuevo los dioses demostraron que tienen un uso para todo.~
-@66 = ~Un lugar cálido para Noober~
+Noober encontrou um novo lar! Pelo menos por enquanto, ele parece ser o lÃ­der de torcida perfeito para a mÃ£e idosa da viÃºva de Joseph. E mais uma vez os deuses mostraram que eles tÃªm uma utilidade para tudo.~
+@66 = ~Um lugar quente para Noober~
 
 /* c#lcno01.baf */
-@67 = ~Buen tiempo, ¿verdad?~
-@68 = ~¿Eh?~
-@69 = ~¿Necesitas beber algo?~
-@70 = ~¡Agua!~
-@71 = ~Ah, ¿está lloviendo otra vez?~
-@72 = ~¿Y ahora?~
-@73 = ~¿Qué es esto? ¡¿Crees que no soy capaz de hacer esto por mi cuenta?!~
-@74 = ~¿Quieres escuchar una historia?~
-@75 = ~¿Una historia?~
-@76 = ~Nah, estoy demasiado cansada para contar algo.~
+@67 = ~Bom tempo, certo?
+@68 = ~Huh?~
+@69 = ~VocÃª precisa de algo para beber?~
+@70 = ~Ãgua!~
+@71 = ~Ah, estÃ¡ chovendo de novo?~
+@72 = ~E agora?~
+@73 = ~O que Ã© isso? VocÃª acha que nÃ£o sou capaz de fazer isso sozinho?!~
+@74 = ~VocÃª quer ouvir uma histÃ³ria?~
+@75 = ~Uma histÃ³ria?~
+@76 = ~Nah, estou cansado demais para dizer qualquer coisa.~
 
 /*
-@77 = ~La historia del capitán Brage
+@77 = ~A histÃ³ria do CapitÃ£o Brage
 
-Nalin en el Templo de Helm en Nashkel parece pensar que Brage podría estar bajo la influencia de alguna fuerza maligna. Si devuelvo a Brage al templo, es posible que no lo maten por sus crímenes.~
+Nalin, no Templo de Helm, em Nashkel, parece pensar que Brage pode estar sob a influÃªncia de alguma forÃ§a maligna. Se eu devolver Brage ao templo, ele nÃ£o poderÃ¡ ser morto pelos seus crimes.~
 */
-@78 = ~Hm, mala suerte, ya sabes. Parece que la única alma que hubiera estado lista para cuidar de ti se ha ido.~
-@79 = ~Lástima que ahora esté *muerta*, ¿no? Mmm.~
-@80 = ~Está... bien, supongo. Es extraño, él no puede hablar, y trata de ser de ayuda, aunque no es así como debería ser, ya que necesita descansar.~
+@78 = ~Hm, azar, vocÃª sabe. Parece que a Ãºnica alma que estaria pronta para cuidar de vocÃª se foi.~
+@79 = ~Pena que ela estÃ¡ *morta* agora, certo? Mmm.~
+@80 = ~Ok... ok, eu acho. Ã‰ estranho, ele nÃ£o consegue falar e tenta ajudar, embora nÃ£o seja assim, pois precisa descansar.~
 
-/* nuevo para v19 */
-@81 = ~Queríamos preguntarte algo...~
-@82 = ~Sí, los aventureros suelen venir a preguntar cosas sobre las minas.~
+/* novo para v19 */
+@81 = ~QuerÃ­amos te perguntar uma coisa...~
+@82 = ~Sim, aventureiros costumam fazer perguntas sobre as minas.~
 
-/* nuevo para v23 */
-/* igual que @59, solo que "esposa" en lugar de "viuda" */
-@83 = ~Un lugar cálido para Noober
+/* novo para v23 */
+/*igual a @59, apenas "esposa" em vez de "viÃºva" */
+@83 = ~Um lugar quente para Noober
 
-Noober encontró una buena guardería con la esposa de Joseph. Sin embargo, me pregunto qué pasará una vez que recupere la voz. Tal vez debería comprobarlo cuando haya pasado de un poco más de tiempo.~
-/* igual que @65, solo "esposa" en lugar de "viuda" */
-@84 = ~Un lugar cálido para Noober
+Noober encontrou uma boa creche com a esposa de Joseph. No entanto, me pergunto o que acontecerÃ¡ quando eu recuperar minha voz. Talvez eu deva dar uma olhada depois de um pouco mais de tempo.~
+/* igual a @65, apenas "esposa" em vez de "viÃºva" */
+@84 = ~Um lugar quente para Noober
 
-¡Noober encontró un nuevo hogar! Al menos por el momento, parece ser el animador perfecto para la anciana madre de la esposa de Joseph. Y de nuevo los dioses demostraron que tienen un uso para todo.~
+Noober encontrou um novo lar! Pelo menos por enquanto, ele parece ser o lÃ­der de torcida perfeito para a mÃ£e idosa da esposa de Joseph. E mais uma vez os deuses mostraram que eles tÃªm uma utilidade para tudo.~
