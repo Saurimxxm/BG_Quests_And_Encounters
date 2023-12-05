@@ -1,37 +1,37 @@
-@0 = ~El pescador Cordyr me dijo que hundiste su bote y que lo echaste de su zona de pesca.~
-@1 = ~Está bien, me iré.~
-@2 = ~¡No iré a ninguna parte mientras sigas vivo!~
-@3 = ~¡Esta zona costera siempre ha sido el hogar de la tribu de Sil! ¡Es la gente de la tierra la que reclama lo que es el hogar de los sirines! ¡Durante mucho tiempo hemos tolerado sus acciones y hemos visto cómo numerosos habitantes del mar han sido víctimas de su codicia!~
-@4 = ~Espera... ¿Podrías ser uno de esos aventureros, enviados a matarnos, reclamar y saquear nuestra tierra para la gente de la tierra?~
-@5 = ~Sí, ese pescador me envió para que sus zonas de pesca fueran seguras nuevamente y ¡eso es lo que haré!~
-@6 = ~Bueno, qué puedo decir... tienes razón en eso, ¡así que prepárate para morir!~
-@7 = ~Sí, el pescador pidió nuestra ayuda. Pero yo, al igual que el pescador mismo, no busco dañar a tu gente.~
-@8 = ~¡Mentiras!~
-@9 = ~¿Quieres ayudar al hombre de la tierra a conquistar la tierra de la tribu de Sil sin derramar sangre? ¿Afirmas que se preocupa por la vida de mi gente?~
-@10 = ~Es la verdad. Hablando con él noté que es muy reacio ante la idea de hacer daño a tu gente. ¡Es solo un hombre que necesita hacer su trabajo en paz si quiere sobrevivir! ~
-@11 = ~Cree lo que quieras. No creo que la pérdida de algunas sirines importe. Tengo una misión y la haré.~
-@12 = ~Esta conversación no tiene sentido. Parece que tendremos que hacerlo por las malas.~
-@13 = ~Suena extraño, pero tus palabras parecen ser ciertas, porque siento tu voluntad de evitar el derramamiento de sangre.~
-@14 = ~Tal vez... ¡No! ¡No, siempre ha traído problemas cuando las sirines permiten que la gente de la tierra viva en su área!~
-@15 = ~Muy bien, entonces me temo que no me dejas opción. Le prometimos a Cordyr que ayudaríamos, y lo haremos.~
-@16 = ~¿Cuán peligroso podría volverse un simple pescador para tu tribu? Cordyr desprecia la idea de dañar a tu gente... ¿No hay nada que pueda hacer para convencerte de que al menos toleres su presencia?~
-@17 = ~Ya me he cansado de esta conversación... lo haremos por la fuerza, ¡no me dejas otra opción!~
-@18 = ~De hecho, un simple hombre de la tierra no sería un oponente digno para la tribu de Sil... y tal vez...~
-@19 = ~Estamos listos para darle una oportunidad. Mi pueblo no dañará a este hombre de tierra mientras respete el territorio de las sirines y no sobrepesque el mar. Tal vez incluso pueda resultar útil... Sé algo que podría hacer por la tribu.~
-@20 = ~Gracias, Sil. Le llevaré las buenas noticias. Adiós.~
-@21 = ~Con mucho gusto le tomaré la palabra a Cordyr. Pero, ¿qué tipo de servicio querrás de él?~
-@22 = ~Eso no es de tu incumbencia en este momento. Pero ten la seguridad de que no será nada comparado con lo que será su pérdida. ~
-@23 = ~¡Ahora vete!~
-@24 = ~Traición... ¡Siempre hacéis lo mismo! No mas charla. ¡No mas charla! ¡Lucharemos! ~
-@25 = ~No matamos a las sirines, pero hablamos con su líder. Prometió que su tribu te dejaría en paz mientras te mantuvieras alejado de su hogar y te mantuvieras moderación con tu pesca... También mencionó algo que podrías hacer por ellos, pero no dijo qué sería.~
-@26 = ~¡Oh, esa es una noticia maravillosa! ¡Yo... no sé cómo decir lo aliviado que estoy de que hayas podido llegar a un acuerdo sin derramar sangre! Pocos lo hubieran conseguido...~
-@27 = ~Con mucho gusto doy mi palabra de que no molestaré a las sirines y respetaré su territorio cuando vaya a pescar. También prometo nunca pescar más de lo que necesite. En cuanto al servicio... si las sirines aseguran que no será en mi perjuicio, con gusto ayudaré en todo lo que pueda.~
-@28 = ~Gracias por tu ayuda, amigo. Toma, toma estos pergaminos, nunca se sabe...~
-/* BG_EE: #31307 "Cordyr y las Sirines" */
-@29 = ~Cordyr y las Sirines
+@0 = ~O pescador Cordyr me contou que vocÃª afundou o barco dele e o expulsou da Ã¡rea de pesca.~
+@1 = ~Ok, vou.~
+@2 = ~Eu nÃ£o vou a lugar nenhum enquanto vocÃª estiver vivo!~
+@3 = ~Esta Ã¡rea costeira sempre foi o lar da tribo Sil! Ã‰ o povo da terra que reivindica o que Ã© o lar dos sirins! Durante muito tempo toleramos as suas aÃ§Ãµes e vimos quantos habitantes do mar foram vÃ­timas da sua ganÃ¢ncia!~
+@4 = ~Espere... VocÃª poderia ser um daqueles aventureiros, enviado para nos matar, reivindicar e saquear nossas terras para o povo da terra?~
+@5 = ~Sim, aquele pescador me enviou para tornar seus pesqueiros seguros novamente e Ã© isso que farei!~
+@6 = ~Bem, o que posso dizer... vocÃª estÃ¡ certo sobre isso, entÃ£o prepare-se para morrer!~
+@7 = ~Sim, o pescador pediu nossa ajuda. Mas eu, como o prÃ³prio pescador, nÃ£o procuro prejudicar o seu povo.~
+@8 = ~Mentiras!~
+@9 = ~VocÃª quer ajudar o terrÃ¡queo a conquistar a terra da tribo Sil sem derramar sangue? VocÃª afirma se preocupar com a vida do meu povo?~
+@10 = ~Ã‰ a verdade. Conversando com ele percebi que ele estÃ¡ muito relutante com a ideia de prejudicar o seu povo. Ele Ã© apenas um homem que precisa fazer seu trabalho em paz se quiser sobreviver!~
+@11 = ~Acredite no que quiser. NÃ£o acho que a perda de alguns sirins importe. Eu tenho uma missÃ£o e irei cumpri-la.~
+@12 = ~Esta conversa nÃ£o tem sentido. Parece que teremos que fazer isso da maneira mais difÃ­cil.~
+@13 = ~Parece estranho, mas suas palavras parecem verdadeiras, porque sinto sua vontade de evitar derramamento de sangue.~
+@14 = ~Talvez... NÃ£o! NÃ£o, sempre trouxe problemas quando os Sirins permitem que as pessoas da Terra vivam em sua Ã¡rea!~
+@15 = ~Muito bem, entÃ£o receio que vocÃª nÃ£o me deixe escolha. Prometemos a Cordyr que ajudarÃ­amos, e iremos.~
+@16 = ~QuÃ£o perigoso um simples pescador pode se tornar para sua tribo? Cordyr despreza a ideia de prejudicar seu povo... NÃ£o hÃ¡ nada que ele possa fazer para convencÃª-lo a pelo menos tolerar a presenÃ§a dele?~
+@17 = ~JÃ¡ estou cansado dessa conversa... faremos isso Ã  forÃ§a, vocÃª nÃ£o me deixa escolha!~
+@18 = ~Na verdade, um mero homem da terra nÃ£o seria um oponente digno para a tribo de Sil... e talvez...~
+@19 = ~Estamos prontos para lhe dar uma chance. O meu povo nÃ£o farÃ¡ mal a este homem da terra, desde que respeite o territÃ³rio dos sirines e nÃ£o pesque demais o mar. Talvez eu possa atÃ© ser Ãºtil... sei algo que poderia fazer pela tribo.~
+@20 = ~Obrigado, Sil. Vou trazer-lhe as boas notÃ­cias. Adeus.~
+@21 = ~Terei prazer em acreditar na palavra de Cordyr. Mas que tipo de serviÃ§o vocÃª deseja dele?~
+@22 = ~Isso nÃ£o Ã© da sua conta agora. Mas fique tranquilo, nÃ£o serÃ¡ nada comparado ao que serÃ¡ a sua perda. ~
+@23 = ~Agora vÃ¡!~
+@24 = ~TraiÃ§Ã£o... VocÃª sempre faz a mesma coisa! NÃ£o hÃ¡ mais conversa. Chega de conversa! Lutaremos! ~
+@25 = ~NÃ³s nÃ£o matamos os sirines, mas falamos com o lÃ­der deles. Ele prometeu que sua tribo o deixaria em paz contanto que vocÃª ficasse longe de casa e exercesse moderaÃ§Ã£o na pesca... Ele tambÃ©m mencionou algo que vocÃª poderia fazer por eles, mas nÃ£o disse o que seria.
+@26 = ~Oh, que notÃ­cia maravilhosa! Eu... nÃ£o sei como dizer o quÃ£o aliviado estou por vocÃª ter conseguido chegar a um acordo sem derramar sangue! Poucos teriam conseguido isso...~
+@27 = ~ Dou minha palavra com prazer de que nÃ£o incomodarei os sirines e respeitarei seu territÃ³rio quando for pescar. TambÃ©m prometo nunca pescar mais do que o necessÃ¡rio. Quanto ao serviÃ§o... se os sirines garantirem que nÃ£o serÃ¡ em meu prejuÃ­zo, terei prazer em ajudar no que puder.~
+@28 = ~Obrigado pela sua ajuda, amigo. Aqui, pegue esses pergaminhos, nunca se sabe...~
+/* BG_EE: #31307 "Cordyr e as Sirines" */
+@29 = ~Cordyr e as Sirines
 
-Pude convencer a las sirines de que permitieran que Cordyr regresara a suzona de pesca. Ya no lo amenazarán mientras respete lo que creo que son unas condiciones justas. No fue fácil, pero logré ayudar a Cordyr a volver a su vida anterior sin tener que derramar sangre.~
-@30 = ~Cordyr y las Sirines
+Consegui convencer as Sirines a permitir que Cordyr retornasse a sua zona de pesca. Elas nÃ£o irÃ£o mais ameaÃ§Ã¡-lo, desde que respeite o que acredito serem condiÃ§Ãµes justas. NÃ£o foi fÃ¡cil, mas consegui ajudar Cordyr a voltar Ã  sua vida anterior sem ter que derramar sangue.~
+@30 = ~Cordyr e as Sirines
 
-Pude convencer a las sirines de que permitieran que Cordyr regresara a suzpna de pesca. Debería volver a su casa en los Muelles y levarle las noticias.~
-@31 = ~Estoy en camino.~
+Consegui convencer as Sirines a permitir que Cordyr retornasse Ã  sua sua zona de pesca. Eu deveria voltar para a casa dele nas Docas e trazer-lhe a notÃ­cia..~
+@31 = ~Estou a caminho.~
