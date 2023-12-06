@@ -1,66 +1,66 @@
 /* All unused numbers are used in bgqe_game.tra! */
-@0    = ~Baldur's Gate Mod Mini-Misiones y Encuentros~
-@1    = ~Tutu detectado. Usando el cÛdigo de instalaciÛn de Tutu...~
-@2    = ~Baldur's Gate original detectado. Instalando...~
+@0    = ~Mini-miss√µes e encontros do Mod Baldur's Gate ~
+@1    = ~Tutu detectado. Usando o c√≥digo de instala√ß√£o do Tutu...~
+@2    = ~ Baldur's Gate original detectado. Instalando...~
 
-@9    = ~BGT detectado. Usando el cÛdigo de instalaciÛn de BGT...~
+@9    = ~BGT detectado. Usando o c√≥digo de instala√ß√£o do BGT...~
 
-@13   = ~Instalando la MisiÛn de la "Familia de Beregost"...~
+@13   = ~Instalando a Miss√£o "Fam√≠lia de Beregost"...~
 
-@19   = ~Instalando la MisiÛn del "Cuidado de NiÒos", incluido el "Encuentro de Carnaval"...~
+@19   = ~Instalando a miss√£o "Cuidados Infantis", incluindo o "Encontro de Carnaval"...~
 
-@38   = ~Instalando la MisiÛn del "Lodo"...~
-@39   = ~Instalando la MisiÛn del "Monstruo de Nashkel"...~
+@38   = ~Instalando a miss√£o "Lama"...~
+@39   = ~Instalando a miss√£o "Monstro Nashkel"...~
 
-@43   = ~Instalando la MisiÛn del "PaladÌn CaÌdo"...~
+@43   = ~Instalando a miss√£o "Paladino Ca√≠do"...~
 
-@48   = ~Instalando la MisiÛn del Amor Eterno...~
+@48   = ~Instalando a Miss√£o do Amor Eterno...~
 
-@50   = ~Instalando el Encuentro del Amante Orco...~
+@50   = ~Instalando o Orc Lover's Gathering...~
 
-@56   = ~Instalando la MisiÛn de la Ayuda Inesperada...~
-
-
-
-/* nuvo contenido: v9 */
+@56   = ~Instalando a Miss√£o de Ajuda Inesperada...~
 
 
-@61   = ~Muchas pequeÒas patitas~
 
-@66   = ~Detectada la versiÛn "BG:EE".~
-
-@98   = ~Borracho cerca del Templo de Beregost~
+/* novo conteudo : v9 */
 
 
-/* nuevo contenido v10 */
+@61   = ~Muitas pequenas pernas ~
 
-@105  = ~Un lugar c·lido para Noober~
+@66   = ~Detectada a vers√£o "BG:EE".~
+
+@98   = ~B√™bado perto do Templo de Beregost~
+
+
+/* novo conteudo v10 */
+
+@105  = ~Um lugar quente para Noober~
 
 /* new content v15 */
 
-@109  = ~Detectado el mod "EET".~
+@109  = ~Detectado o mod "EET".~
 
 
-/* nuevo contenido v16 */ 
+/* novo conteudo v16 */ 
 
 
-@5000 = ~La Espada de Brage~
-@5001 = ~Fuentes legales de Cartas Marinas~
-@5002 = ~Ampliaciones de la Sala de la Dama y del Templo de la Reina Perra~
-@5003 = ~Tu juego SoD necesita ser "modmergeado" antes de que los mods puedan ser instalados en este juego. Compruebe el readme para obtener m·s informaciÛn y un enlace para descargar el DLC Merger o Modmerger para este proceso.~ 
+@5000 = ~Espada de Brage~
+@5001 = ~Fontes legais para cartas mar√≠timas~
+@5002 = ~Extens√µes ao Sal√£o da Senhora e ao Templo da Rainha Vadia~
+@5003 = ~Seu jogo SoD precisa ser "modmerged" antes que os mods possam ser instalados neste jogo. Verifique o leia-me para obter mais informa√ß√µes e um link para baixar o DLC Merger ou Modmerger para este processo.~
 
-@5004  = ~Un Granjero Preocupado~
-@5005   = ~Cad·veres por una buena causa~
+@5004  = ~Um Fazendeiro Preocupado~
+@5005   = ~Cad√°veres por uma boa causa~
 
-@5006   = ~Este componente "no es compatible" con el Baldur's Gate 1 original.~
+@5006   = ~Este componente "n√£o √© compat√≠vel" com o Baldur's Gate 1 original.~
 
-/* nuevo para v19 */
-@5007   = ~La misiÛn "La espada de Brage" ya est· incluida en el mod "La redenciÛn de Brage".~
-@5008   = ~bgqe no es compatible con este juego.~
+/* novo para v19 */
+@5007   = ~A miss√£o "Espada de Brage" agora est√° inclu√≠da no mod "Reden√ß√£o de Brage".~
+@5008   = ~bgqe n√£o √© suportado neste jogo.~
 
-/* nuevo para v23 */
-@5009   = ~Termina la misiÛn de Cordyr sin matar a Sil.~
+/* novo para v23 */
+@5009   = ~Termine a miss√£o de Cordyr sem matar Sil.~
 
-/* nuevo para v24 */
-@5010   = ~Este mod tiene que ser instalado "antes de EET_End" en su instalaciÛn de EET.~
+/* novo para v24 */
+@5010   = ~Este mod deve ser instalado "antes do EET_End" na instala√ß√£o do EET.~
 
