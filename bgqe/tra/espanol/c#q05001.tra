@@ -122,87 +122,87 @@
 
 
 
-/* contenido nuevo v9 */
+/* conteudo novo v9 */
 
-//---Reacciones de los NPC--
+//---Reações dos NPCs--
 
-@137 = ~Esa sí que es una situación dura. No hay excusas, has caído por una buena razón: mataste a una niña inocente. Pero fuiste engañado y no te diste cuenta de tu acción. Helm podría perdonarte si demuestras que eres digno.~
-@138 = ~Reza al Vigilante para que esto nunca te suceda, amigo.~
-@139 = ~Estoy muy contento de que podamos ayudar a este hombre, <CHARNAME>.~
-@140 = ~Que encuentre paz.~
-@141 = ~Ah, eso es genial. Ahora podría encontrar su perdón, después de todo. Y con suerte también podrá salvará vidas en Luskan.~
-@142 = ~Una esperanza ociosa, la esperanza del perdón.~
-@143 = ~Muy bien. Estaba pensando en si deberíamos advertir a las autoridades de Luskan sobre el peligro, pero supongo que no podríamos haber enviado a un mejor mensajero.~
-@144 = ~Espero que sea rápido. No puedo soportar pensar en lo que hará este demonio en Luskan.~
-@145 = ~Minsc teme por la joven en Luskan. ¡El paladín debería darse prisa!~
-@146 = ~¡Le deseo éxito!~
-@147 = ~Tal vez cuando esté en Luskan, pueda dedicar algo de tiempo para mejorar su apariencia... Pero, para ser honesto, aunque se veía terrible, no parecía estar sucio. Habría esperado que una persona parada en una esquina durante tanto tiempo apestara contra el viento.~
-@148 = ~Un paladín siempre tiene que cuidar su apariencia, Safana.~
-@149 = ~Sí, ¡pero su ropa estaba en un estado terrible! ¡¿Y cuándo, en medio de su remordimiento que lo abarcaba todo, encontró tiempo para lavarse y afeitarse?!~
-@150 = ~¿Pero pensé que ya no era un paladín? Me he perdido.~
-@151 = ~Esa es una historia muy triste.~
-@152 = ~Sin embargo, esperaba un poco más de drama, de alguna manera.~
-@153 = ~Pero parece que todo terminará bien. ¿Crees que alguna vez descubriremos cómo terminó? ... ¿Cuán lejos está Luskan, en realidad? ~
-@154 = ~Lo suficientemente lejos como para no preocuparnos.~
+@137 = ~Essa é realmente uma situação difícil. Não há desculpas, você caiu por um bom motivo: você matou uma garota inocente. Mas você foi enganado e não percebeu sua ação. Helm pode te perdoar se você provar que é digno.~
+@138 = ~Ore ao Observador para que isso nunca aconteça com você, amigo.~
+@139 = ~Estou tão feliz por podermos ajudar esse homem, <CHARNAME>.~
+@140 = ~Que ele encontre paz.~
+@141 = ~Ah, isso é ótimo. Agora ele poderia encontrar seu perdão, afinal. E espero que também possa salvar vidas em Luskan.~
+@142 = ~Uma esperança vã, a esperança do perdão.~
+@143 = ~Muito bom. Eu estava pensando se deveríamos alertar as autoridades de Luskan sobre o perigo, mas acho que não poderíamos ter enviado um mensageiro melhor.~
+@144 = ~Espero que seja rápido. Não suporto pensar no que esse demônio fará em Luskan.~
+@145 = ~Minsc teme pela jovem em Luskan. O paladino deveria se apressar!~
+@146 = ~Desejo-lhe sucesso!~
+@147 = ~Talvez quando eu estiver em Luskan, eu possa passar algum tempo melhorando sua aparência... Mas para ser honesto, embora ele parecesse horrível, ele não parecia estar sujo. Eu teria esperado que uma pessoa parada em uma esquina por tanto tempo cheirasse mal contra o vento.~
+@148 = ~Um paladino sempre tem que cuidar de sua aparência, Safana.~
+@149 = ~Sim, mas as roupas dele estavam em péssimo estado! E quando, em meio a todo o seu remorso, ele encontrou tempo para se lavar e fazer a barba?!~
+@150 = ~Mas eu pensei que não era mais um paladino? Eu me perdi.~
+@151 = ~Essa é uma história muito triste.~
+@152 = ~No entanto, eu esperava um pouco mais de drama, de alguma forma.~
+@153 = ~Mas parece que tudo vai acabar bem. Você acha que algum dia descobriremos como tudo terminou? ...A que distância fica Luskan, realmente? ~
+@154 = ~Longe o suficiente para não se preocupar.~
 
-@155 = ~Me pregunto si las chicas están completamente dominadas por ese demonio, o si tienen control sobre su poder... Hm, tengo que pensar en ello un poco más. ¡El aumento de poder debe ser enorme!~
-@156 = ~Debe ser un sentimiento realmente extraño, de repente tener tanto poder como esas chicas.~
-@157 = ~Esos son pensamientos ociosos. Esas pobres chicas no tienen ningún control sobre los poderes del demonio.~
-@158 = ~ ¿Adónde fue el demonio? Espero que las chicas no se den cuenta de lo que les está pasando... El demonio debe haberse apoderado por completo, o el paladín no habría podido ser engañado así.~
-@159 = ~Como si un humano no tuviera ya suficientes demonios...~
-@160 = ~Cierto, amigo mío, muy cierto.~
-@161 = ~Ahora, ¿qué tipo de demonio debería ser ese? Nunca he oído hablar de un demonio que posea a sus víctimas de esa manera. ¡Yo, al menos, nunca he conocido a uno de esos!~
-@162 = ~Eso es porque hace bastante tiempo que no eres una niña, Xzar.~
+@155 = ~Eu me pergunto se as garotas são completamente dominadas por aquele demônio, ou se elas têm controle sobre seu poder... Hm, eu tenho que pensar um pouco mais sobre isso. O aumento de potência deve ser enorme!~
+@156 = ~Deve ser uma sensação muito estranha, de repente ter tanto poder quanto aquelas garotas.~
+@157 = ~Esses são pensamentos ociosos. Essas pobres garotas não têm controle sobre os poderes do demônio.~
+@158 = ~ Para onde foi o demônio? Espero que as garotas não percebam o que está acontecendo com elas... O demônio deve ter assumido o controle completamente, ou o paladino não poderia ter sido enganado daquele jeito.~
+@159 = ~Como se um humano já não tivesse demônios suficientes...~
+@160 = ~Verdade, meu amigo, muito verdade.~
+@161 = ~Agora, que tipo de demônio deveria ser esse? Nunca ouvi falar de um demônio possuindo suas vítimas dessa maneira. Eu, pelo menos, nunca conheci um desses!~
+@162 = ~Isso é porque você não é uma garota há algum tempo, Xzar.~
 
-@163 = ~Y se fue. Ahí va, el asesino de la niña. Al menos tenía una buena excusa.~
-@164 = ~¡Bah, brillamos de caridad y felicidad, eso me está alejando!~
-@165 = ~¿Quieres ir a Luskan?...~
+@163 = ~E se foi. Lá vai ele, o assassino da garota. Pelo menos eu tive uma boa desculpa.~
+@164 = ~Bah, nós brilhamos com caridade e felicidade, isso está me afastando!~
+@165 = ~Você quer ir para Luskan?...~
 
-@166 = ~<CHARNAME>, ¿por qué hiciste eso?~
-@167 = ~Ahora, ¡era realmente innecesario! ¿No crees que esos pobres padres ya tienen suficientes problemas?~
-@168 = ~¡La madre pidió secreto!~
-@169 = ~Es espantoso ver cómo estás jugando con la confianza y la paz de estas personas, <CHARNAME>.~
-@170 = ~¡Ahora todos van a la casa de los p-padres!~
-@171 = ~Si no fuera una ocasión tan triste, ¡podría ser muy divertido! Eh, no. No creo que sea divertido.~
-@172 = ~¿Encuentras esto divertido? ¿Por qué le diste esa información?~
-@173 = ~¡Ja! No sabía que eras de los que bromeaban.~
-@174 = ~Oh, <CHARNAME>, ¿cómo pudiste... Los pobres, pobres padres... gnehehehehe!~
-@175 = ~¡Sí, je! ¡Rápido, vayamos a la casa de los padres y veamos cómo la mafia hace su mobbing!~
+@166 = ~<CHARNAME>, por que você fez isso?~
+@167 = ~Agora, foi realmente desnecessário! Você não acha que esses pobres pais já têm problemas suficientes?~
+@168 = ~A mãe pediu segredo!~
+@169 = ~É terrível ver como você está brincando com a confiança e a paz dessas pessoas, <CHARNAME>.~
+@170 = ~Agora todo mundo está indo para a casa dos seus pais!~
+@171 = ~Se não fosse uma ocasião tão triste, poderia ser muito divertido! Ah, não. Eu não acho que seja divertido.~
+@172 = ~Você acha isso engraçado? Por que você deu essa informação a ele?~
+@173 = ~Ah! Eu não sabia que você era um daqueles que brincava.~
+@174 = ~Oh, <CHARNAME>, como você pôde... Pobres, pobres pais... gnehehehehe!~
+@175 = ~Sim, heh! Rápido, vamos para a casa dos pais e ver como a máfia faz seu assédio moral!~
 
-@176 = ~Pero esto sonó exactamente como lo que le pasó a Luisa, ¿no?~
-@177 = ~Lo que dijo esa mujer podría ser de interés para ese pobre paladín.~
-@178 = ~<CHARNAME>, las palabras que dijo esa mujer me sorprendieron. Por favor, vayamos al templo de Helm y digámoselo a Sir Dauron lo más rápido posible.~
+@176 = ~Mas isso soou exatamente igual ao que aconteceu com Luisa, certo?~
+@177 = ~O que aquela mulher disse pode ser do interesse daquele pobre paladino.~
+@178 = ~<CHARNAME>, as palavras que aquela mulher disse me surpreenderam. Por favor, vamos ao templo de Helm e conte a Sir Dauron o mais rápido possível.~
 
-@179 = ~¿Era el mismo demonio? Sus poderes deben ser realmente grandes, si puede teletransportarse a sí mismo y a esa niñera de Puerta de Baldur a Luskan y viceversa así.~
-
-//Dorn
-@180 = ~No me importan los paladines caídos que se quedan en los templos. Solo me preocupo por ellos si tengo que atravesarlos con mi espada. El demonio, sin embargo, me hubiera gustado conocerlo.~
-
-//Neera
-@181 = ~Yo... Le deseo expiación. No todos tenemos la oportunidad de hacer algo grandioso para recibirlo.~
-  //Rasaad
-@182 = ~Su dios podría haberse alejado de él, pero aun así ha sido honesto y bueno en sus pensamientos. Le deseo lo mejor.~
-
-//Baeloth
-@183 = ~¿Qué, qué? ¿Va a Luskan? ¿Él va donde está el demonio? Conozco este tipo de demonio. ¡Me alegro de que esté en Luskan! ¡Lejos, *muy* lejos!~
+@179 = ~Era o mesmo demônio? Seus poderes devem ser realmente grandes, se ele consegue se teletransportar e aquela babá de Baldur's Gate para Luskan e voltar assim.~
 
 //Dorn
-@184 = ~Hmph. No me importa dónde se reúna la gente, pero preferiría que no llamaras tanto la atención sobre nuestra presencia.~
+@180 = ~Não me importo com os paladinos caídos que ficam nos templos. Eu só me preocupo com eles se tiver que atravessá-los com minha espada. O diabo, porém, eu gostaria de saber.~
 
 //Neera
-@185 = ~Ah, ahora la multitud enojada se ha ido, qué alivio... Espera, se mudaron a la casa de los padres, ¿no? Ay, eso es malo.~
-
-//Baeloth
-@186 = ~Hmm, ¿manipulando a las masas enojadas, <CHARNAME>? ¡Qué espectáculo! Aunque, si supieran qué tipo de demonio es ese, le agradecerían al hombre por ahuyentarlo, no molestarían a las personas involucradas.~
-
-//Neera
-@187 = ~Despertar en una parte totalmente diferente del mundo, sin dinero y sin saber cómo has ido a parar allí... ¡Qué angustia!~
-
-//Baeloth
-@188 = ~¡Qué jaja! ¡En Luskan es ahora! Al escuchar la historia que la mujer tenía que contar, pronto habrá otro paladín caído allí.~
-
+@181 = ~Eu... desejo-lhe expiação. Nem todos nós temos a oportunidade de fazer algo grandioso para recebê-lo.~
   //Rasaad
-@189 = ~La historia que contó esa pobre mujer me sonó familiar. Deberíamos volver a hablar con ese paladín caído en el templo, <CHARNAME>.~
+@182 = ~Seu deus pode ter se afastado dele, mas ele ainda foi honesto e bom em seus pensamentos. Desejo-lhe o melhor.~
+
+//Baeloth
+@183 = ~O quê, o quê? Você está indo para Luskan? Ele vai para onde o diabo está? Eu conheço esse tipo de demônio. Que bom que você está em Luskan! Longe, *muito* longe!~
+
+//Dorn
+@184 = ~Hmph. Não me importa onde as pessoas se reúnem, mas preferiria que você não chamasse tanta atenção para a nossa presença.~
+
+//Neera
+@185 = ~Ah, agora a multidão enfurecida se foi, que alívio... Espere, eles se mudaram para a casa dos pais, certo? Ah, isso é ruim.~
+
+//Baeloth
+@186 = ~Hmm, manipulando as massas furiosas, <CHARNAME>? Que espetáculo! Embora, se soubessem que tipo de demônio era aquele, agradeceriam ao homem por afastá-lo, não incomodariam as pessoas envolvidas.~
+
+//Neera
+@187 = ~Acordar em uma parte totalmente diferente do mundo, sem dinheiro e sem saber como você foi parar lá... Que angustiante!~
+
+//Baeloth
+@188 = ~O que haha! Em Luskan é agora! Ouvindo a história que a mulher tinha para contar, em breve haverá outro paladino caído lá.~
+
+   //Rasaad
+@189 = ~A história que aquela pobre mulher contou me pareceu familiar. Devíamos falar com aquele paladino caído no templo novamente, <CHARNAME>.~
 
 //Rasaad
-@190 = ~¿Te divertiste? Porque para ti, podría haber sido un breve momento de diversión gritar esta noticia a la multitud, ¡pero para la madre es un gran motivo de molestia! Desearía que hubieras mostrado más respeto hacia las personas que ya estaban sacudidas por el destino, ¡especialmente si te lo habían pedido!~
+@190 = ~Você se divertiu? Porque para você pode ter sido um breve momento de diversão gritar essa notícia para a multidão, mas para a mãe é um grande aborrecimento! Eu gostaria que você tivesse demonstrado mais respeito pelas pessoas que já estavam abaladas pelo destino, especialmente se elas tivessem pedido isso!~
