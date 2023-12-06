@@ -1,315 +1,315 @@
-@0    = ~¡¿Qué... qué habéis *hecho*?!~
-@1    = ~¡¿Qué... qué habéis *hecho*?! ¡Mi hijo!~
-@2    = ~Oh, otro más. Está *escaleras arriba*, ya deberíais saberlo. Decidle que tiene que hacerse él mismo el té. Yo no soy su esclava.~
-@3    = ~Os ruego me perdonéis, mi dama.~
-@4    = ~Disputa Familiar en Beregost
+@0    = ~O que... o que vocÃª *fez*?!~
+@1    = ~O que... o que vocÃª *fez*?! Meu filho!~
+@2    = ~Ah, outro. EstÃ¡ *lÃ¡ em cima*, vocÃª jÃ¡ deveria saber disso. Diga a ele que ele mesmo deve fazer o chÃ¡. Eu nÃ£o sou seu escravo.~
+@3    = ~PeÃ§o perdÃ£o, minha senhora.~
+@4    = ~Disputa Familiar em Beregost
 
-He conocido a una extraña pareja en una de las casas de Beregost. Aparentemente, el marido y la mujer no se hablan más. Quizás debería investigar esto un poco más.~
-@5    = ~Siento haber interrumpido. Ahora me iré.~
-@6    = ~Acabo de hablar con vuestro marido, y él...~
-@7    = ~¿Y ahora, qué es todo esto? ¡*Sois* una extraña pareja!~
-@8    = ~Esperamos que el collar sea de vuestro agrado, gracias por vuestra ayuda.~
-@9    = ~Efectivamente, ¡era Annie quién tenía el collar! ¡Mi pobre marido! *pareciendo culpable* ¡Muchas gracias por vuestra ayuda! Hicisteis una buena acción.~
-@10   = ~Realmente quería veros felices. ¿Tenéis un comprador honesto para vuestro collar?~
-@11   = ~Fue un placer. Buenos días.~
-@12   = ~Si. Es increíble como de infantiles se portan algunos adultos.~
-@13   = ~Ahora tengo el dinero. ¿Todavía os interesa?~
-@14   = ~*sollozo* Por favor, ahora iros...~
-@15   = ~¿Qué queréis ahora?~
-@16   = ~¿Seguro que no necesitáis algo de dinero?~
-@17   = ~Vuestro marido nos dijo que el collar perdido os pertenece.~
-@18   = ~Nada. Adiós.~
-@19   = ~¡Ya os *dije* dónde podíais encontrarle!~
-@20   = ~Parece que habéis perdido algo. ¿Os podemos ayudar de alguna forma?~
-@21   = ~Vuestra hija mencionó que habéis perdido un collar.~
-@22   = ~Nada. Adiós.~
-@23   = ~Muchas, muchas gracias. Nosotros... somos unas personas muy reservadas, y quizás un poco orgullosas. *sonrisa tímida* Sois una persona muy generosa y amistosa. Estamos en deuda con vos.~
-@24   = ~*Dais las 500 piezas de oro al Sr. Dudley.*~
+Conheci um casal estranho em uma das casas de Beregost. Aparentemente, marido e mulher nÃ£o se falam mais. Talvez eu devesse investigar isso um pouco mais.~
+@5    = ~Me desculpe por ter interrompido. Agora eu vou.~
+@6    = ~Acabei de falar com seu marido e ele...~
+@7    = ~Agora, o que Ã© tudo isso? *VocÃªs* sÃ£o um casal estranho!~
+@8    = ~Esperamos que vocÃª goste do colar, obrigado pela ajuda.~
+@9    = ~Com certeza, foi Annie quem ficou com o colar! Meu pobre marido! *parecendo culpado* Muito obrigado pela sua ajuda! VocÃª fez uma boa aÃ§Ã£o.~
+@10   = ~Eu queria muito ver vocÃª feliz. VocÃª tem um comprador honesto para o seu colar?~
+@11   = ~Foi um prazer. Bom dia.~
+@12   = ~Sim. Ã‰ incrÃ­vel como alguns adultos agem infantilmente.~
+@13   = ~Agora eu tenho o dinheiro. VocÃª ainda estÃ¡ interessado?~
+@14   = ~*soluÃ§o* Por favor, vÃ¡ agora...~
+@15   = ~O que vocÃª quer agora?~
+@16   = ~Tem certeza que nÃ£o precisa de dinheiro?~
+@17   = ~Seu marido nos contou que o colar perdido pertence a vocÃª.~
+@18   = ~Nada. Adeus.~
+@19   = ~Eu *disse* onde vocÃª poderia encontrÃ¡-lo!~
+@20   = ~Parece que vocÃª perdeu alguma coisa. Podemos ajudÃ¡-lo de alguma forma?~
+@21   = ~Sua filha mencionou que vocÃª perdeu um colar.~
+@22   = ~Nada. Adeus.~
+@23   = ~Muito, muito obrigado. NÃ³s... somos pessoas muito reservadas e talvez um pouco orgulhosas. *sorriso tÃ­mido* VocÃª Ã© uma pessoa muito generosa e amigÃ¡vel. Estamos em dÃ­vida com vocÃª.~
+@24   = ~*VocÃª dÃ¡ as 500 peÃ§as de ouro para o Sr. Dudley.*~
 
-@26   = ~*Ponéis 550 piezas de oro directamente en la bolsa de dinero del Sr. Dudley, intentando aseguraros que no se da cuenta del dinero extra.* *Gracias*, buena gente.~
+@26   = ~*VocÃª coloca 550 moedas de ouro diretamente na bolsa de dinheiro do Sr. Dudley, tentando garantir que ele nÃ£o perceba o dinheiro extra.* *Obrigado*, gente boa.~
 
-@28   = ~*Ponéis 600 piezas de oro directamente en la bolsa de dinero del Sr. Dudley, intentando aseguraros que no se da cuenta del dinero extra.* Deseo que todo os vaya bien.~
+@28   = ~*VocÃª coloca 600 moedas de ouro diretamente na bolsa de dinheiro do Sr. Dudley, tentando garantir que ele nÃ£o perceba o dinheiro extra.* Espero que tudo corra bem para vocÃª.~
 
-@30   = ~Me habéis oído perfectamente. Al menos tened la decencia de limpiar vuestros zapatos antes de subir arriba.~
-@31   = ~Yo... Oh, no importa.~
-@32   = ~Como digáis. Al menos tened la decencia de limpiar vuestros zapatos antes de subir arriba.~
-@33   = ~¡No voy a escuchar más! No sé porqué sigue enviando a sus amigos. Se está ganando a toda la calle para que piense que *yo* lo tengo. ¡Pero *él* lo está ocultando! Esto es ridículo. Dejadme en paz.~
-@34   = ~¿Habéis perdido algo?~
-@35   = ~No diré nada más. Volved con él y dejadme en paz.~
-@36   = ~¿Os ha dicho eso? *suspiro* Pobre chica. Su padre no piensa en lo que le está haciendo. No piensa en lo que *nos* está haciendo, ¡al ocultar ese collar de perlas!~
-@37   = ~¿Os puedo ayudar de alguna forma?~
-@38   = ~Bueno, peor para él. Debo irme.~
-@39   = ~No, no lo creo. Lo siento, no querría ofenderos, pero incluso nuestros amigos no le encuentran sentido a sus palabras... Me disculpo por la antipatía de antes. Me imaginé que erais sus amigos cuando vinisteis la primera vez. Os doy las gracias por vuestro ofrecimiento de ayudarme, pero por favor, ahora dejadnos a solas.~
-@40   = ~Si solo es dinero lo que habéis perdido, ¿quizás os pueda dar algo?~
-@41   = ~Cómo queráis. Adiós.~
-@42   = ~Ah... no, no, gracias. Tenemos suficiente dinero. Al menos *teníamos*... No importa. No es vuestro problema.~
-@43   = ~¿Lo hizo? Bueno, al menos parece recordarlo... Aunque eso no ayuda, ¡si no me lo *da* a mi!~
-@44   = ~Pero dijo que no tenía razón para ocultarlo... Y que vos también aceptasteis venderlo, pero entonces cambiasteis de opinión.~
-@45   = ~Peor para él. Debo marcharme.~
-@46   = ~¿Qué *cambié* de opinión? Una tarde discutimos sobre la necesidad de vender mi... *sollozo* el collar de mi abuela, ¡y a la mañana siguiente lo ocultó! Ibamos a perder la casa porque no podíamos pagar nuestra última deuda. Realmente no le culpo por eso ya que no es capaz de ganar tanto como antes. No he hablado con mi testarudo marido desde hace varios días. Yo... no puedo llevar esto tan lejos... *sollozo* Por favor, dejadme en paz...~
-@47   = ~Tengo la impresión que aquí estamos andando en círculos. Debe haber una solución diferente para esto.~
-@48   = ~Oh, venga, por favor, no lloréis... Argh, ¡mejor que me vaya!~
-@49   = ~Pobre Annie... Qué será de ella... *sollozo*~
-@50   = ~¡¿Qué... que habéis *hecho*?! ¡Annie!~
-@51   = ~¿Qué estáis haciendo aquí? Bajad y recordadle nuestro acuerdo. Esto es *mío* y abajo es *suyo*. ¡Y decidle que quiero algo de té! ¡Ahora, iros!~
-@52   = ~Os pido perdón, mi señor.~
-@53   = ~De acuerdo, me marcho.~
-@54   = ~Acabamos de hablar con vuestra esposa y ha dicho...~
-@55   = ~¡Esperad! ¡Esperad! Nos... *jadeo* nos disteis mucho dinero, una buena ayuda. ¡Eran 500 *jadeo* 500 piezas de oro lo que acordamos!~
-@56   = ~¡Ah, otra vez vos! Es bueno ver una cara amiga. ¿Le gusto a vuestro amigo el collar?~
-@57   = ~¡Quién habría pensado que era Annie quién cogió el collar!~
-@58   = ~Vuestra esposa está llorando abajo las escaleras... ¿Estáis seguro que no queréis aceptar algo de dinero y acabar con esto?~
-@59   = ~¿Estáis seguro que no queréis nada de dinero?~
-@60   = ~Tengo la impresión después de hablar con vuestra esposa, ¡qué piensa que *vos* estáis ocultando el collar!~
-@61   = ~¡Pensad en preguntarle por el té!~
-@62   = ~¿Habéis perdido algo?~
-@63   = ~¿Estáis sordo? Ahora bajad con ella. *Hay* suficiente espacio en la planta baja.~
-@64   = ~Yo... de acuerdo, adiós.~
-@65   = ~Humpf. Pensaréis que *hay* suficiente espacio en la planta baja.~
-@66   = ~Oh, no intentéis eso conmigo. ¡Sabemos perfectamente bien que *ella* está ocultándolo! Decidle que eso no le llevará a ninguna parte. ¡Tenemos que venderlo!~
-@67   = ~¿Habéis perdido algo?~
-@68   = ~¡Ja! Creo que todo el mundo ya lo sabe. Es vergonzoso vender las posesiones por que... ¿no tenéis suficiente dinero? No es mi culpa que un caballo pisara mis pies. ¡Ahora, por favor! Quiero descansar un poco. Adiós.~
-@69   = ~¿Os podemos ayudar de alguna forma?~
-@70   = ~Claro. Adiós.~
-@71   = ~Si. ¡Bajad con ella y decidle que deje de ocultarlo! Adiós.~
-@72   = ~¿Perdido? Si, ¡efectivamente está perdido! Mi querida esposa está ocultando la última posesión que nos hubiera salvado de perder la casa... ¡Por dios, estoy hablando con un completo extraño de mis problemas de dinero! Será mejor que ahora os vayáis. ¡Adiós!~
-@73   = ~¡Eso es ridículo! ¿Porqué debería hacer eso? Para ser más precisos, actualmente es suyo, una vieja joya de la familia... *suspiro* No es fácil para un hombre admitir que no es capaz de dar a su familia lo que necesita. Ella aceptó vender las perlas. ¡Mi Margareth es realmente una mujer muy valiente! Pero *suspiro* de alguna forma ha cambiado de opinión, y ahora no está. ¡No he hablado con ella desde hace una semana! Esta situación es insoportable. Por favor, dejad a un hombre viejo con su pena. Que tengáis un buen día.~
-@74   = ~Si lo que habéis perdido es solo dinero, ¿quizás os podría dar algo?~
-@75   = ~Adiós.~
-@76   = ~¿Eh? Oh, gracias por esa... er, amistosa oferta. Pero ella nunca aceptará eso, mi Margareth... No, no lo hará.~
-@77   = ~*suspiro* ¿Veis, no es tan fácil? No está bien que cojamos dinero de extraños por que el dinero no nos llega para el contrato. Es muy tentador, pero no es tan sencillo. *suspiro*~
-@78   = ~Habían 100 piezas de oro de más en mi bolsa, después de que os fuerais... ¿Eso fue cosa vuestra? Sois muy amables y generosos, pero no podemos aceptar una donación de tanto dinero.~
-@79   = ~No es una donación. Os he ofrecido 600 piezas de oro por que creo que es exactamente la suma que vale el collar. No voy a discutir con vos delante de vuestra esposa, pero no hay forma de que me devolvías estas 100 piezas de oro ya que os pertenecen a vos, buen hombre.~
-@80   = ~¿Seguro? Veo que realmente necesitáis ese dinero, y yo tengo suficiente para mi.~
-@81   = ~*suspiro* Bueno, entonces devolvédmelo.~
-@82   = ~Habían 50 piezas de oro de más en mi bolsa, después de que os fuerais... ¿Eso fue cosa vuestra? Sois muy amables y generosos, pero no podemos aceptar una donación de tanto dinero.~
-@83   = ~No es una donación. Os he ofrecido 550 piezas de oro por que creo que es exactamente la suma que vale el collar. Bueno, vuestra contra oferta fueron 500, así que lo dejamos en la mitad. No voy a discutir con vos delante de vuestra esposa, pero no hay forma de que me devolvías estas 50 piezas de oro ya que os pertenecen a vos, buen hombre.~
-@84   = ~Estamos en deuda con vos. Que los dioses vayan con vos.~
-@85   = ~No hay ninguna pregunta. Estamos en deuda con vos. Coged de nuevo el dinero, y que lo dioses vayan con vos.~
-@86   = ~Ah, no, no... quiero decir... ¿Realmente...?~
-@87   = ~Ya veis que no hay lágrimas en mis ojos. Creo que se me metió algo de arena dentro al correr para alcanzaros. Sois algo especial, joven, ya os lo digo. Pero lo que habéis dicho tiene sentido... Espero que lo recuerde hasta que pueda volver a casa y se lo diga a Margareth... O quizás no se lo diga, y sorprendiéndola después...~
-@88   = ~Estamos en deuda con vos. Entonces guardaré el dinero... ¡Que los dioses vayan con vos!~
-@89   = ~Bueno, iremos a ver a alguien que conocemos en privado... No siempre es bueno pedir dinero a la gente que conoces, pero es...~
-@90   = ~¡Dios mío!, ¿queréis contar cada detalle de nuestra pobreza?~
-@91   = ~Estamos muy agradecidos de lo que hicisteis por nosotros, pero necesitamos algo de tiempo para hablar de los trámites que tocan ahora... Os pido disculpas, pero ahora estamos bastante preocupados.~
-@92   = ~Siento interferir tanto en vuestros problemas privados, pero actualmente estoy buscando un collar de perlas para una, ee... amiga. ¿Me venderíais el collar por... digamos, 600 piezas de oro?~
-@93   = ~Bueno, espero que todo esté bien. Qué tengáis un buen día.~
-@94   = ~Si, seguro. Adiós.~
-@95   = ~¡¿600 piezas de oro?! Eso es... es mucho más de lo que obtendríamos con otro vendedor.~
-@96   = ~Muchas gracias, es una oferta muy honorable. Aunque no queremos que sea una molestia para vos. Nosotros...~
-@97   = ~¿Margareth, qué estáis diciendo? ¿No habéis oído lo que he dicho? ¿Porqué ahora no deberíamos venderlo? De todas formas no se lo podemos comprar de nuevo a Edgar.~
-@98   = ~Cariño, por favor. No soy tan estúpida para pensar...~
-@99   = ~Margareth, ven un momento.~
-@100  = ~*susurros* ...el dinero directamente y... *murmullos* ...nunca sabréis si Edgar... *susurros*...~
-@101  = ~Si, pero *susurros*...~
-@102  = ~Margareth, Por favor *susurros*... ¿Annie, mm?~
-@103  = ~Bueno *susurros* *sollozo* Tenéis tanta razón, querida. Pero solo *susurros*...~
-@104  = ~Sois la más sabia de todas, amada esposa. Así es exactamente como lo haremos.~
-@105  = ~De acuerdo. Finalmente hemos decidido aceptar vuestra oferta, pero no por las 600 que nos habéis ofrecido. Serán quinientas. Todavía es una oferta muy generosa para nosotros, y somos muy conscientes del hecho que lo sabéis... *ejem*.~
-@106  = ~Qué consuelo. ¡Y yo que creía que tendría que buscar para siempre un collar de perlas!~
-@107  = ~Si os habéis decidido, no discutiré con vos.~
-@108  = ~Si, si, acabemos ya con este trato.~
-@109  = ~Ah, me parece que ahora no tengo suficiente dinero. ¡Volveré más tarde!~
+@30   = ~VocÃª me ouviu perfeitamente. Pelo menos tenha a decÃªncia de limpar os sapatos antes de subir.~
+@31   = ~Eu... Ah, nÃ£o importa.~
+@32   = ~Como vocÃª diz. Pelo menos tenha a decÃªncia de limpar os sapatos antes de subir.~
+@33   = ~NÃ£o vou ouvir mais! NÃ£o sei por que ele continua mandando amigos. Ele estÃ¡ conquistando a rua inteira fazendo-a pensar que *eu* tenho. Mas *ele* estÃ¡ escondendo isso! Isso Ã© ridÃ­culo. Deixe-me em paz.~
+@34   = ~VocÃª perdeu alguma coisa?~
+@35   = ~NÃ£o direi mais nada. Volte para ele e me deixe em paz.~
+@36   = ~Ele te contou isso? *suspiro* Pobre garota. Seu pai nÃ£o pensa no que estÃ¡ fazendo com ele. Ele nÃ£o pensa no que estÃ¡ fazendo *com* nÃ³s, escondendo aquele colar de pÃ©rolas!~
+@37   = ~Posso te ajudar de alguma forma?~
+@38   = ~Bem, pior para ele. Eu devo ir.~
+@39   = ~NÃ£o, acho que nÃ£o. Sinto muito, nÃ£o gostaria de ofendÃª-lo, mas nem mesmo nossos amigos conseguem entender suas palavras... PeÃ§o desculpas pela antipatia de antes. Achei que vocÃªs eram amigos dele quando chegaram. AgradeÃ§o sua oferta de me ajudar, mas por favor, deixe-nos em paz agora.~
+@40   = ~Se Ã© apenas dinheiro que vocÃª perdeu, talvez eu possa te dar algum?~
+@41   = ~Como desejar. Adeus.~
+@42   = ~Ah... nÃ£o, nÃ£o, obrigado. Temos dinheiro suficiente. Pelo menos nÃ³s *tivemos*... NÃ£o importa. NÃ£o Ã© problema seu.~
+@43   = ~Ele fez? Bem, pelo menos ele parece se lembrar... Embora isso nÃ£o ajude, se ele nÃ£o *me der* isso!~
+@44   = ~Mas ele disse que nÃ£o tinha motivos para esconder... E que vocÃª tambÃ©m concordou em vendÃª-lo, mas depois mudou de ideia.~
+@45   = ~Pior para ele. Eu devo ir.~
+@46   = ~O que *mudou* minha mente? Uma tarde discutimos sobre a necessidade de vender meu... *soluÃ§o* o colar da minha avÃ³, e na manhÃ£ seguinte ela o escondeu! Ãamos perder a casa porque nÃ£o conseguirÃ­amos pagar a nossa Ãºltima dÃ­vida. Eu realmente nÃ£o o culpo por isso, jÃ¡ que ele nÃ£o consegue vencer tanto quanto antes. NÃ£o falo com meu marido teimoso hÃ¡ vÃ¡rios dias. Eu... eu nÃ£o posso ir tÃ£o longe... *soluÃ§o* Por favor, me deixe em paz...~
+@47   = ~Tenho a impressÃ£o de que estamos andando em cÃ­rculos aqui. Deve haver uma soluÃ§Ã£o diferente para isso.~
+@48   = ~Oh, vamos lÃ¡, por favor, nÃ£o chore... Argh, Ã© melhor eu ir!~
+@49   = ~Pobre Annie... O que serÃ¡ dela... *soluÃ§o*~
+@50   = ~O que... o que vocÃª *fez*?! Annie!~
+@51   = ~O que vocÃª estÃ¡ fazendo aqui? DesÃ§a e lembre-o do nosso acordo. Isto Ã© *meu* e abaixo Ã© *seu*. E diga a ele que quero um chÃ¡! Agora vÃ¡!~
+@52   = ~PeÃ§o desculpas, meu senhor.~
+@53   = ~Ok, estou saindo.~
+@54   = ~Acabamos de conversar com sua esposa e ela disse...~
+@55   = ~Espere! Espere! NÃ³s... *suspiro* vocÃª nos deu muito dinheiro, muita ajuda. Foram 500 *suspiro* 500 peÃ§as de ouro que combinamos!~
+@56   = ~Ah, vocÃª de novo! Ã‰ bom ver um rosto amigÃ¡vel. Seu amigo gostou do colar?~
+@57   = ~Quem diria que foi Annie quem pegou o colar!~
+@58   = ~Sua esposa estÃ¡ chorando lÃ¡ embaixo... Tem certeza que nÃ£o quer pegar algum dinheiro e acabar com isso?~
+@59   = ~Tem certeza que nÃ£o quer dinheiro?~
+@60   = ~Tenho a impressÃ£o, depois de conversar com sua esposa, que ela pensa que *vocÃª* estÃ¡ escondendo o colar!~
+@61   = ~Pense em perguntar a ele sobre o chÃ¡!~
+@62   = ~VocÃª perdeu alguma coisa?~
+@63   = ~VocÃª Ã© surdo? Agora desÃ§a com ela. HÃ¡ *hÃ¡* espaÃ§o suficiente no tÃ©rreo.~
+@64   = ~Eu... ok, tchau.~
+@65   = ~Humpf. VocÃª pensarÃ¡ que *hÃ¡* espaÃ§o suficiente no tÃ©rreo.~
+@66   = ~Oh, nÃ£o tente isso comigo. Sabemos perfeitamente que *ela* estÃ¡ escondendo isso! Diga a ele que isso nÃ£o o levarÃ¡ a lugar nenhum. Temos que vendÃª-lo!~
+@67   = ~VocÃª perdeu alguma coisa?~
+@68   = ~Ah! Acho que todo mundo jÃ¡ sabe disso. Ã‰ constrangedor vender seus bens porque... vocÃª nÃ£o tem dinheiro suficiente? NÃ£o tenho culpa se um cavalo pisou nos meus pÃ©s. Agora por favor! Quero descansar um pouco. Adeus.~
+@69   = ~Podemos ajudÃ¡-lo de alguma forma?~
+@70   = ~Claro. Adeus.~
+@71   = ~Sim. VÃ¡ atÃ© ela e diga para ela parar de esconder isso! Adeus.~
+@72   = ~Perdido? Sim, estÃ¡ realmente perdido! Minha querida esposa estÃ¡ escondendo o Ãºltimo bem que nos teria salvado de perder a casa... Oh meu Deus, estou conversando com um completo estranho sobre meus problemas financeiros! Ã‰ melhor vocÃª ir agora. Adeus!~
+@73   = ~Isso Ã© ridÃ­culo! Por que eu deveria fazer aquilo? Para ser mais preciso, atualmente Ã© dele, uma antiga joia de famÃ­lia... *suspiro* NÃ£o Ã© fÃ¡cil para um homem admitir que nÃ£o Ã© capaz de dar Ã  sua famÃ­lia o que ela precisa. Ela concordou em vender as pÃ©rolas. Minha Margareth Ã© realmente uma mulher muito corajosa! Mas *suspiro* ele de alguma forma mudou de ideia e agora se foi. NÃ£o falo com ela hÃ¡ uma semana! Esta situaÃ§Ã£o Ã© insuportÃ¡vel. Por favor, deixe um velho com sua tristeza. Tenha um bom dia.~
+@74   = ~Se o que vocÃª perdeu foi apenas dinheiro, talvez eu pudesse te dar algum?~
+@75   = ~Adeus.~
+@76   = ~Huh? Ah, obrigado por essa... er, oferta amigÃ¡vel. Mas ela nunca vai aceitar isso, minha Margareth... NÃ£o, ela nÃ£o vai.~
+@77   = ~*suspiro* Veja, nÃ£o Ã© tÃ£o fÃ¡cil assim? NÃ£o Ã© certo recebermos dinheiro de estranhos porque nÃ£o temos dinheiro para o contrato. Ã‰ muito tentador, mas nÃ£o Ã© tÃ£o simples. *suspiro*~
+@78   = ~Havia 100 peÃ§as de ouro extras na minha bolsa depois que vocÃª saiu... Isso foi obra sua? VocÃª Ã© muito gentil e generoso, mas nÃ£o podemos aceitar uma doaÃ§Ã£o de tanto dinheiro.~
+@79   = ~NÃ£o Ã© uma doaÃ§Ã£o. Ofereci-lhe 600 peÃ§as de ouro porque acredito que Ã© exatamente essa a quantia que vale o colar. NÃ£o vou discutir com vocÃª na frente de sua esposa, mas nÃ£o hÃ¡ como vocÃª me devolver essas 100 moedas de ouro, jÃ¡ que elas pertencem a vocÃª, bom homem.~
+@80   = ~Tem certeza? Vejo que vocÃª realmente precisa desse dinheiro e tenho o suficiente para mim.~
+@81   = ~*suspiro* Bem, entÃ£o me devolva.~
+@82   = ~Havia 50 peÃ§as de ouro extras na minha bolsa depois que vocÃª saiu... Isso foi obra sua? VocÃª Ã© muito gentil e generoso, mas nÃ£o podemos aceitar uma doaÃ§Ã£o de tanto dinheiro.~
+@83   = ~NÃ£o Ã© uma doaÃ§Ã£o. Ofereci-lhe 550 peÃ§as de ouro porque acredito que Ã© exatamente essa a quantia que vale o colar. Bem, sua contraproposta era 500, entÃ£o deixamos no meio. NÃ£o vou discutir com vocÃª na frente de sua esposa, mas nÃ£o hÃ¡ como vocÃª me devolver essas 50 moedas de ouro, jÃ¡ que elas pertencem a vocÃª, bom homem.~
+@84   = ~Estamos em dÃ­vida com vocÃª. Que os deuses possam ir com vocÃª.~
+@85   = ~NÃ£o hÃ¡ dÃºvida. Estamos em dÃ­vida com vocÃª. Pegue o dinheiro novamente e que os deuses possam ir com vocÃª.~
+@86   = ~Ah, nÃ£o, nÃ£o... quero dizer... SÃ©rio...?~
+@87   = ~VocÃª vÃª, nÃ£o hÃ¡ lÃ¡grimas em meus olhos. Acho que coloquei um pouco de areia dentro de mim quando corri para alcanÃ§ar vocÃª. VocÃª Ã© algo especial, jovem, estou lhe dizendo. Mas o que vocÃª disse faz sentido... Espero que ele se lembre atÃ© chegar em casa e contar para Margareth... Ou talvez ele nÃ£o conte para ela, e a surpreenda mais tarde...~
+@88   = ~Estamos em dÃ­vida com vocÃª. EntÃ£o eu ficarei com o dinheiro... Que os deuses estejam com vocÃª!~
+@89   = ~Bem, vamos ver alguÃ©m que conhecemos em particular... Nem sempre Ã© bom pedir dinheiro a pessoas que vocÃª conhece, mas Ã©...~
+@90   = ~Meu Deus, vocÃª quer contar cada detalhe da nossa pobreza?~
+@91   = ~Estamos muito gratos pelo que vocÃª fez por nÃ³s, mas precisamos de algum tempo para conversar sobre os procedimentos que precisam ser feitos agora... PeÃ§o desculpas, mas estamos bastante preocupados agora.~
+@92   = ~Lamento interferir tanto em seus problemas particulares, mas atualmente estou procurando um colar de pÃ©rolas para um, uh... amigo. VocÃª me venderia o colar por... digamos, 600 peÃ§as de ouro?~
+@93   = ~Bem, espero que esteja tudo bem. Tenha um bom dia.~
+@94   = ~Sim, claro. Adeus.~
+@95   = ~600 peÃ§as de ouro?! Isso Ã©... isso Ã© muito mais do que conseguirÃ­amos com outro vendedor.~
+@96   = ~Muito obrigado, Ã© uma oferta muito honrosa. Embora nÃ£o queiramos que isso seja um incÃ´modo para vocÃª. NÃ³s...~
+@97   = ~Margareth, o que vocÃª estÃ¡ dizendo? VocÃª nÃ£o ouviu o que eu disse? Por que nÃ£o deverÃ­amos vendÃª-lo agora? De qualquer forma, nÃ£o podemos comprÃ¡-lo de volta de Edgar.~
+@98   = ~Querida, por favor. Eu nÃ£o sou estÃºpido o suficiente para pensar...~
+@99   = ~Margareth, venha aqui um momento.~
+@100  = ~*sussurra* ...o dinheiro diretamente e... *murmura* ...vocÃª nunca saberÃ¡ se Edgar... *sussurra*...~
+@101  = ~Sim, mas *sussurra*...~
+@102  = ~Margareth, por favor *sussurra*... Annie, mm?~
+@103  = ~Bem *sussurra* *soluÃ§o* VocÃª estÃ¡ tÃ£o certo, querido. Mas apenas *sussurra*...~
+@104  = ~VocÃª Ã© a mais sÃ¡bia de todas, amada esposa. Ã‰ exatamente assim que faremos.~
+@105  = ~Ok. Finalmente decidimos aceitar a sua oferta, mas nÃ£o pelos 600 que nos ofereceu. SerÃ£o quinhentos. Ainda Ã© uma oferta muito generosa para nÃ³s, e estamos muito conscientes do fato de que vocÃª sabe disso... *ahem*.~
+@106  = ~Que conforto. E aqui pensei que teria que procurar eternamente por um colar de pÃ©rolas!~
+@107  = ~Se vocÃª decidiu, nÃ£o discutirei com vocÃª.~
+@108  = ~Sim, sim, vamos acabar com isso.~
+@109  = ~Ah, acho que nÃ£o tenho dinheiro suficiente agora. Vou voltar mais tarde!~
 
-@111  = ~¡Mamá!~
-@112  = ~¡Papá!~
-@113  = ~¿Quienes sois? ¡Estáis asustados!~
-@114  = ~¿Todavía tenéis el collar? ¿Lo puedo ver?~
-@115  = ~¡Mamá no está tan enfadada como creía! Lo único malo es que ahora el collar será vendido...~
-@116  = ~¡No quería hacer daño a nadie!~
-@117  = ~Oh, pobre niña. Silencio, todo va a salir bien. Esconder el collar no ayuda, Annie. Ves a dentro y devuélvelo. Algunas cosas se tienen que hacer aunque duela.~
-@118  = ~¿*Todavía* lloráis?~
-@119  = ~¿Habéis hablado de nuevo con mis padres, no?~
-@120  = ~Efectivamente. ¿seguro que no sabéis nada del collar perdido, Annie?~
-@121  = ~No quiero hablar con vos, chica.~
-@122  = ~Annie, según lo que ha dicho tu madre, tengo la impresión de que "alguien" cogió el collar de su sitio es noche en particular... ¿No creéis que es el momento de devolvérselo a vuestra madre?~
-@123  = ~*suspiro* ¡Ojalá Mamá y Papá dejaran de discutir!~
-@124  = ~¡Habéis estado en nuestra casa! ¿Habéis hablado con mis padres?~
-@125  = ~Efectivamente *hablé* con vuestros padres... Parece que hayan perdido algo.~
-@126  = ~¿Y vos sois...?~
-@127  = ~He hablado con vuestra madre... Parece que desde hace poco vuestros padres no se llevan bien entre ellos.~
-@128  = ~He hablado con vuestro padre... Parece que desde hace poco vuestros padres no se llevan bien entre ellos.~
-@129  = ~¿Yo? Yo... soy Annie, ¿por qué lo preguntáis?~
-@130  = ~No, ellos no... *suspiro* ¡Ojalá Mamá y Papá dejaran de discutir!~
-@131  = ~Si-i... ¿Os dijeron eso? ¿Qué dijeron?~
-@132  = ~Honestamente, no me lo dijeron. Me lo imaginé de lo que decían. ¿Sabéis algo de eso?~
-@133  = ~Si, me lo dijeron. ¡Decidme lo que sepáis!~
-@134  = ~No importa. No quiero hablar con vos, chica.~
-@135  = ~Mamá dijo que necesitábamos algo de dinero para la casa... Pero perdimos el collar que podía venderse.~
-@136  = ~¡Ah, así que es un *collar*! Bueno, tengo la impresión que tanto tu papá como tu mamá creen que el uno se lo oculta al otro... ¿Tenéis alguna idea de dónde podría estar?~
-@137  = ~¿Yo? No... no, ¿debería?~
-@138  = ~Supongo que no importa.~
-@139  = ~¡No os creo! ¡No se lo contarían a nadie!~
-@140  = ~De acuerdo, de acuerdo. No me lo dijeron. Me lo imaginé de lo que decían. ¿Sabéis algo de eso?~
-@141  = ~Pero yo.. yo.. *sollozo* ¡No *quiero* que se venda el collar! Es el último recuerdo que tenemos de la Abuela y yo.. yo.. creía que pensarían otra forma y *sollozo* lo cogí cuando estaban durmiendo y ahora están tan enfadados y todo va tan mal... *sollozo*~
-@142  = ~¡Oh *cielos*! ¡Otra mujer llorona! ¡No puedo resistirlo!~
-@143  = ~Qui.. *sollozo* Quizás tengáis razón. ¡Oh, espero que mamá no esté demasiado enfadada!~
-
-
-@147   = ~¡Vos! No... ¡Cogisteis el collar de nuestra hija, verdad! No podemos probar nada, pero creo a mi hija. Soy un malvado... Tendremos que dar la casa, por que no podremos pagar la deuda. Nos marcharemos lejos para empezar de nuevo. ¡Qué pena me dais!~
-@148   = ~¿Todavía tenéis el collar? ¿Se lo daréis a Mamá, verdad?~
-@149   = ~He cambiado de idea. Mejor que llevéis el collar a vuestra madre. ¡Y hacedlo rápido!~
-@150   = ~Dadme el collar, niña. Ya... ejem, lo guardaré a recaudo hasta que vuestros padres se tranquilicen.~
-@151   = ~¿Os debería dar el collar de la Abuela?~
-@152   = ~No, mejor que no.~
-@153   = ~Si, claro. Solo imaginaos lo disgustada que estará vuestra madre cuando lo encuentre. ¡Entonces será mejor que no lo tengáis vos!~
-@154   = ~Si... si eso creéis. ¿Pero se lo daréis a Mamá, no?~
-
-@156   = ~¡Sois un canalla!~
-@157   = ~¡Cogisteis el collar! ¡Sois un malvado!~
-@158   = ~¿Porqué me contáis eso?~
-@159   = ~Aquí tenéis... vuestro collar. Fue Annie quién lo cogió.~
-
-@161   = ~¡De verdad! Y vos nos lo dais. No se como os lo montasteis para que Annie os lo diera, ¡pero estamos en deuda con vuestra honestidad!~
-@162   = ~¡Mi collar! Y... Annie, ¿decís? Oh, ¿cómo lo encontrasteis? Muchas gracias por vuestra ayuda. ¡No tenéis ni idea de como se agradece vuestra ayuda tan honesta!~
-@163   = ~Tomad, Annie, devolved el collar. Os pertenece a vos, no a mi. ¡Os lo podéis quedar como regalo!~
-@164   = ~Vos... ¿me dais el collar de la Abuela? Ooh, ¡eso es maravilloso! Se lo diré a todos mis amigos. ¡Muchas gracias!~
-@165   = ~¡Hola! Aún no he devuelto el collar a mis padres... Mamá estaba tan extraña con eso. Quizás se lo enseñe a Papá mañana.~
+@111  = ~MÃ£e! ~
+@112  = ~Pai!~
+@113  = ~Quem Ã© vocÃª? VocÃª estÃ¡ com medo!~
+@114  = ~VocÃª ainda tem o colar? Posso ver?~
+@115  = ~MamÃ£e nÃ£o estÃ¡ tÃ£o brava quanto eu pensava! A Ãºnica coisa ruim Ã© que agora o colar serÃ¡ vendido...~
+@116  = ~Eu nÃ£o queria machucar ninguÃ©m!~
+@117  = ~Oh, pobre garota. SilÃªncio, tudo vai ficar bem. Esconder o colar nÃ£o ajuda, Annie. Entre e devolva. Algumas coisas precisam ser feitas mesmo que doa.~
+@118  = ~VocÃª *ainda* estÃ¡ chorando?~
+@119  = ~VocÃª conversou com meus pais de novo, certo?~
+@120  = ~Certo. Tem certeza de que nÃ£o sabe nada sobre o colar desaparecido, Annie?~
+@121  = ~Eu nÃ£o quero falar com vocÃª, garota.~
+@122  = ~Annie, com base no que sua mÃ£e disse, tenho a impressÃ£o de que "alguÃ©m" tirou o colar de seu lugar nesta noite em particular... VocÃª nÃ£o acha que Ã© hora de devolvÃª-lo para sua mÃ£e?~
+@123  = ~*suspiro* Gostaria que mamÃ£e e papai parassem de discutir!~
+@124  = ~VocÃª esteve em nossa casa! VocÃª conversou com meus pais?~
+@125  = ~Na verdade eu *falei* com seus pais... Parece que eles perderam alguma coisa.~
+@126  = ~E vocÃª Ã©...?~
+@127  = ~Falei com sua mÃ£e... Parece que seus pais nÃ£o tÃªm se dado bem ultimamente.~
+@128  = ~Falei com seu pai... Parece que seus pais nÃ£o tÃªm se dado bem recentemente.~
+@129  = ~Eu? Eu... eu sou Annie, por que vocÃª pergunta?~
+@130  = ~NÃ£o, eles nÃ£o... *suspiro* Eu gostaria que mamÃ£e e papai parassem de discutir!~
+@131  = ~Sim, eu... Eles te contaram isso? O que eles disseram?~
+@132  = ~Honestamente, eles nÃ£o me contaram. Eu imaginei isso pelo que eles disseram. VocÃª sabe alguma coisa sobre isso?~
+@133  = ~Sim, eles me disseram. Diga-me o que vocÃª sabe!
+@134  = ~NÃ£o importa. Eu nÃ£o quero falar com vocÃª, garota.~
+@135  = ~MamÃ£e disse que precisÃ¡vamos de algum dinheiro para a casa... Mas perdemos o colar que poderia ser vendido.~
+@136  = ~Ah, entÃ£o Ã© um *colar*! Bom, tenho a impressÃ£o que tanto seu pai quanto sua mÃ£e acham que um deles estÃ¡ escondendo isso do outro... VocÃª tem alguma ideia de onde ele possa estar?~
+@137  = ~Eu? NÃ£o... nÃ£o, eu deveria?~
+@138  = ~Acho que nÃ£o importa.~
+@139  = ~Eu nÃ£o acredito em vocÃª! Eles nÃ£o contariam a ninguÃ©m!~
+@140  = ~Ok, ok. Eles nÃ£o me contaram. Eu imaginei isso pelo que eles disseram. VocÃª sabe alguma coisa sobre isso?~
+@141  = ~Mas eu.. eu.. *soluÃ§o* eu nÃ£o *quero* que o colar seja vendido! Ã‰ a Ãºltima lembranÃ§a que temos da vovÃ³ e eu... eu... pensei que eles iriam pensar em outra maneira e *soluÃ§o* percebi quando eles estavam dormindo e agora estÃ£o com tanta raiva e tudo estÃ¡ dando tÃ£o errado. .. *soluÃ§o*~
+@142  = ~Oh *Deus*! Outra mulher chorando! Eu nÃ£o consigo resistir!~
+@143  = ~Uau.. *soluÃ§o* Talvez vocÃª esteja certo. Oh, espero que mamÃ£e nÃ£o esteja muito brava!~
 
 
-/* contenido nuevo v9 */
+@147   = ~VocÃª! NÃ£o... VocÃª pegou o colar da nossa filha, nÃ©! NÃ£o podemos provar nada, mas acredito na minha filha. Eu sou malvado... Teremos que desistir da casa, pois nÃ£o conseguiremos pagar a dÃ­vida. Iremos longe para comeÃ§ar de novo. Como vocÃª sente muito por mim!
+@148   = ~VocÃª ainda tem o colar? VocÃª vai dar para a mamÃ£e, certo?~
+@149   = ~Mudei de ideia. Ã‰ melhor vocÃª levar o colar para sua mÃ£e. E faÃ§a isso rapidamente!~
+@150   = ~Me dÃª o colar, garota. Sim... aham, vou mantÃª-lo seguro atÃ© que seus pais se acalmem.~
+@151   = ~Devo te dar o colar da vovÃ³?~
+@152   = ~NÃ£o, melhor nÃ£o.~
+@153   = ~Sim, claro. Imagine como sua mÃ£e ficarÃ¡ chateada quando descobrir isso. EntÃ£o Ã© melhor vocÃª nÃ£o ter isso!~
+@154   = ~Sim... se vocÃª pensa assim. Mas vocÃª vai dar para a mamÃ£e, certo?~
 
-//---Reacciones de los PNJ
+@156   = ~VocÃª Ã© um canalha!~
+@157   = ~VocÃª pegou o colar! VocÃª Ã© mau!~
+@158   = ~Por que vocÃª estÃ¡ me dizendo isso?~
+@159   = ~Aqui estÃ¡... seu colar. Foi Annie quem pegou.~
 
-@166 = ~MwahaHAHA! ¡Eso fue divertido! ¡Busquemos otra familia y hagamoslo de nuevo!~
-@167 = ~¡Eres taaaaan mi-je-je!~
-@168 = ~¡Se lo merecen si no pueden ayudarse a sí mismos!~
-@169 = ~¡Oh, no! ¿Estás seguro de que no hay nada que podamos hacer? Eso es malo...~
-@170 = ~¿Eso significa que ahora podemos comprar la casa por una pequeña cantidad?~
-@171 = ~¡Puedo ayudarlos a moveros con otra patada en el trasero!~
-@172 = ~Tal vez dejaron algunas cosas útiles en la casa. ¿Posiblemente tienen cosas que no pueden mover?~
-@173 = ~¡Oh, por supuesto que no! Era absolutamente imposible adivinar quién se llevó el collar. ¡Phaaaaargh, algunas personas! ~
-@174 = ~¡Y el premio por resolver acertijos es para - tachaan! - ¡<CHARNAME>! Salgamos de aquí.~
-@175 = ~Tiax no entiende lo que estamos haciendo en esta casa. ¡Esas personas no rinden homenaje al gran Tiax! ¡Ni siquiera lo miran!~
-@176 = ~No estoy seguro de lo que estamos haciendo aquí. Nada de los balbuceos de esa esposa y ese esposo tenía sentido para mí. Y la mocosa - ¡argh!~
-@177 = ~No puedo creer cómo se comportan algunas familias. ¿Por qué no podían simplemente *hablar* entre ellos?~
-@178 = ~No sería la primera familia en la que la hija juega con los padres...~
-@179 = ~Ejem. ¡Esa es una historia completamente diferente!~
-@180 = ~¡Nunca podría imaginar conservar un objeto valioso como lo hizo la chica!~
-@181 = ~No, probablemente lo mostrarías y te jactarías de él.~
-@182 = ~Conozco esa sensación. Cuando era joven, cogía objetos de valor y me los quería quedar porque también me gustaban mucho. Sin embargo, mi intención probablemente no era tan honorable como la de Annie.~
-@183 = ~*risas* Eres la pícara más honesta que he conocido, Alora.~
-@184 = ~*Yo* nunca robé joyas brillantes para mí. Siempre fueron para una chica hermosa...~
-@185 = ~Todavía estoy esperando, ya sabes, Coran...~
-@186 = ~Espero que castiguen a esa niña en consecuencia. ¡No hay excusa para amenazar la existencia de una familia así!~
-@187 = ~¡Oh, no! ¡Ojalá no lo hagan!~
-@188 = ~¡No sé por qué me importa! Superficiales y sus problemas, ¡bah!~
-@189 = ~Espero que hayan resuelto sus problemas. Sería una pena verlos en más problemas.~
-@190 = ~Es genial verlos felices y demás, pero ¿cuánto tiempo más tenemos que quedarnos en esta ciudad?~
-@191 = ~Es curioso los efectos que pueden tener la poca comunicación. Bueno, supongo que debería mantener la boca cerrada, considerando las consecuencias de hablar "demasiado" en mi caso *suspiro*.~
-@192 = ~No cedas ante los sentimientos de culpa, amigo mío. Esos bastardos nos hicieron sufrir a todos.~
-@193 = ~Ayudar a esta familia parece poco y sin importancia, pero cada buena acción inclina la balanza en la dirección correcta.~
-@194 = ~¡Me estás quitando las palabras de la boca! Trabajamos a grandes y pequeños pasos contra el mal que se extiende por la Costa de la Espada, y eso es bueno.~
-@195 = ~Hicimos una buena obra para una familia de buenas personas. Te lo agradezco, <CHARNAME>.~
-@196 = ~Debemos tener cuidado con las buenas obras que hacemos. Demasiado de cualquier cosa es un exceso.~
-@197 = ~Quería decir exactamente eso, Branwen. Tenemos que mantener el equilibrio.~
-@198 = ~ ¿Saldo? Podría dejar esas buenas acciones por completo.~
-@199 = ~Es agradable verlos tan unidos.~
-@200 = ~ Ahora que están todos unidos, bastaría con un golpe de mi hacha para acabar con ellos. ¡<CHARNAME>, di que esa era tu intención! ¡¿No vas a escuchar más estos balbuceos, verdad?!~
-@201 = ~Hay momentos en los que la mejor canción y la música más dulce no pueden ayudar, y todo se reduce a un puñado de oro puro. Er, eso es lo que pensé cuando te contraté para Silke...~
-@202 = ~Otra familia formada por miembros que fingen que se aman - ¡bah!~
-@203 = ~Ahora se ven todos felices... pero ¿cuánto vale? ¿Cuánto durará? ~
-@204 = ~Xan, en tu memoria durará toda la eternidad. ¿Memoria élfica y todo eso?~
-@205 = ~Ese recuerdo permanecerá en mi cabeza, de hecho, pero eres tonta, Imoen, al pensar que no será ahogado por cientos de malos recuerdos que comparten el mismo espacio en mi cerebro.~
-@206 = ~Ah, el corazón de Minsc brilla al ver felices a esas personas de nuevo.~
-@207 = ~Este es un buen final.~
-@208 = ~¡Oh, comprarlo sería tan guay! ¿Puedo tenerlo? ¿Por favor? ¿Por favor?~
-@209 = ~Es muy honorable estar allí en el momento adecuado, haciendo las cosas correctas...~
-@210 = ~Comprar ese collar ayudará a esas personas, aunque no estoy seguro de qué planeas hacer con él.~
-@211 = ~¿Estás seguro de que es una buena idea? Ya tenían un comprador para ese collar.~
-@212 = ~Quienquiera que sea ese "amigo" tuyo, estoy lista para llevar ese collar, si pesa demasiado para tu inventario.~
-@213 = ~Me pregunto quién será ese "amigo"...~
-@214 = ~Skie, eres muy linda.~
-@215 = ~¡Oh, gracias! *se sonroja*~
-@216 = ~*risas*~
-@217 = ~¡Oh, no! ¿No les vas a dar oro? ¡El oro siempre complica las cosas! ¡Especialmente entre amigos! ¡Wahahaa!~
-@218 = ~Mejor dame todo tu oro, Xzar, para hacer las cosas más sencillas y directas!~
-@219 = ~<CHARNAME>, tengo un par de cosas que también me gustaría venderte, si tienes tiempo...~
-@220 = ~El intento de darles felicidad es en vano, <CHARNAME>. Guarda tu oro. Aunque no sabría para qué... *suspiro*~
-@221 = ~Hm, dudo que esto haya sucedido por accidente... *sonríe*~
-@222 = ~¿Hiciste eso? <CHARNAME>, te honro.~
-@223 = ~¿Por qué siempre aquellos que lo necesitan y lo merecen son demasiado honestos para quedárselo?~
-@224 = ~Algunas personas son demasiado honestas para este mundo.~
-@225 = ~¡Algunas personas son demasiado orgullosas para este mundo!~
-@226 = ~Algunas personas son demasiado estúpidas para este mundo, si me lo preguntas a mi.~
-@227 = ~¿Podemos darle otros 100 de oro, solo por su honestidad?~
-@228 = ~No a todas las personas les gusta recibir donaciones.~
-@229 = ~Algunas personas son d-demasiado orgullosas para aceptar ayuda... ¿No es así, Jaheira?~
-@230 = ~Estamos hablando de esta familia, ¿sí?~
-@231 = ~Por supuesto.~
-@232 = ~¡Qué tonto! Podría tener oro de más, ¡y lo trajo de vuelta! ~
-@233 = ~Él entendió la insignificancia de su existencia, al igual que todos nosotros.~
-@234 = ~¡¡Estoy muy contento de que lo recupere!!~
-@235 = ~<CHARNAME>, la próxima vez que tengas demasiado oro, solo dánoslo.~
-@236 = ~Me gustó el collar, ¡pero eso es aún mejor! ¿Viste la mirada en sus ojos? ~
-@237 = ~¡Ojos de niños felices! Oh, eso es maravilloso, Bu-bú, ¿no crees?~
-@238 = ~Sé que tenías buenas intenciones, pero no puedo soportar más exclamaciones de alegría y felicidad.~
-@239 = ~¡Oh, no! Si tengo que enfrentarme a alguna de esas buenas obras pronto, comenzaré a ahogar bolas de fuego.~
-@240 = ~¡Espero que lo hayas tomado para dárselo tú mismo a los padres, <CHARNAME>!~
-@241 = ~Démonos prisa y llevemos el collar a los padres. Entiendo que lo necesitan con bastante urgencia.~
-@242 = ~Er, vamos a devolverlo, ¿verdad?~
-@243 = ~Déjame echarle un vistazo - hm, eso es muy bueno, de hecho. ¡Debería valer algo, si sabes a lo que me refiero!~
-@244 = ~Los niños son tan confiados.~
-@245 = ~¡Los niños son tan confiados que me rompe el corazón!~
-@246 = ~Oh, querido Xzar, ¡no llores! ¡El mundo es mezquino y sin corazón!~
-@247 = ~¡Tú eres mi consuelo!~
-@248 = ~Aquí está...~
-@249 = ~Estamos muy agradecidos por su ayuda.~
+@161   = ~SÃ©rio! E vocÃª dÃ¡ para nÃ³s. NÃ£o sei como vocÃª conseguiu que Annie lhe desse isso, mas estamos em dÃ­vida com sua honestidade!
+@162   = ~Meu colar! E... Annie, vocÃª disse? Ah, como vocÃª descobriu isso? Muito obrigado pela sua ajuda. VocÃª nÃ£o tem ideia do quanto sua ajuda honesta Ã© apreciada!~
+@163   = ~Aqui, Annie, devolva o colar. Pertence a vocÃª, nÃ£o a mim. VocÃª pode mantÃª-lo como um presente!~
+@164   = ~VocÃª pode... me dar o colar da vovÃ³? Ah, isso Ã© maravilhoso! Vou contar a todos os meus amigos. Muito obrigado! ~
+@165   = ~OlÃ¡! Ainda nÃ£o devolvi o colar aos meus pais... MamÃ£e ficou tÃ£o estranha com isso. Talvez eu mostre ao papai amanhÃ£.~
+
+
+/* conteudo novo v9 */
+
+//---ReaÃ§Ãµes dos NPCs
+
+@166 = ~MwahaHAHA! Isso foi divertido! Vamos encontrar outra famÃ­lia e fazer isso de novo!~
+@167 = ~VocÃª Ã© tÃ£Ã£Ã£ooo mee-hee-hean!~
+@168 = ~Eles merecem se nÃ£o conseguem se conter!~
+@169 = ~Ah, nÃ£o! Tem certeza de que nÃ£o hÃ¡ nada que possamos fazer? Isso Ã© ruim...~
+@170 = ~Isso significa que agora podemos comprar a casa por uma pequena quantia?~
+@171 = ~Posso te ajudar a se mover com outro chute na bunda!~
+@172 = ~Talvez eles tenham deixado algumas coisas Ãºteis pela casa. Possivelmente eles tÃªm coisas que nÃ£o podem mover?~
+@173 = ~Ah, claro que nÃ£o! Era absolutamente impossÃ­vel adivinhar quem pegou o colar. Paaaargh, algumas pessoas! ~
+@174 = ~E o prÃªmio por resolver quebra-cabeÃ§as vai para - tachaan! - <CHARNAME>! Vamos sair daqui.~
+@175 = ~Tiax nÃ£o entende o que estamos fazendo nesta casa. Essa gente nÃ£o presta homenagem ao grande Tiax! Eles nem olham para isso!
+@176 = ~NÃ£o tenho certeza do que estamos fazendo aqui. Nenhuma daquelas tagarelices de esposa e marido fazia sentido para mim. E o pirralho - argh!~
+@177 = ~NÃ£o acredito como algumas famÃ­lias se comportam. Por que eles nÃ£o podiam simplesmente *falar* um com o outro?~
+@178 = ~NÃ£o seria a primeira famÃ­lia em que a filha brinca com os pais...~
+@179 = ~Aham. Essa Ã© uma histÃ³ria completamente diferente!~
+@180 = ~Eu nunca poderia imaginar guardar um item valioso como a garota fez!~
+@181 = ~NÃ£o, vocÃª provavelmente iria exibi-lo e se gabar disso.~
+@182 = ~Eu conheÃ§o esse sentimento. Quando eu era jovem levava objetos de valor e queria guardÃ¡-los porque tambÃ©m gostava muito deles. No entanto, minha intenÃ§Ã£o provavelmente nÃ£o foi tÃ£o honrosa quanto a de Annie.~
+@183 = ~*risos* VocÃª Ã© a atrevida mais honesta que jÃ¡ conheci, Alora.~
+@184 = ~*Eu* nunca roubei joias brilhantes para mim. Eles sempre foram para uma linda garota...~
+@185 = ~Ainda estou esperando, vocÃª sabe, Coran...~
+@186 = ~Espero que eles punam aquela garota de acordo. NÃ£o hÃ¡ desculpa para ameaÃ§ar a existÃªncia de uma famÃ­lia como esta!~
+@187 = ~Ah, nÃ£o! Espero que nÃ£o!~
+@188 = ~NÃ£o sei por que me importo! Superficiais e seus problemas, bah!~
+@189 = ~Espero que vocÃª tenha resolvido seus problemas. Seria uma pena vÃª-los com mais problemas.~
+@190 = ~Ã‰ Ã³timo vÃª-los felizes e tudo mais, mas quanto tempo ainda temos para ficar nesta cidade?~
+@191 = ~Ã‰ engraÃ§ado os efeitos que pouca comunicaÃ§Ã£o pode ter. Bem, acho que deveria ficar de boca fechada, considerando as consequÃªncias de falar â€œdemaisâ€ no meu caso *suspiro*.~
+@192 = ~NÃ£o ceda a sentimentos de culpa, meu amigo. Esses bastardos fizeram todos nÃ³s sofrer.~
+@193 = ~Ajudar esta famÃ­lia parece pequeno e sem importÃ¢ncia, mas toda boa aÃ§Ã£o coloca a balanÃ§a na direÃ§Ã£o certa.~
+@194 = ~VocÃª estÃ¡ tirando as palavras da minha boca! Trabalhamos em grandes e pequenos passos contra o mal que se espalha pela Costa da Espada, e isso Ã© uma coisa boa.~
+@195 = ~Fizemos uma boa aÃ§Ã£o por uma famÃ­lia de pessoas boas. Eu agradeÃ§o, <CHARNAME>.~
+@196 = ~Devemos ter cuidado com as boas obras que fazemos. Muito de qualquer coisa Ã© excesso.~
+@197 = ~Eu quis dizer exatamente isso, Branwen. Temos que manter o equilÃ­brio.~
+@198 = ~ EquilÃ­brio? Eu poderia desistir completamente dessas boas aÃ§Ãµes.~
+@199 = ~Ã‰ bom vÃª-los tÃ£o unidos.~
+@200 = ~ Agora que estÃ£o todos unidos, bastaria um golpe do meu machado para acabar com eles. <CHARNAME>, diga que essa era sua intenÃ§Ã£o! VocÃª nÃ£o vai mais ouvir esse balbucio, vai?!~
+@201 = ~HÃ¡ momentos em que a melhor mÃºsica e a mÃºsica mais doce nÃ£o podem ajudar, e tudo se resume a um punhado de ouro puro. Er, foi isso que pensei quando contratei vocÃª para Silke...~
+@202 = ~Outra famÃ­lia formada por membros que fingem se amar - bah!~
+@203 = ~Agora todos parecem felizes... mas quanto vale isso? Quanto tempo vai durar?~
+@204 = ~Xan, na sua memÃ³ria durarÃ¡ por toda a eternidade. MemÃ³ria Ã©lfica e tudo mais?
+@205 = ~Essa memÃ³ria permanecerÃ¡ na minha cabeÃ§a, de fato, mas vocÃª Ã© tolo, Imoen, em pensar que ela nÃ£o serÃ¡ abafada por centenas de lembranÃ§as ruins compartilhando o mesmo espaÃ§o em meu cÃ©rebro.~
+@206 = ~Ah, o coraÃ§Ã£o do Minsc brilha ao ver aquelas pessoas felizes novamente.~
+@207 = ~Este Ã© um bom final.~
+@208 = ~Oh, comprar seria tÃ£o legal! Eu posso ficar com isso? Por favor? Por favor?~
+@209 = ~Ã‰ muito honroso estar lÃ¡ na hora certa, fazendo as coisas certas...~
+@210 = ~Comprar aquele colar vai ajudar essas pessoas, embora eu nÃ£o tenha certeza do que vocÃª planeja fazer com ele.~
+@211 = ~Tem certeza de que Ã© uma boa ideia? Eles jÃ¡ tinham comprador para aquele colar.~
+@212 = ~Quem quer que seja esse seu "amigo", estou pronto para usar esse colar, se for muito pesado para o seu inventÃ¡rio.~
+@213 = ~Eu me pergunto quem Ã© esse "amigo"...~
+@214 = ~Skie, vocÃª Ã© muito fofo.~
+@215 = ~Ah, obrigado! *cora*~
+@216 = ~*risos*~
+@217 = ~Ah, nÃ£o! VocÃª nÃ£o vai dar ouro a eles? O ouro sempre complica as coisas! Principalmente entre amigos! Uauhaa!~
+@218 = ~Melhor me dar todo o seu ouro, Xzar, para tornar as coisas mais simples e diretas!~
+@219 = ~<CHARNAME>, tenho algumas coisas que gostaria de vender para vocÃª tambÃ©m, se tiver tempo...~
+@220 = ~A tentativa de dar felicidade a eles Ã© em vÃ£o, <CHARNAME>. Salve seu ouro. Embora eu nÃ£o saiba por que... *suspiro*~
+@221 = ~Hm, duvido que isso tenha acontecido por acidente... *sorri*~
+@222 = ~VocÃª fez isso? <CHARNAME>, eu honro vocÃª.~
+@223 = ~Por que aqueles que precisam e merecem sÃ£o sempre honestos demais para mantÃª-lo?~
+@224 = ~Algumas pessoas sÃ£o honestas demais para este mundo.~
+@225 = ~Algumas pessoas sÃ£o orgulhosas demais deste mundo!~
+@226 = ~Algumas pessoas sÃ£o estÃºpidas demais para este mundo, se vocÃª me perguntar.~
+@227 = ~Podemos te dar mais 100 de ouro, sÃ³ pela sua honestidade?~
+@228 = ~Nem todas as pessoas gostam de receber doaÃ§Ãµes.~
+@229 = ~Algumas pessoas sÃ£o orgulhosas demais para aceitar ajuda... NÃ£o sÃ£o, Jaheira?~
+@230 = ~Estamos falando dessa famÃ­lia, certo?~
+@231 = ~Claro.~
+@232 = ~Que idiota! Ele pode ter ouro extra e o trouxe de volta! ~
+@233 = ~Ele entendeu a insignificÃ¢ncia de sua existÃªncia, assim como todos nÃ³s.~
+@234 = ~Estou tÃ£o feliz que vocÃª o recuperou!!~
+@235 = ~<CHARNAME>, da prÃ³xima vez que vocÃª tiver muito ouro, Ã© sÃ³ nos dar.~
+@236 = ~Gostei do colar, mas Ã© ainda melhor! VocÃª viu a expressÃ£o nos olhos dele? ~
+@237 = ~Olhos de crianÃ§a felizes! Oh, isso Ã© maravilhoso, Boo-boo, vocÃª nÃ£o acha?~
+@238 = ~Eu sei que vocÃª teve boas intenÃ§Ãµes, mas nÃ£o aguento mais exclamaÃ§Ãµes de alegria e felicidade.~
+@239 = ~Ah, nÃ£o! Se eu tiver que enfrentar alguma dessas boas aÃ§Ãµes em breve, comeÃ§arei a sufocar bolas de fogo.~
+@240 = ~Espero que vocÃª mesmo tenha levado para dar aos pais, <CHARNAME>!~
+@241 = ~Vamos nos apressar e levar o colar para os pais. Eu entendo que eles precisam disso com bastante urgÃªncia.~
+@242 = ~Er, vamos devolver, certo?~
+@243 = ~Deixe-me dar uma olhada - hm, isso Ã© muito legal, na verdade. Deve valer alguma coisa, se Ã© que vocÃª me entende!
+@244 = ~As crianÃ§as sÃ£o tÃ£o confiantes.~
+@245 = ~As crianÃ§as confiam tanto que meu coraÃ§Ã£o parte!~
+@246 = ~Oh, querido Xzar, nÃ£o chore! O mundo Ã© mesquinho e sem coraÃ§Ã£o!~
+@247 = ~VocÃª Ã© meu conforto!~
+@248 = ~Aqui estÃ¡...~
+@249 = ~Estamos muito gratos pela sua ajuda.~
 
 //Neera
-@250 = ~¿Estas personas perdieron su casa? ¡Pero no *hicimos* nada!~
+@250 = ~Essas pessoas perderam suas casas? Mas nÃ³s nÃ£o *fizemos* nada!~
 
 //Eldoth (PartyHasItem("c#q02004"))
-@251 = ~Yo *recomendaría* que nos deshagamos de la evidencia... preferiblemente sacándole algo de oro.~
+@251 = ~Eu *recomendaria* que nos livrÃ¡ssemos das evidÃªncias... de preferÃªncia tirando algum ouro delas.~
 
 //Dorn
-@252 = ~El tiempo estaba de nuestro lado. Un método muy eficaz e indoloro de destruir a los demás. Demasiado indoloro, para mi gusto.~
+@252 = ~O tempo estava do nosso lado. Um mÃ©todo muito eficaz e indolor de destruir outras pessoas. Muito indolor, para o meu gosto.~
 
 //Baeloth
-@253 = ~Yo no llamaría exactamente a la retención de una propiedad "no hacer nada", pero sí, este fue un comportamiento destructivo bastante efectivo considerando los pocos esfuerzos que tomó.~
+@253 = ~Eu nÃ£o chamaria exatamente a retenÃ§Ã£o de propriedade de "nÃ£o fazer nada", mas sim, esse foi um comportamento destrutivo bastante eficaz, considerando o pouco esforÃ§o necessÃ¡rio.~
 
 //Dorn
-@254 = ~No podría importarme menos esta gente. Vamos, ya hemos perdido suficiente tiempo.~
+@254 = ~Eu nÃ£o poderia me importar menos com essas pessoas. Vamos, jÃ¡ perdemos bastante tempo.~
 
 //Neera
-@255 = ~Te *hace* algo si la gente te mira con tanto agradecimiento. Y si es solo la voluntad de abandonar el lugar, rápido.~
+@255 = ~*Faz* alguma coisa para vocÃª se as pessoas olham para vocÃª com tanta gratidÃ£o. E se for sÃ³ vontade de sair do lugar, rÃ¡pido.~
 
 //Rasaad
-@256 = ~Ayudar a esta familia fue una buena acción, <CHARNAME>, sin importar cuán pequeña sea la acción.~
+@256 = ~Ajudar esta famÃ­lia foi uma boa aÃ§Ã£o, <CHARNAME>, nÃ£o importa quÃ£o pequena seja a aÃ§Ã£o.~
 //Neera
-@257 = ~No me siento muy cómodo con esto. Es un collar muy... *personal*.~
+@257 = ~NÃ£o me sinto muito confortÃ¡vel com isso. Ã‰ um colar muito... *pessoal*.~
 //Rasaad
-@258 = ~Entiendo por qué querías comprar el collar tú mismo, y honro tu voluntad de ver este problema resuelto en buenos términos.~
+@258 = ~Entendo por que vocÃª quis comprar o colar e honro sua disposiÃ§Ã£o de ver esse problema resolvido em boas condiÃ§Ãµes.~
 
 //Rasaad
-@259 = ~Aprecio el honor donde lo veo. Eso va por ti, <CHARNAME>. Y también para este esposo y padre. ¡Qué orgullo!~
+@259 = ~AgradeÃ§o a honra onde a vejo. Isso Ã© para vocÃª, <CHARNAME>. E tambÃ©m para este marido e pai. Que orgulho!~
  
-//Montarón
-@260 = ~Disculpad mientras me mato en esa esquina de allí.~
+//MontarÃ³n
+@260 = ~Com licenÃ§a enquanto eu me mato naquela esquina ali.~
 
 //Xzar
-@261 = ~Tú... ¿tú *le diste* a ella? ¿Al igual que... al igual que es-es-eso?~
-//Montarón
-@262 = ~No seas celoso, mago, estoy seguro de que <CHARNAME> también te quiere.~
+@261 = ~Com licenÃ§a enquanto eu me mato naquela esquina ali. VocÃª... vocÃª *bateu* nela? Tipo... assim, Ã© isso?~
+//Montaron
+@262 = ~NÃ£o fique com ciÃºmes, bruxo, tenho certeza que <CHARNAME> tambÃ©m te ama.~
 
 //Rasaad
-@263 = ~Ojos de niños que brillan alegremente. No hay *nada* más estimulante que eso.~
+@263 = ~Ojos de niÃ±os que brillan alegremente. No hay *nada* mÃ¡s estimulante que eso.~
 
 //Branwen
-@264 = ~¿Debería estar aliviado de que no tengamos suficiente oro para todas las personas que lo necesitan, o debería empezar a preocuparme? Tu interés en el bienestar de esta familia al azar es sorprendente, <CHARNAME>.~
+@264 = ~Devo ficar aliviado por nÃ£o termos ouro suficiente para todos que precisam ou devo comeÃ§ar a me preocupar? Seu interesse no bem-estar desta famÃ­lia aleatÃ³ria Ã© surpreendente, <CHARNAME>.~
 
 //Dorn
-@265 = ~Hmph. Esto podría haber sido fácil, pero ¿cuál es el punto de engañar a un niño? ¡Dame la guardia del pueblo con la queluchar!~
+@265 = ~Hmph. Isso pode ter sido fÃ¡cil, mas qual Ã© o sentido de enganar uma crianÃ§a? DÃª-me o guarda da cidade com o queluchar!~
 
-//Neera (Dorn en fiesta)
-@266 = ~Eh, no te preocupes, Dorn. Si nos quedamos con el collar, bien podría estar allí y *estará* la guardia del pueblo pisándonos los talones.~
+//Neera (Dorn na festa)
+@266 = ~Ei, nÃ£o se preocupe, Dorn. Se mantivermos o colar, ele pode muito bem estar lÃ¡ e *lÃ¡* estarÃ¡* a guarda da cidade em nosso encalÃ§o.~
 
 //Neera
-@267 = ~Hm, esto no era exactamente robar, ¿verdad? ¿Qué harás con el collar, <CHARNAME>?~
+@267 = ~Hm, isso nÃ£o foi exatamente um roubo, foi? O que vocÃª farÃ¡ com o colar, <CHARNAME>?~
 
 //Rasaad
-@268 = ~El exceso de confianza de la niña nos puso en una posición de gran responsabilidad hacia esta familia necesitada, <CHARNAME>. Espero que lo veas.~
+@268 = ~O excesso de confianÃ§a da garota nos colocou em uma posiÃ§Ã£o de grande responsabilidade para com esta famÃ­lia necessitada, <CHARNAME>. Espero que vocÃª veja.~
 
-@269 = ~Jaheira, r-recuerdas el collar que quise comprarte una vez, el del tigre...~
+@269 = ~Jaheira, r-lembra do colar que eu queria te comprar uma vez, aquele com o tigre...~
 
-@270 = ~Estaba pensando exactamente en lo mismo, Khalid. Pero no hay necesidad de dejar que todos escuchen esa historia. Ejem.~
+@270 = ~Eu estava pensando exatamente a mesma coisa, Khalid. Mas nÃ£o hÃ¡ necessidade de deixar que todos ouÃ§am essa histÃ³ria. Aham.~
