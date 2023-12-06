@@ -1,135 +1,124 @@
-@0    = ~¿Ya me liberáis? ¡Iros!~
-@1    = ~No me molestéis. Estoy rezando a mi dios.~
-@2    = ~He hablado con la madre de Luisa. Dijo que la ayudásteis a acabar con el demonio.~
-@3    = ~He tenido un encuentro extraño en la ciudad. Una niñera de Luskan habló de un niño que había desarrollado grandes poderes mágicos.~
-@4    = ~¿Vos sois el paladín caído del que hablan ahí fuera?~
-@5    = ~Por favor, decidme de nuevo que os ha pasado.~
-@6    = ~Seguro, continuad.~
-@7    = ~¡No hay piedad para un canalla como vos! ¡Me vengaré por la chica joven!~
-@8    = ~Si es el deseo de Helm, recibiré la muerte de vuestras manos. No defiendo mi vida miserable. Aunque recordad que el sacerdote de Helm lo hará.~
-@9    = ~*suspiro* Si, afuera la gente pide que me muera. Ojalá Helm diera respuesta a mis oraciones.~
-@10   = ~¿Qué ha sucedido exactamente? La gente dice que acuchillásteis a un niño.~
-@11   = ~¡Un hombre impío como vos no tiene derecho de orar en un templo!~
-@12   = ~¡Sois un canalla y voy a hacer venganza!~
-@13   = ~Lo tiene, si pide que le rescate. Sea lo que sea que pase.~
-@14   = ~Eso es lo que he hecho... Era una chica joven, con rizos marrones. Estoy seguro que su risa era tan alegre y avispada como la de un niño de su edad. Perdonadme, pero me gustaría arrodillarme y rezar a mi dios.~
-@15   = ~Solo una pregunta más. ¿Porqué lo hicisteis?~
-@16   = ~Por supuesto. Decid vuestras oraciones.~
-@17   = ~¿Qué queréis saber? He cometido el peor crimen que un hombre puede hacer: He matado una niña. ¡Dejad que suplique a mi dios para expiar mis pecados, por favor!~
-@18   = ~Lo quiero saber por que no puedo imaginar que lo hicierais a propósito. ¡Debe haber alguna equivocación!~
+@0    = ~VocÃª jÃ¡ me libertou? VÃ¡!~
+@1    = ~NÃ£o me incomode. Estou orando ao meu Deus.~
+@2    = ~Falei com a mÃ£e da Luisa. Ela disse que vocÃª a ajudou a matar o demÃ´nio.~
+@3    = ~Tive um encontro estranho na cidade. Uma babÃ¡ de Luskan contou sobre um menino que desenvolveu grandes poderes mÃ¡gicos.~
+@4    = ~VocÃª Ã© o paladino caÃ­do de quem eles estÃ£o falando?~
+@5    = ~Por favor, me conte novamente o que aconteceu com vocÃª.~
+@6    = ~Claro, continue.~
+@7    = ~Sem piedade para um canalha como vocÃª! Vou me vingar da jovem!~
+@8    = ~Se for o desejo de Helm, receberei a morte em suas mÃ£os. NÃ£o defendo minha vida miserÃ¡vel. Embora lembre-se de que o sacerdote de Helm farÃ¡ isso.~
+@9    = ~*suspiro* Sim, as pessoas lÃ¡ fora estÃ£o me pedindo para morrer. Eu gostaria que Helm respondesse Ã s minhas oraÃ§Ãµes.~
+@10   = ~O que aconteceu exatamente? As pessoas dizem que vocÃª esfaqueou uma crianÃ§a.~
+@11   = ~Um homem Ã­mpio como vocÃª nÃ£o tem o direito de orar em um templo!~
+@12   = ~VocÃª Ã© um canalha e eu vou me vingar!~
+@13   = ~Ele tem, se pedir para ser resgatado. AconteÃ§a o que acontecer.~
+@14   = ~Foi o que eu fiz... Era uma menina jovem, com cachos castanhos. Tenho certeza de que sua risada era tÃ£o feliz e inteligente quanto a de uma crianÃ§a da sua idade. Perdoe-me, mas gostaria de me ajoelhar e orar ao meu deus.~
+@15   = ~SÃ³ mais uma pergunta. Por que vocÃª fez isso?~
+@16   = ~Claro. FaÃ§a suas oraÃ§Ãµes.~
+@17   = ~O que vocÃª quer saber? Cometi o pior crime que um homem pode cometer: matei uma menina. Por favor, deixe-me implorar ao meu Deus para expiar meus pecados!~
+@18   = ~Quero saber porque nÃ£o consigo imaginar que vocÃª tenha feito isso de propÃ³sito. Deve haver algum engano!~
 //@19   
-@20   = ~Una equivocación... Quizás parezca eso, pero ¿eso importará a los padres que han perdido a su hija a la que confundí por un demonio? ¿A la gente de afuera le importa que el demonio hubiera tomado la imagen de una niña, como yo pude sentir con mis poderes sagrados, y simplemente la poseyera? ¿Mi dios comprende que hubiera podido salvar primero a la chica, desterrando al demonio con las palabras adecuadas? ¿De todas formas, qué interés tiene esto para vos?~
-@21   = ~Así que decís que habéis sido engañado por un demonio.~
-@22   = ~Es demasiado estúpido para ser cierto. Bueno, entonces seguid orando.~
-@23   = ~¡No sois digno de esos poderes sagrados! ¡Me vengaré de esa chica!~
-@24   = ~¡Ja! Engañado, si, ya. Escuchad: He fallado y matado a una niña. No voy a intentar excusar mis actos diciendo que el demonio era tan poderoso para alguien de mi altura... la altura que tengo. Fue mi defecto.~
-@25   = ~Lo que me decís tiene más sentido que la historia de un paladín furioso que están contando afuera. Os deseo que vuestro dios tenga misericordia de vos.~
-@26   = ~¡Os llenáis de auto-compasión, en vez de buscar una solución!~
-@27   = ~Bueno, seguid con vuestras oraciones.~
-@28   = ~Supongo que la línea entre el remordimiento y la auto-compasión es difusa. Pero me esfuerzo en encontrar una solución: Estoy orando a mi dios. Por favor, perdonadme.~
-@29   = ~De verdad que os lo agradezco. Pero ahora dejadme continuar con mis oraciones.~
-@30   = ~Helm bendice a la pobre mujer. Agradezco que no tenga sentimientos de odio hacia mi.~
-@31   = ~Eso... suena exactamente como lo que le sucedió a la pequeña Luisa. ¿De Luskan, decís? Quizás tenga una oportunidad de conocer a esa mujer en la Puerta de Baldur, para que me pueda dar más información. ¿Puede ser que el demonio se haya marchado a Luskan? Le encontraré. ¡Lo derrotaré! ¡Esta vez estaré preparado y salvaré la vida de la niña!~
-@32   = ~¡Gracias! Esta información me es más útil. Todo lo que os puedo ofrecer a cambio son las gracias desde lo más profundo de mi corazón. Que Helm os bendiga. Me habéis dado una nueva esperanza. Luisa fue matada con mis manos, pero encontraré a este monstruo y salvará a otra niña. Quizás... Quizás esto sea suficiente y pueda recuperar mi honor.~
+@20   = ~Um erro... Pode parecer que sim, mas isso terÃ¡ importÃ¢ncia para os pais que perderam a filha, que eles confundiram com um demÃ´nio? As pessoas de fora se importam com o fato de o demÃ´nio ter assumido a imagem de uma garota, como eu pude sentir com meus poderes sagrados, e simplesmente a possuÃ­do? SerÃ¡ que meu deus entende que ele poderia ter salvado a garota primeiro, banindo o demÃ´nio com as palavras certas? De qualquer forma, que interesse Ã© isso para vocÃª?~
+@21   = ~EntÃ£o vocÃª diz que foi enganado por um demÃ´nio.~
+@22   = ~Ã‰ estÃºpido demais para ser verdade. Bem, entÃ£o continue orando.~
+@23   = ~VocÃª nÃ£o Ã© digno desses poderes sagrados! Eu vou me vingar daquela garota!~
+@24   = ~Ah! Enganado, sim, jÃ¡. OuÃ§a: eu falhei e matei uma garota. NÃ£o vou tentar desculpar minhas aÃ§Ãµes dizendo que o demÃ´nio era poderoso demais para alguÃ©m da minha altura... da altura que eu sou. Foi meu defeito.~
+@25   = ~O que vocÃª estÃ¡ me contando faz mais sentido do que a histÃ³ria de um paladino furioso que eles estÃ£o contando lÃ¡ fora. Desejo que seu deus tenha misericÃ³rdia de vocÃª.~
+@26   = ~VocÃª se enche de autopiedade, em vez de procurar uma soluÃ§Ã£o!~
+@27   = ~Bem, continue com suas oraÃ§Ãµes.~
+@28   = ~Acho que a linha entre remorso e autopiedade Ã© confusa. Mas me esforÃ§o para encontrar uma soluÃ§Ã£o: estou rezando ao meu Deus. Por favor, me perdoe.~
+@29   = ~Eu realmente aprecio isso. Mas agora deixe-me continuar com minhas oraÃ§Ãµes.~
+@30   = ~Helm abenÃ§oe a pobre mulher. AgradeÃ§o que vocÃª nÃ£o tenha sentimentos de Ã³dio por mim.~
+@31   = ~Isso... parece exatamente com o que aconteceu com a pequena Luisa. De Luskan, vocÃª diz? Talvez eu tenha a oportunidade de conhecer aquela mulher em Baldur's Gate, para que ela possa me dar mais informaÃ§Ãµes. SerÃ¡ que o demÃ´nio foi para Luskan? Eu o encontrarei. Eu vou derrotÃ¡-lo! Desta vez estarei preparado e salvarei a vida da menina!~
+@32   = ~Obrigado! Esta informaÃ§Ã£o Ã© muito Ãºtil para mim. Tudo o que posso oferecer em troca Ã© um agradecimento do fundo do meu coraÃ§Ã£o. Que Helm o abenÃ§oe. VocÃª me deu uma nova esperanÃ§a. Luisa foi morta pelas minhas mÃ£os, mas vou encontrar esse monstro e salvar outra garota. Talvez... Talvez isso seja suficiente e eu possa recuperar minha honra.~
 //@33  - @38   
-@39   = ~¡Qué canalla!~
-@40   = ~Por los... ¡Lárgate, gamberro!~
-@41   = ~¡Debe ser colgado!~
-@42   = ~Quizás haya más en eso... nunca se sabe.~
-@43   = ~¡Este asesino todavía está dentro!~
-@44   = ~¿Dónde vivía la chica?~
-@45   = ~¡Mejor que este desgraciado no se cruce en mi camino!~
-@46   = ~¡Ja! Qué dulce. Si empiezan a hacer mi trabajo, no quedará nada para mi.~
-@47   = ~¿Habéis oído? ¡El canalla que mató a la pequeña Luisa se oculta en un templo! Era un paladín... ¡imaginaos!~
-@48   = ~¡Esto es horrible! Gracias por decírmelo.~
-@49   = ~¿Hay un asesino de niños ocultándose en el templo, un paladín caído? ¡Mejor que el desgraciado no se cruce en mi camino!~
-@50   = ~¡Si, haced que salga! ¡Que lo vean todos!~
-@51   = ~No lejos de aquí. Es una casa cerca de la entrada del palacio. Los padres han dicho que no se irán de la casa. ¡El padre ha perdido la cabeza!~
-@52   = ~¡Si se atreve que intente salir!~
-@53   = ~¡Se oculta dentro del templo como un cobarde!~
-@54   = ~¡Pobres padres!~
-@55   = ~¡Alguien como él debe ser colgado! ¡Linchad a este asesino de niños!~
-@56   = ~¿Qué sucede?~
-@57   = ~¿Hay problemas?~
-@58   = ~Venga, calmaos todos.~
-@59   = ~¡Se lo tiene bien merecido!~
-@60   = ~Ahora tiene su merecido castigo.~
-@61   = ~La vida en la ciudad ha vuelto a ser segura de nuevo, sin paladines que se vuelvan malvados.~
-@62   = ~Es triste que ocurran cosas tan malvadas. Es una pena que el sacerdote de Helm intentara defenderle.~
+@39   = ~Um erro... Pode parecer que sim, mas isso terÃ¡ importÃ¢ncia para os pais que perderam a filha, que eles confundiram com um demÃ´nio? As pessoas de fora se importam com o fato de o demÃ´nio ter assumido a imagem de uma garota, como eu pude sentir com meus poderes sagrados, e simplesmente a possuÃ­do? SerÃ¡ que meu deus entende que ele poderia ter salvado a garota primeiro, banindo o demÃ´nio com as palavras certas? De qualquer forma, que interesse Ã© isso para vocÃª?~
+@21   = ~EntÃ£o vocÃª diz que foi enganado por um demÃ´nio.~
+@22   = ~Ã‰ estÃºpido demais para ser verdade. Bem, entÃ£o continue orando.~
+@23   = ~VocÃª nÃ£o Ã© digno desses poderes sagrados! Eu vou me vingar daquela garota!~
+@24   = ~Ah! Enganado, sim, jÃ¡. OuÃ§a: eu falhei e matei uma garota. NÃ£o vou tentar desculpar minhas aÃ§Ãµes dizendo que o demÃ´nio era poderoso demais para alguÃ©m da minha altura... da altura que eu sou. Foi meu defeito.~
+@25   = ~O que vocÃª estÃ¡ me contando faz mais sentido do que a histÃ³ria de um paladino furioso que eles estÃ£o contando lÃ¡ fora. Desejo que seu deus tenha misericÃ³rdia de vocÃª.~
+@26   = ~VocÃª se enche de autopiedade, em vez de procurar uma soluÃ§Ã£o!~
+@27   = ~Bem, continue com suas oraÃ§Ãµes.~
+@28   = ~Acho que a linha entre remorso e autopiedade Ã© confusa. Mas me esforÃ§o para encontrar uma soluÃ§Ã£o: estou rezando ao meu Deus. Por favor, me perdoe.~
+@29   = ~Eu realmente aprecio isso. Mas agora deixe-me continuar com minhas oraÃ§Ãµes.~
+@30   = ~Helm abenÃ§oe a pobre mulher. AgradeÃ§o que vocÃª nÃ£o tenha sentimentos de Ã³dio por mim.~
+@31   = ~Isso... parece exatamente com o que aconteceu com a pequena Luisa. De Luskan, vocÃª diz? Talvez eu tenha a oportunidade de conhecer aquela mulher em Baldur's Gate, para que ela possa me dar mais informaÃ§Ãµes. SerÃ¡ que o demÃ´nio foi para Luskan? Eu o encontrarei. Eu vou derrotÃ¡-lo! Desta vez estarei preparado e salvarei a vida da menina!~
+@32   = ~Obrigado! Esta informaÃ§Ã£o Ã© muito Ãºtil para mim. Tudo o que posso oferecer em troca Ã© um agradecimento do fundo do meu coraÃ§Ã£o. Que Helm o abenÃ§oe. VocÃª me deu uma nova esperanÃ§a. Luisa foi morta pelas minhas mÃ£os, mas vou encontrar esse monstro e salvar outra garota. Talvez... Talvez isso seja suficiente e eu possa recuperar minha honra.~
 //@63   
-@64   = ~Perdonadnos, pero desde que murió Luisa, cerramos la puerta para evitar alborotos. ¿Qué queréis?~
-@65   = ~Siento molestaros, ahora me marcho.~
-@66   = ~¿Luisa? ¿Era vuestra hija?~
-@67   = ~Solo quería pasar por aquí. Adiós.~
-@68   = ~Todo lo que pueda coger.~
-@69   = ~Debería pedir ayuda, pero estoy muy cansada. Coged lo que encontréis. No os estorbaremos.~
-@70   = ~Eso es lo que era... Mirad a mi marido, vagando incesantemente por estas habitaciones. Ha perdido el juicio.~
-@71   = ~Siento haberos molestado, ahora me iré.~
-@72   = ~He oído lo del paladín que ha matado a nuestra hija.~
-@73   = ~He hablado con el paladín que mató a vuestra hija.~
-@74   = ~Realmente horrible. Estoy de camino.~
-@75   = ~Si, pobre Sir Dauron...~
-@76   = ~¿"Pobre Sir Dauron?" Eso no suena como si pensarais que es el culpable por lo que ha sucedido.~
-@77   = ~¡¿No estáis llenos de oído sobre lo que hizo?!~
-@78   = ~Ahora me marcho... Adiós.~
-@79   = ~Lloramos su muerte incesablemente, pero también lamento lo del paladín.~
-@80   = ~Eso es muy noble de decir por vuestra parte. No os molestaré más.~
-@81   = ~Por lo que dice la gente, parece como si la hubiera acuchillado.~
-@82   = ~Por lo que dijo Sir Dauron, estaba envuelta una fuerza demoníaca.~
-@83   = ~No, no, eso no es lo que hizo... Oh cielos, ojalá la gente dejara de decir eso.~
-@84   = ~¿Qué sucedió?~
-@85   = ~Lo siento, pero no quiero hablar de ello. La gente ya está bastante excitada sin divulgar nuevos rumores.~
-@86   = ~Entonces ahora os dejaré. Adiós.~
-@87   = ~¿Os dijo eso? ¿Qué dijo?~
-@88   = ~Que vuestra hija estaba poseída por un demonio.~
-@89   = ~No tenemos que discutir esto en detalle. Me despido de vos.~
-@90   = ~¡Por favor, os lo ruego! ¡La gente ya está tan afectada! No vayáis diciendo que nuestra hija estaba poseída por un demonio... Estoy profundamente agradecida a Sir Dauron por no usar esta excusa para defenderse contra las acusaciones.~
-@91   = ~¿Qué sucedió exactamente?~
-@92   = ~Todo empezó con Luisa... Nuestra hija de repente desarrolló poderes mágicos. Grandes poderes mágicos. Al principio creíamos que se había convertido en una hechicera...~
-@93   = ~Pero los poderes se volvieron muy fuertes, demasiado peligrosos... y se volvió malvada. Mi pobre niña... El demonio dominó su mente, como el moho cubre una rebanada de pan.~
-@94   = ~Mi marido, que vaga por la casa en busca de sus recuerdos, no me reconoce ya como su esposa, ha perdido la razón debido a los cambios. Sir Dauron vino a ayudarnos. Todos los involucrados estábamos seguros de que el demonio había tomado a nuestra hija, como un doppleganger, pero después que... la matara, no había nada más que nuestra pequeña niña. Oímos una carcajada horrible. Sir Dauron se puso blanco. Perdió su honor mientras intentaba salvarnos de esa criatura horrible.~
-@95   = ~No creáis que no estoy de luto por mi hija. He perdido a mi pequeña... pero ella... se había ido hace tiempo antes de que su cuerpo fuera acuchillado. Se transformó en un monstruo. ¿Por qué tiene que llevar Sir Dauron una carga tan pesada, cuando solo estaba intentando ayudarnos?~
-@96   = ~¿Oísteis una carcajada? ¿Queréis decir que el demonio todavía estar por aquí?~
-@97   = ~Eso es horrible. Ya veremos que sale de todo esto.~
-@98   = ~Me voy.~
-@99   = ~Los compañeros de la Orden de Sir Dauron han buscado por la ciudad, pero no encontraron rastro de él.~
-@100  = ~Gracias por compartir esto.~
-@101  = ~Creo que tenía que contárselo a alguien. Por favor, ahora dejadnos.~
-@102  = ~Perdonadme, ¿tenéis algo para darme, o para comer, o quizás algo de oro?~
-@103  = ~Claro, tomad esta moneda de oro.~
-@104  = ~¡Pobre mujer! ¿Qué os ha sucedido? No me parece que seáis un mendigo.~
-@105  = ~¡Largaos, mendigo!~
-@106  = ~¡Si, siempre es lo mismo! ¡Yo tampoco estoy de acuerdo!~
-@107  = ~¡Ja! Si, tenéis razón.~
-@108  = ~Coged esta moneda de oro.~
-@109  = ~¡Muchas gracias! Ahora ya hacen tres...~
-@110  = ~¡Si alguna vez cojo a esa mocosa! ¡Primero todos esos engaños, y después, de repente, desarrolla poderes mágicos y me teletransporta a la Puerta de Baldur! Una vez tenga bastante dinero, ¡volveré a Luskan y llevaré a toda la familia a juicio!~
-@111  = ~La gente de afuera se ha ido... Me temo que han encontrado otro objetivo a quien difamar, y con el que satisfacer su curiosidad.~
-@112  = ~Si, es divertido lo rápido que a veces se mueven a diferentes lugares, jajaja.~
-@113  = ~¿Sabéis porqué se han movido?~
-@114  = ~No quiero hablar con vos.~
-@115  = ~¿Porqué no hay nadie del Puño Llameante persiguiéndoos?~
-@116  = ~No me gusta la forma en la que habéis dicho eso. Espero de verdad que no tengáis nada que ver, aunque no se qué les podéis haber dicho para empeorar las cosas.~
-@117  = ~¡Helm se apiadará de mi, y me dará la oportunidad de probarme a mi mismo y recuperar mis poderes!~
-@118  = ~La gente pertinente sabe que ha sucedido. No hay necesidad de más actos, Helm está agradecido. La situación está bajo control. No hay evidencias de que el demonio esté en la ciudad... sino, todavía no estaría aquí. *suspiro*~
-@119  = ~No estoy seguro de que esté contento con esta situación. Si al menos las autoridades de la ciudad me hicieran pagar lo que hice... Pero eso me permite compensar mis actos, y compensado seré.~
-@120  = ~No. Estaba absorto en las oraciones.~
-@121  = ~Es divertido lo rápido que se mueven a otro lugar, ¿verdad?~
-@122  = ~¡Se arriesgan a que la ciudad se llene con demonios!~
-@123  = ~Me pregunto que parte tomaron los padres en este asunto del demonio.~
-@124  = ~¡Demonios dentro de la ciudad! Esto es increíble.~
-@125  = ~¡Imaginad que hubiera pasado si no nos hubiéramos dado cuenta!~
-@126  = ~¿SABIAIS que la chica joven estaba poseída por un DEMONIO? ¡El monstruo me lo DIJO! ¡UN DEMONIO! ¡Justo en medio de la CIUDAD!~
-@127  = ~Este no es mi problema. Lo lamento.~
-@128  = ~¡¿Un... un demonio?!~
-@129  = ~¿Estáis bromeando? Eso no tiene sentido.~
-@130  = ~Mi primo Dunn está trabajando en el Puño Llameante. Me dijo que recientemente habían visto cosas raras.~
-@131  = ~¡¿Queréis decir que esta ciudad se llenará de demonios?!~
-@132  = ~¡Y empezó en casa de Luisa! ¡Qué vergonzoso por parte de los padres, deberían haber hecho algo!~
-@133  = ~Vayamos allí y digámosles que no estamos dispuestos contribuir en esto!~
-@134  = ~Por favor, ahora iros. Aquí no sois bienvenidos.~
-@135  = ~¡¿Qué habéis hecho?! Toda esta gente enfadada nos amenaza... No hay forma de que podamos dejar esta ciudad e irnos a otro lugar, así que nos tendremos que quedar. Solo espero que se calmen. Por favor, ahora iros. Aquí no sois bienvenidos.~
-@136  = ~Lo siento, pero no iré y divulgaré los detalles. Solo estoy discutiendo lo que ha sucedido con los que ya sabéis. Espero que lo entendáis.~
+@64   = ~Perdoe-nos, mas desde que Luisa morreu, fechamos a porta para evitar transtornos. O que vocÃª quer?~
+@65   = ~Desculpe incomodar, estou saindo agora.~
+@66   = ~LuÃ­sa? Ela era sua filha?~
+@67   = ~Eu sÃ³ queria passar por aqui. Adeus.~
+@68   = ~Qualquer coisa que eu puder conseguir.~
+@69   = ~Eu deveria pedir ajuda, mas estou muito cansado. Pegue o que vocÃª encontrar. NÃ£o vamos atrapalhar vocÃª.~
+@70   = ~ Foi isso mesmo... Olha meu marido, vagando incessantemente por esses quartos. Ele perdeu a cabeÃ§a.~
+@71   = ~Me desculpe por incomodar vocÃª, vou embora agora.~
+@72   = ~Eu ouvi sobre o paladino que matou nossa filha.~
+@73   = ~Falei com o paladino que matou sua filha.~
+@74   = ~Realmente horrÃ­vel. Estou a caminho.~
+@75   = ~Sim, pobre Sir Dauron...~
+@76   = ~"Pobre Senhor Dauron?" NÃ£o parece que vocÃª acha que ele Ã© o culpado pelo que aconteceu.~
+@77   = ~VocÃª nÃ£o estÃ¡ cheio de ouvir sobre o que ele fez?!~
+@78   = ~Estou saindo agora... Tchau.~
+@79   = ~Lamentamos sua morte incessantemente, mas tambÃ©m lamento o paladino.~
+@80   = ~Ã‰ muito nobre da sua parte dizer isso. NÃ£o vou mais incomodar vocÃª.~
+@81   = ~Pelo que as pessoas dizem, parece que ele a esfaqueou.~
+@82   = ~Pelo que Sir Dauron disse, uma forÃ§a demonÃ­aca estava envolvida.~
+@83   = ~NÃ£o, nÃ£o, nÃ£o foi isso que ele fez... Nossa, eu gostaria que as pessoas parassem de dizer isso.~
+@84   = ~O que aconteceu?~
+@85   = ~Sinto muito, mas nÃ£o quero falar sobre isso. As pessoas jÃ¡ estÃ£o entusiasmadas o suficiente sem espalhar novos rumores.~
+@86   = ~EntÃ£o vou deixar vocÃª agora. Adeus.~
+@87   = ~Ele te contou isso? O que ele disse?~
+@88   = ~Que sua filha estava possuÃ­da por um demÃ´nio.~
+@89   = ~NÃ£o precisamos discutir isso em detalhes. Eu digo adeus a vocÃª.~
+@90   = ~Por favor, eu imploro! As pessoas jÃ¡ estÃ£o tÃ£o afetadas! NÃ£o saia por aÃ­ dizendo que nossa filha estava possuÃ­da por um demÃ´nio... Estou profundamente grato a Sir Dauron por nÃ£o usar essa desculpa para se defender das acusaÃ§Ãµes.~
+@91   = ~O que aconteceu exatamente?~
+@92   = ~Tudo comeÃ§ou com Luisa... Nossa filha de repente desenvolveu poderes mÃ¡gicos. Grandes poderes mÃ¡gicos. No comeÃ§o pensamos que ela tinha se tornado uma feiticeira...~
+@93   = ~Mas os poderes se tornaram muito fortes, muito perigosos... e ela se tornou mÃ¡. Minha pobre menina... O demÃ´nio dominava sua mente, como mofo cobre uma fatia de pÃ£o.~
+@94   = ~Meu marido, que vaga pela casa em busca de suas lembranÃ§as, nÃ£o me reconhece mais como sua esposa, perdeu a cabeÃ§a com as mudanÃ§as. Sir Dauron veio nos ajudar. Todos nÃ³s envolvidos tÃ­nhamos certeza de que o demÃ´nio havia levado nossa filha, como um doppleganger, mas depois que ele... a matou, nÃ£o havia nada alÃ©m de nossa garotinha. Ouvimos uma risada horrÃ­vel. Sir Dauron ficou branco. Ele perdeu a honra ao tentar nos salvar daquela criatura horrÃ­vel.~
+@95   = ~NÃ£o pense que nÃ£o estou de luto pela minha filha. Perdi minha filhinha... mas ela... jÃ¡ havia morrido antes de seu corpo ser esfaqueado. Ele se transformou em um monstro. Por que Sir Dauron tem que carregar um fardo tÃ£o pesado, quando ele estava apenas tentando nos ajudar?~
+@96   = ~VocÃª ouviu uma risada? VocÃª quer dizer que o diabo ainda estÃ¡ por aÃ­?~
+@97   = ~Isso Ã© horrÃ­vel. Veremos o que resulta de tudo isso.~
+@98   = ~Estou saindo.~
+@99   = ~Os companheiros da Ordem de Sir Dauron vasculharam a cidade, mas nÃ£o encontraram nenhum vestÃ­gio dele.~
+@100  = ~Obrigado por compartilhar isso.~
+@101  = ~Acho que precisava contar para alguÃ©m. Por favor, deixe-nos agora.~
+@102  = ~Com licenÃ§a, vocÃª tem algo para me dar, ou para comer, ou talvez algum ouro?~
+@103  = ~Claro, pegue esta moeda de ouro.~
+@104  = ~Pobre mulher! O que aconteceu com vocÃª? Eu nÃ£o acho que vocÃª seja um mendigo.~
+@105  = ~VÃ¡ embora, mendigo!~
+@106  = ~Sim, Ã© sempre igual! Eu tambÃ©m nÃ£o concordo!~
+@107  = ~Ah! Sim, vocÃª estÃ¡ certo.~
+@108  = ~Pegue esta moeda de ouro.~
+@109  = ~Muito obrigado! Agora sÃ£o trÃªs...~
+@110  = ~Se algum dia eu pegar aquele pirralho! Primeiro todos esses truques e, de repente, ele desenvolve poderes mÃ¡gicos e me teletransporta para Baldur's Gate! Assim que tiver dinheiro suficiente, voltarei para Luskan e levarei toda a famÃ­lia a julgamento!
+@111  = ~As pessoas lÃ¡ fora se foram... Receio que tenham encontrado outro alvo para difamar e com o qual satisfazer sua curiosidade.~
+@112  = ~Sim, Ã© engraÃ§ado o quÃ£o rÃ¡pido eles Ã s vezes se movem para lugares diferentes, hahaha.~
+@113  = ~VocÃª sabe por que eles se mudaram?~
+@114  = ~NÃ£o quero falar com vocÃª.~
+@115  = ~Por que ninguÃ©m do Flaming Fist estÃ¡ te perseguindo?~
+@116  = ~NÃ£o gostei do jeito que vocÃª disse isso. Eu realmente espero que vocÃª nÃ£o tenha nada a ver com isso, embora eu nÃ£o saiba o que vocÃª poderia ter dito a eles para piorar as coisas.~
+@117  = ~Helm terÃ¡ pena de mim e me darÃ¡ a chance de provar meu valor e recuperar meus poderes!~
+@118  = ~As pessoas relevantes sabem o que aconteceu. NÃ£o hÃ¡ necessidade de mais atos, Helm estÃ¡ grato. A situaÃ§Ã£o estÃ¡ sob controle. NÃ£o hÃ¡ evidÃªncias de que o demÃ´nio esteja na cidade... caso contrÃ¡rio, ele nÃ£o estaria aqui ainda. *suspiro*~
+@119  = ~NÃ£o tenho certeza se vocÃª estÃ¡ feliz com esta situaÃ§Ã£o. Se ao menos as autoridades municipais me fizessem pagar pelo que fiz... Mas isso me permite compensar minhas aÃ§Ãµes e serei compensado.~
+@120  = ~NÃ£o. Ele estava absorto em oraÃ§Ãµes.~
+@121  = ~Ã‰ engraÃ§ado o quÃ£o rÃ¡pido eles se mudam para outro lugar, certo?~
+@122  = ~Eles correm o risco de a cidade ficar cheia de demÃ´nios!~
+@123  = ~Eu me pergunto que papel os pais tiveram nesse negÃ³cio de demÃ´nios.~
+@124  = ~DemÃ´nios dentro da cidade! Isso Ã© incrÃ­vel.~
+@125  = ~Imagine o que teria acontecido se nÃ£o tivÃ©ssemos percebido!~
+@126  = ~VOCÃŠ SABIA que a jovem estava possuÃ­da por um DEMÃ”NIO? O monstro me DISSE! UM DEMÃ”NIO! Bem no meio da CIDADE!~
+@127  = ~Isso nÃ£o Ã© problema meu. Me desculpe.~
+@128  = ~Um... um demÃ´nio?!~
+@129  = ~VocÃª estÃ¡ brincando comigo? Isso nÃ£o faz sentido.~
+@130  = ~Meu primo Dunn estÃ¡ trabalhando no Flaming Fist. Ele me disse que eles tinham visto coisas estranhas recentemente.~
+@131  = ~VocÃª quer dizer que esta cidade estarÃ¡ cheia de demÃ´nios?!~
+@132  = ~E comeÃ§ou na casa da Luisa! Que vergonha dos pais, eles deveriam ter feito alguma coisa!~
+@133  = ~Vamos lÃ¡ e diga a eles que nÃ£o estamos dispostos a contribuir com isso!~
+@134  = ~Por favor, vÃ¡ agora. VocÃª nÃ£o Ã© bem-vindo aqui.~
+@135  = ~O que vocÃª fez?! Todas essas pessoas furiosas estÃ£o nos ameaÃ§ando... NÃ£o hÃ¡ como sairmos desta cidade e irmos para outro lugar, entÃ£o teremos que ficar. SÃ³ espero que eles se acalmem. Por favor, vÃ¡ agora. VocÃª nÃ£o Ã© bem-vindo aqui.~
+@136  = ~Desculpe, mas nÃ£o irei divulgar os detalhes. Estou apenas discutindo o que aconteceu com aqueles de vocÃªs que jÃ¡ sabem. Eu espero que vocÃª entenda.~
 
 
 
@@ -137,83 +126,83 @@
 
 //---Reacciones de los NPC--
 
-@137 = ~Esa sí que es una situación dura. No hay excusas, has caído por una buena razón: mataste a una niña inocente. Pero fuiste engañado y no te diste cuenta de tu acción. Helm podría perdonarte si demuestras que eres digno.~
+@137 = ~Esa sÃ­ que es una situaciÃ³n dura. No hay excusas, has caÃ­do por una buena razÃ³n: mataste a una niÃ±a inocente. Pero fuiste engaÃ±ado y no te diste cuenta de tu acciÃ³n. Helm podrÃ­a perdonarte si demuestras que eres digno.~
 @138 = ~Reza al Vigilante para que esto nunca te suceda, amigo.~
 @139 = ~Estoy muy contento de que podamos ayudar a este hombre, <CHARNAME>.~
 @140 = ~Que encuentre paz.~
-@141 = ~Ah, eso es genial. Ahora podría encontrar su perdón, después de todo. Y con suerte también podrá salvará vidas en Luskan.~
-@142 = ~Una esperanza ociosa, la esperanza del perdón.~
-@143 = ~Muy bien. Estaba pensando en si deberíamos advertir a las autoridades de Luskan sobre el peligro, pero supongo que no podríamos haber enviado a un mejor mensajero.~
-@144 = ~Espero que sea rápido. No puedo soportar pensar en lo que hará este demonio en Luskan.~
-@145 = ~Minsc teme por la joven en Luskan. ¡El paladín debería darse prisa!~
-@146 = ~¡Le deseo éxito!~
-@147 = ~Tal vez cuando esté en Luskan, pueda dedicar algo de tiempo para mejorar su apariencia... Pero, para ser honesto, aunque se veía terrible, no parecía estar sucio. Habría esperado que una persona parada en una esquina durante tanto tiempo apestara contra el viento.~
-@148 = ~Un paladín siempre tiene que cuidar su apariencia, Safana.~
-@149 = ~Sí, ¡pero su ropa estaba en un estado terrible! ¡¿Y cuándo, en medio de su remordimiento que lo abarcaba todo, encontró tiempo para lavarse y afeitarse?!~
-@150 = ~¿Pero pensé que ya no era un paladín? Me he perdido.~
+@141 = ~Ah, eso es genial. Ahora podrÃ­a encontrar su perdÃ³n, despuÃ©s de todo. Y con suerte tambiÃ©n podrÃ¡ salvarÃ¡ vidas en Luskan.~
+@142 = ~Una esperanza ociosa, la esperanza del perdÃ³n.~
+@143 = ~Muy bien. Estaba pensando en si deberÃ­amos advertir a las autoridades de Luskan sobre el peligro, pero supongo que no podrÃ­amos haber enviado a un mejor mensajero.~
+@144 = ~Espero que sea rÃ¡pido. No puedo soportar pensar en lo que harÃ¡ este demonio en Luskan.~
+@145 = ~Minsc teme por la joven en Luskan. Â¡El paladÃ­n deberÃ­a darse prisa!~
+@146 = ~Â¡Le deseo Ã©xito!~
+@147 = ~Tal vez cuando estÃ© en Luskan, pueda dedicar algo de tiempo para mejorar su apariencia... Pero, para ser honesto, aunque se veÃ­a terrible, no parecÃ­a estar sucio. HabrÃ­a esperado que una persona parada en una esquina durante tanto tiempo apestara contra el viento.~
+@148 = ~Un paladÃ­n siempre tiene que cuidar su apariencia, Safana.~
+@149 = ~SÃ­, Â¡pero su ropa estaba en un estado terrible! Â¡Â¿Y cuÃ¡ndo, en medio de su remordimiento que lo abarcaba todo, encontrÃ³ tiempo para lavarse y afeitarse?!~
+@150 = ~Â¿Pero pensÃ© que ya no era un paladÃ­n? Me he perdido.~
 @151 = ~Esa es una historia muy triste.~
-@152 = ~Sin embargo, esperaba un poco más de drama, de alguna manera.~
-@153 = ~Pero parece que todo terminará bien. ¿Crees que alguna vez descubriremos cómo terminó? ... ¿Cuán lejos está Luskan, en realidad? ~
+@152 = ~Sin embargo, esperaba un poco mÃ¡s de drama, de alguna manera.~
+@153 = ~Pero parece que todo terminarÃ¡ bien. Â¿Crees que alguna vez descubriremos cÃ³mo terminÃ³? ... Â¿CuÃ¡n lejos estÃ¡ Luskan, en realidad? ~
 @154 = ~Lo suficientemente lejos como para no preocuparnos.~
 
-@155 = ~Me pregunto si las chicas están completamente dominadas por ese demonio, o si tienen control sobre su poder... Hm, tengo que pensar en ello un poco más. ¡El aumento de poder debe ser enorme!~
-@156 = ~Debe ser un sentimiento realmente extraño, de repente tener tanto poder como esas chicas.~
-@157 = ~Esos son pensamientos ociosos. Esas pobres chicas no tienen ningún control sobre los poderes del demonio.~
-@158 = ~ ¿Adónde fue el demonio? Espero que las chicas no se den cuenta de lo que les está pasando... El demonio debe haberse apoderado por completo, o el paladín no habría podido ser engañado así.~
+@155 = ~Me pregunto si las chicas estÃ¡n completamente dominadas por ese demonio, o si tienen control sobre su poder... Hm, tengo que pensar en ello un poco mÃ¡s. Â¡El aumento de poder debe ser enorme!~
+@156 = ~Debe ser un sentimiento realmente extraÃ±o, de repente tener tanto poder como esas chicas.~
+@157 = ~Esos son pensamientos ociosos. Esas pobres chicas no tienen ningÃºn control sobre los poderes del demonio.~
+@158 = ~ Â¿AdÃ³nde fue el demonio? Espero que las chicas no se den cuenta de lo que les estÃ¡ pasando... El demonio debe haberse apoderado por completo, o el paladÃ­n no habrÃ­a podido ser engaÃ±ado asÃ­.~
 @159 = ~Como si un humano no tuviera ya suficientes demonios...~
-@160 = ~Cierto, amigo mío, muy cierto.~
-@161 = ~Ahora, ¿qué tipo de demonio debería ser ese? Nunca he oído hablar de un demonio que posea a sus víctimas de esa manera. ¡Yo, al menos, nunca he conocido a uno de esos!~
-@162 = ~Eso es porque hace bastante tiempo que no eres una niña, Xzar.~
+@160 = ~Cierto, amigo mÃ­o, muy cierto.~
+@161 = ~Ahora, Â¿quÃ© tipo de demonio deberÃ­a ser ese? Nunca he oÃ­do hablar de un demonio que posea a sus vÃ­ctimas de esa manera. Â¡Yo, al menos, nunca he conocido a uno de esos!~
+@162 = ~Eso es porque hace bastante tiempo que no eres una niÃ±a, Xzar.~
 
-@163 = ~Y se fue. Ahí va, el asesino de la niña. Al menos tenía una buena excusa.~
-@164 = ~¡Bah, brillamos de caridad y felicidad, eso me está alejando!~
-@165 = ~¿Quieres ir a Luskan?...~
+@163 = ~Y se fue. AhÃ­ va, el asesino de la niÃ±a. Al menos tenÃ­a una buena excusa.~
+@164 = ~Â¡Bah, brillamos de caridad y felicidad, eso me estÃ¡ alejando!~
+@165 = ~Â¿Quieres ir a Luskan?...~
 
-@166 = ~<CHARNAME>, ¿por qué hiciste eso?~
-@167 = ~Ahora, ¡era realmente innecesario! ¿No crees que esos pobres padres ya tienen suficientes problemas?~
-@168 = ~¡La madre pidió secreto!~
-@169 = ~Es espantoso ver cómo estás jugando con la confianza y la paz de estas personas, <CHARNAME>.~
-@170 = ~¡Ahora todos van a la casa de los p-padres!~
-@171 = ~Si no fuera una ocasión tan triste, ¡podría ser muy divertido! Eh, no. No creo que sea divertido.~
-@172 = ~¿Encuentras esto divertido? ¿Por qué le diste esa información?~
-@173 = ~¡Ja! No sabía que eras de los que bromeaban.~
-@174 = ~Oh, <CHARNAME>, ¿cómo pudiste... Los pobres, pobres padres... gnehehehehe!~
-@175 = ~¡Sí, je! ¡Rápido, vayamos a la casa de los padres y veamos cómo la mafia hace su mobbing!~
+@166 = ~<CHARNAME>, Â¿por quÃ© hiciste eso?~
+@167 = ~Ahora, Â¡era realmente innecesario! Â¿No crees que esos pobres padres ya tienen suficientes problemas?~
+@168 = ~Â¡La madre pidiÃ³ secreto!~
+@169 = ~Es espantoso ver cÃ³mo estÃ¡s jugando con la confianza y la paz de estas personas, <CHARNAME>.~
+@170 = ~Â¡Ahora todos van a la casa de los p-padres!~
+@171 = ~Si no fuera una ocasiÃ³n tan triste, Â¡podrÃ­a ser muy divertido! Eh, no. No creo que sea divertido.~
+@172 = ~Â¿Encuentras esto divertido? Â¿Por quÃ© le diste esa informaciÃ³n?~
+@173 = ~Â¡Ja! No sabÃ­a que eras de los que bromeaban.~
+@174 = ~Oh, <CHARNAME>, Â¿cÃ³mo pudiste... Los pobres, pobres padres... gnehehehehe!~
+@175 = ~Â¡SÃ­, je! Â¡RÃ¡pido, vayamos a la casa de los padres y veamos cÃ³mo la mafia hace su mobbing!~
 
-@176 = ~Pero esto sonó exactamente como lo que le pasó a Luisa, ¿no?~
-@177 = ~Lo que dijo esa mujer podría ser de interés para ese pobre paladín.~
-@178 = ~<CHARNAME>, las palabras que dijo esa mujer me sorprendieron. Por favor, vayamos al templo de Helm y digámoselo a Sir Dauron lo más rápido posible.~
+@176 = ~Pero esto sonÃ³ exactamente como lo que le pasÃ³ a Luisa, Â¿no?~
+@177 = ~Lo que dijo esa mujer podrÃ­a ser de interÃ©s para ese pobre paladÃ­n.~
+@178 = ~<CHARNAME>, las palabras que dijo esa mujer me sorprendieron. Por favor, vayamos al templo de Helm y digÃ¡moselo a Sir Dauron lo mÃ¡s rÃ¡pido posible.~
 
-@179 = ~¿Era el mismo demonio? Sus poderes deben ser realmente grandes, si puede teletransportarse a sí mismo y a esa niñera de Puerta de Baldur a Luskan y viceversa así.~
-
-//Dorn
-@180 = ~No me importan los paladines caídos que se quedan en los templos. Solo me preocupo por ellos si tengo que atravesarlos con mi espada. El demonio, sin embargo, me hubiera gustado conocerlo.~
-
-//Neera
-@181 = ~Yo... Le deseo expiación. No todos tenemos la oportunidad de hacer algo grandioso para recibirlo.~
-  //Rasaad
-@182 = ~Su dios podría haberse alejado de él, pero aun así ha sido honesto y bueno en sus pensamientos. Le deseo lo mejor.~
-
-//Baeloth
-@183 = ~¿Qué, qué? ¿Va a Luskan? ¿Él va donde está el demonio? Conozco este tipo de demonio. ¡Me alegro de que esté en Luskan! ¡Lejos, *muy* lejos!~
+@179 = ~Â¿Era el mismo demonio? Sus poderes deben ser realmente grandes, si puede teletransportarse a sÃ­ mismo y a esa niÃ±era de Puerta de Baldur a Luskan y viceversa asÃ­.~
 
 //Dorn
-@184 = ~Hmph. No me importa dónde se reúna la gente, pero preferiría que no llamaras tanto la atención sobre nuestra presencia.~
+@180 = ~No me importan los paladines caÃ­dos que se quedan en los templos. Solo me preocupo por ellos si tengo que atravesarlos con mi espada. El demonio, sin embargo, me hubiera gustado conocerlo.~
 
 //Neera
-@185 = ~Ah, ahora la multitud enojada se ha ido, qué alivio... Espera, se mudaron a la casa de los padres, ¿no? Ay, eso es malo.~
+@181 = ~Yo... Le deseo expiaciÃ³n. No todos tenemos la oportunidad de hacer algo grandioso para recibirlo.~
+  //Rasaad
+@182 = ~Su dios podrÃ­a haberse alejado de Ã©l, pero aun asÃ­ ha sido honesto y bueno en sus pensamientos. Le deseo lo mejor.~
 
 //Baeloth
-@186 = ~Hmm, ¿manipulando a las masas enojadas, <CHARNAME>? ¡Qué espectáculo! Aunque, si supieran qué tipo de demonio es ese, le agradecerían al hombre por ahuyentarlo, no molestarían a las personas involucradas.~
+@183 = ~Â¿QuÃ©, quÃ©? Â¿Va a Luskan? Â¿Ã‰l va donde estÃ¡ el demonio? Conozco este tipo de demonio. Â¡Me alegro de que estÃ© en Luskan! Â¡Lejos, *muy* lejos!~
+
+//Dorn
+@184 = ~Hmph. No me importa dÃ³nde se reÃºna la gente, pero preferirÃ­a que no llamaras tanto la atenciÃ³n sobre nuestra presencia.~
 
 //Neera
-@187 = ~Despertar en una parte totalmente diferente del mundo, sin dinero y sin saber cómo has ido a parar allí... ¡Qué angustia!~
+@185 = ~Ah, ahora la multitud enojada se ha ido, quÃ© alivio... Espera, se mudaron a la casa de los padres, Â¿no? Ay, eso es malo.~
 
 //Baeloth
-@188 = ~¡Qué jaja! ¡En Luskan es ahora! Al escuchar la historia que la mujer tenía que contar, pronto habrá otro paladín caído allí.~
+@186 = ~Hmm, Â¿manipulando a las masas enojadas, <CHARNAME>? Â¡QuÃ© espectÃ¡culo! Aunque, si supieran quÃ© tipo de demonio es ese, le agradecerÃ­an al hombre por ahuyentarlo, no molestarÃ­an a las personas involucradas.~
+
+//Neera
+@187 = ~Despertar en una parte totalmente diferente del mundo, sin dinero y sin saber cÃ³mo has ido a parar allÃ­... Â¡QuÃ© angustia!~
+
+//Baeloth
+@188 = ~Â¡QuÃ© jaja! Â¡En Luskan es ahora! Al escuchar la historia que la mujer tenÃ­a que contar, pronto habrÃ¡ otro paladÃ­n caÃ­do allÃ­.~
 
   //Rasaad
-@189 = ~La historia que contó esa pobre mujer me sonó familiar. Deberíamos volver a hablar con ese paladín caído en el templo, <CHARNAME>.~
+@189 = ~La historia que contÃ³ esa pobre mujer me sonÃ³ familiar. DeberÃ­amos volver a hablar con ese paladÃ­n caÃ­do en el templo, <CHARNAME>.~
 
 //Rasaad
-@190 = ~¿Te divertiste? Porque para ti, podría haber sido un breve momento de diversión gritar esta noticia a la multitud, ¡pero para la madre es un gran motivo de molestia! Desearía que hubieras mostrado más respeto hacia las personas que ya estaban sacudidas por el destino, ¡especialmente si te lo habían pedido!~
+@190 = ~Â¿Te divertiste? Porque para ti, podrÃ­a haber sido un breve momento de diversiÃ³n gritar esta noticia a la multitud, Â¡pero para la madre es un gran motivo de molestia! DesearÃ­a que hubieras mostrado mÃ¡s respeto hacia las personas que ya estaban sacudidas por el destino, Â¡especialmente si te lo habÃ­an pedido!~
